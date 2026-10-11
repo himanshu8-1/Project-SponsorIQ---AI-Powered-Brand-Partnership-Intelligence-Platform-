@@ -1,0 +1,1101 @@
+Brand_ID,Brand_Name,Parent_Company,Industry,Sub_Category,HQ_City,HQ_State,HQ_Country,Founded_Year,Annual_Revenue_Cr,Marketing_Spend_Cr,Sponsorship_Budget_Cr,Employee_Count,Website,Growth_Percentage,Brand_Type (B2B/B2C),Target_Audience,Global_or_Indian,Stock_Listed (Yes/No)
+BR0001,Lakme,Hindustan Unilever,Beauty & Personal Care,Cosmetics,Mumbai,Maharashtra,India,1952,4662,284.34,49.18,7764,www.lakme.com,21.8,B2C,Urban Millennials,Indian,Yes
+BR0002,Biotique,Biotique (CIL Industries),Beauty & Personal Care,Ayurvedic Skincare,Noida,Uttar Pradesh,India,1992,326,17.02,4.03,721,www.biotique.com,31.6,B2C,Families,Indian,No
+BR0003,Forest Essentials,Forest Essentials,Beauty & Personal Care,Luxury Ayurveda,New Delhi,Delhi,India,2000,625,42.83,7.87,838,www.forestessentials.com,6.8,B2C,Rural & Semi-Urban,Indian,No
+BR0004,Himalaya,Himalaya Wellness Company,Beauty & Personal Care,Herbal Personal Care,Bengaluru,Karnataka,India,1930,1564,60.18,14.42,3788,www.himalaya.com,11.4,B2C,Urban Millennials,Indian,No
+BR0005,Patanjali,Patanjali Ayurved,Beauty & Personal Care,Ayurvedic FMCG,Haridwar,Uttarakhand,India,2006,35569,1446.4,199.91,20817,www.patanjali.com,17,B2C,Working Professionals,Indian,No
+BR0006,VLCC,VLCC Health Care,Beauty & Personal Care,Beauty & Wellness Clinics,Gurugram,Haryana,India,1989,489,25.42,3.69,1607,www.vlcc.com,20.2,B2C,Mass Market,Indian,No
+BR0007,Lotus Herbals,Lotus Herbals Pvt Ltd,Beauty & Personal Care,Herbal Cosmetics,New Delhi,Delhi,India,1993,165,8.43,1.59,777,www.lotusherbals.com,25.3,B2C,Rural & Semi-Urban,Indian,No
+BR0008,Colorbar,Colorbar Cosmetics,Beauty & Personal Care,Cosmetics,Mumbai,Maharashtra,India,2004,53,4.58,0.47,301,www.colorbar.com,20.2,B2C,Working Professionals,Indian,No
+BR0009,Nykaa,FSN E-Commerce Ventures,Beauty & Personal Care,Beauty Retail & D2C,Mumbai,Maharashtra,India,2012,19900,598.13,74.25,17621,www.nykaa.com,9.7,B2C,Youth (18-30),Indian,Yes
+BR0010,Mamaearth,Honasa Consumer Ltd,Beauty & Personal Care,Natural Personal Care,Gurugram,Haryana,India,2016,1605,95.54,12.93,5829,www.mamaearth.com,27.5,B2C,Urban Millennials,Indian,Yes
+BR0011,WOW Skin Science,Fitness Foodie Company,Beauty & Personal Care,Skincare & Haircare,Mumbai,Maharashtra,India,2014,786,64.19,7.01,889,www.wowskinscience.com,11.2,B2C,Mass Market,Indian,No
+BR0012,Plum Goodness,Pureplay Skin Sciences,Beauty & Personal Care,Vegan Skincare,Mumbai,Maharashtra,India,2014,596,27.59,1.63,261,www.plumgoodness.com,22,B2C,Youth (18-30),Indian,No
+BR0013,The Man Company,Helios Lifestyle,Beauty & Personal Care,Men's Grooming,Gurugram,Haryana,India,2015,547,42.43,2.99,175,www.themancompany.com,22.6,B2C,Working Professionals,Indian,No
+BR0014,Beardo,Zed Lifestyle (Marico),Beauty & Personal Care,Men's Grooming,Jaipur,Rajasthan,India,2015,435,24.82,6.03,667,www.beardo.com,33.3,B2C,Working Professionals,Indian,No
+BR0015,Khadi Natural,Khadi Natural Healthcare,Beauty & Personal Care,Herbal Personal Care,Faridabad,Haryana,India,1990,20,1.11,0.13,315,www.khadinatural.com,31.3,B2C,Mass Market,Indian,No
+BR0016,Just Herbs,Just Herbs,Beauty & Personal Care,Ayurvedic Cosmetics,New Delhi,Delhi,India,2013,24,2.53,0.48,63,www.justherbs.com,44.8,B2C,Premium/Affluent,Indian,No
+BR0017,SUGAR Cosmetics,Vini Cosmetics,Beauty & Personal Care,Cosmetics,Mumbai,Maharashtra,India,2015,491,29.84,5.05,1416,www.sugarcosmetics.com,12.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0018,Kama Ayurveda,Kama Ayurveda Pvt Ltd,Beauty & Personal Care,Luxury Ayurveda,New Delhi,Delhi,India,2002,415,25.81,5.73,1028,www.kamaayurveda.com,14.9,B2C,Mass Market,Indian,No
+BR0019,Vaadi Herbals,Vaadi Herbals Pvt Ltd,Beauty & Personal Care,Herbal Personal Care,New Delhi,Delhi,India,2005,65,6.61,1.26,126,www.vaadiherbals.com,31.1,B2C,Urban Millennials,Indian,No
+BR0020,Richfeel,Richfeel Trichology Centre,Beauty & Personal Care,Haircare Clinics,Mumbai,Maharashtra,India,1997,69,4.23,0.25,58,www.richfeel.com,13.8,B2C,Enterprise/B2B Clients,Indian,No
+BR0021,Streax,Marico Consumer Care,Beauty & Personal Care,Hair Colour & Care,Mumbai,Maharashtra,India,1974,415,28.95,3.13,624,www.streax.com,14.4,B2C,Urban Millennials,Indian,No
+BR0022,Godrej Expert,Godrej Consumer Products,Beauty & Personal Care,Hair Colour,Mumbai,Maharashtra,India,1994,3753,180.73,39.3,3167,www.godrejexpert.com,23.1,B2C,Families,Indian,Yes
+BR0023,Parachute,Marico Ltd,Beauty & Personal Care,Hair Oil,Mumbai,Maharashtra,India,1948,28383,1185.9,272.2,22408,www.parachute.com,18.9,B2C,Premium/Affluent,Indian,Yes
+BR0024,Set Wet,Marico Ltd,Beauty & Personal Care,Men's Grooming,Mumbai,Maharashtra,India,2000,142,11.28,1.91,1838,www.setwet.com,22.5,B2C,Urban Millennials,Indian,Yes
+BR0025,Fogg,Vini Cosmetics,Beauty & Personal Care,Deodorants,Mumbai,Maharashtra,India,2011,2644,128.91,18.15,4297,www.fogg.com,26.7,B2C,Working Professionals,Indian,No
+BR0026,Wild Stone,McNROE Consumer Products,Beauty & Personal Care,Men's Deodorants,Chennai,Tamil Nadu,India,2006,406,28.41,6.47,1654,www.wildstone.com,15.3,B2C,Urban Millennials,Indian,No
+BR0027,Park Avenue,Raymond Consumer Care,Beauty & Personal Care,Men's Grooming,Mumbai,Maharashtra,India,1986,118,6.08,1.12,1912,www.parkavenue.com,22.7,B2C,Mass Market,Indian,Yes
+BR0028,Denver,JK Helene Curtis,Beauty & Personal Care,Men's Deodorants,Nagpur,Maharashtra,India,1980,800,58.87,6.12,232,www.denver.com,28.1,B2C,Youth (18-30),Indian,No
+BR0029,Engage,ITC Ltd,Beauty & Personal Care,Deodorants & Perfumes,Kolkata,West Bengal,India,2013,2776,155.63,40.96,2486,www.engage.com,27.9,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0030,Boroplus,Emami Ltd,Beauty & Personal Care,Antiseptic Cream,Kolkata,West Bengal,India,1984,544,35.15,2.4,862,www.boroplus.com,17.8,B2C,Rural & Semi-Urban,Indian,Yes
+BR0031,Navratna,Emami Ltd,Beauty & Personal Care,Cooling Hair Oil,Kolkata,West Bengal,India,1989,569,47.17,5.47,1570,www.navratna.com,20.4,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0032,Fair and Handsome,Emami Ltd,Beauty & Personal Care,Men's Fairness Cream,Kolkata,West Bengal,India,2005,670,45.19,6.37,794,www.fairandhandsome.com,13.3,B2C,Premium/Affluent,Indian,Yes
+BR0033,Vatika,Dabur India,Beauty & Personal Care,Haircare,Ghaziabad,Uttar Pradesh,India,1995,4875,225.05,41.17,1009,www.vatika.com,20.1,B2C,Working Professionals,Indian,Yes
+BR0034,Gulabari,Dabur India,Beauty & Personal Care,Rose Water,Ghaziabad,Uttar Pradesh,India,1920,47,2.98,0.27,275,www.gulabari.com,31.1,B2C,Mass Market,Indian,Yes
+BR0035,Vicco,Vicco Laboratories,Beauty & Personal Care,Ayurvedic Personal Care,Mumbai,Maharashtra,India,1952,243,16.36,3.85,1047,www.vicco.com,31.5,B2C,Working Professionals,Indian,No
+BR0036,Shahnaz Husain,Shahnaz Husain Group,Beauty & Personal Care,Herbal Cosmetics,New Delhi,Delhi,India,1977,21,2.47,0.33,142,www.shahnazhusain.com,34.3,B2C,Urban Millennials,Indian,No
+BR0037,Jovees,Jovees Herbal Care,Beauty & Personal Care,Herbal Skincare,New Delhi,Delhi,India,1985,60,5.28,0.24,78,www.jovees.com,25.1,B2C,Premium/Affluent,Indian,No
+BR0038,Mcaffeine,Sub-Culture Retail,Beauty & Personal Care,Caffeine Skincare,Delhi,Delhi,India,2016,553,26.4,6.24,747,www.mcaffeine.com,20.8,B2C,Urban Millennials,Indian,No
+BR0039,Bella Vita Organic,Bella Vita Organic,Beauty & Personal Care,Organic Personal Care,Delhi,Delhi,India,2019,47,3.97,0.44,253,www.bellavitaorganic.com,28.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0040,St.Botanica,St.Botanica,Beauty & Personal Care,Skincare & Haircare,Bengaluru,Karnataka,India,2016,27,2.5,0.39,89,www.stbotanica.com,40,B2C,Urban Millennials,Indian,No
+BR0041,Juicy Chemistry,Juicy Chemistry,Beauty & Personal Care,Organic Skincare,Coimbatore,Tamil Nadu,India,2014,80,8.73,0.77,279,www.juicychemistry.com,17.9,B2C,Mass Market,Indian,No
+BR0042,Soulflower,Soulflower,Beauty & Personal Care,Natural Personal Care,Mumbai,Maharashtra,India,2004,36,2.52,0.33,357,www.soulflower.com,26.1,B2C,Youth (18-30),Indian,No
+BR0043,Aroma Magic,Blue Nectar Corporation,Beauty & Personal Care,Aromatherapy,Delhi,Delhi,India,1997,50,4.21,0.36,298,www.aromamagic.com,22,B2C,Rural & Semi-Urban,Indian,No
+BR0044,Renee Cosmetics,Renee Cosmetics,Beauty & Personal Care,Cosmetics,Ahmedabad,Gujarat,India,2019,709,63.1,6.17,934,www.reneecosmetics.com,12.8,B2C,Enterprise/B2B Clients,Indian,No
+BR0045,Blue Nectar,Blue Nectar Corporation,Beauty & Personal Care,Ayurvedic Luxury,Mumbai,Maharashtra,India,2016,14,1.42,0.21,215,www.bluenectar.com,22.3,B2C,Youth (18-30),Indian,No
+BR0046,Foxtale,Foxtale Skincare,Beauty & Personal Care,Skincare,Bengaluru,Karnataka,India,2021,55,2.87,0.33,322,www.foxtale.com,20.3,B2C,Premium/Affluent,Indian,No
+BR0047,Minimalist,Foxtale/POCO Global (Minimalist),Beauty & Personal Care,Science-based Skincare,Jodhpur,Rajasthan,India,2020,712,44.15,6.85,1085,www.minimalist.com,6.4,B2C,Youth (18-30),Indian,No
+BR0048,Dot & Key,Blitzscale Skincare,Beauty & Personal Care,Skincare,Mumbai,Maharashtra,India,2020,387,28.15,2.28,1111,www.dotkey.com,28.7,B2C,Urban Millennials,Indian,No
+BR0049,Pilgrim,Newtry Global Ventures,Beauty & Personal Care,K-Beauty Inspired Personal Care,Gurugram,Haryana,India,2019,337,25.15,4.53,1894,www.pilgrim.com,15.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0050,Neemli Naturals,Neemli Naturals,Beauty & Personal Care,Clean Beauty,Mumbai,Maharashtra,India,2019,96,9,1.63,269,www.neemlinaturals.com,40.3,B2C,Mass Market,Indian,No
+BR0051,Traya Health,Traya Health,Beauty & Personal Care,Hair Health,Mumbai,Maharashtra,India,2021,66,4.36,0.64,167,www.trayahealth.com,44.9,B2C,Premium/Affluent,Indian,No
+BR0052,Vega,Rico Enterprises,Beauty & Personal Care,Beauty Tools & Appliances,Mumbai,Maharashtra,India,1988,404,18.14,3.21,1937,www.vega.com,8.9,B2C,Youth (18-30),Indian,No
+BR0053,Kimirica,Kimirica Overseas,Beauty & Personal Care,Luxury Hospitality Amenities,Noida,Uttar Pradesh,India,2005,73,8.21,0.31,48,www.kimirica.com,18.9,B2B,Rural & Semi-Urban,Indian,No
+BR0054,Ras Luxury Oils,Ras Luxury Oils,Beauty & Personal Care,Facial Oils,New Delhi,Delhi,India,2018,49,3.27,0.33,369,www.rasluxuryoils.com,37.3,B2C,Youth (18-30),Indian,No
+BR0055,Auravedic,Auravedic,Beauty & Personal Care,Ayurvedic Skincare,Bengaluru,Karnataka,India,2015,26,2.39,0.23,369,www.auravedic.com,16.9,B2C,Youth (18-30),Indian,No
+BR0056,Deyga Organics,Deyga Organics,Beauty & Personal Care,Organic Skincare,Coimbatore,Tamil Nadu,India,2015,31,2.92,0.32,361,www.deygaorganics.com,8.3,B2C,Working Professionals,Indian,No
+BR0057,Fixderma,Fixderma India,Beauty & Personal Care,Dermatology Skincare,Chandigarh,Punjab,India,2006,91,8.88,0.5,246,www.fixderma.com,43,B2B,Urban Millennials,Indian,No
+BR0058,Anveya,Anveya,Beauty & Personal Care,Haircare,Panipat,Haryana,India,2019,68,5.38,0.39,174,www.anveya.com,15.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0059,Chemist at Play,Chemist at Play,Beauty & Personal Care,Clean Beauty,Mumbai,Maharashtra,India,2020,87,4.99,0.47,203,www.chemistatplay.com,29.3,B2C,Urban Millennials,Indian,No
+BR0060,Alps Goodness,Alps Goodness,Beauty & Personal Care,Natural Personal Care,New Delhi,Delhi,India,2018,12,1.3,0.13,24,www.alpsgoodness.com,28.9,B2C,Mass Market,Indian,No
+BR0061,Good Vibes,Good Vibes Elements,Beauty & Personal Care,Cruelty-Free Cosmetics,Mumbai,Maharashtra,India,2017,737,56.97,12.34,1999,www.goodvibes.com,14.3,B2C,Families,Indian,No
+BR0062,Organic Harvest,Organic Harvest,Beauty & Personal Care,Organic Skincare,New Delhi,Delhi,India,2014,65,4.82,0.67,337,www.organicharvest.com,17.3,B2C,Youth (18-30),Indian,No
+BR0063,Naturally Yours,The Body Cupid,Beauty & Personal Care,Vegan Beauty,Ahmedabad,Gujarat,India,2018,67,7.53,1.05,178,www.naturallyyours.com,37.2,B2C,Mass Market,Indian,No
+BR0064,Aroma Treasures,Aroma Treasures,Beauty & Personal Care,Aromatherapy,Pune,Maharashtra,India,2005,62,6.3,0.29,171,www.aromatreasures.com,20.1,B2C,Enterprise/B2B Clients,Indian,No
+BR0065,RAAGA Professional,Bella Cosmetics,Beauty & Personal Care,Salon Haircare,Delhi,Delhi,India,2010,26,1.53,0.19,207,www.raagaprofessional.com,27.6,B2B,Urban Millennials,Indian,No
+BR0066,Green Trap,Green Trap Beauty,Beauty & Personal Care,Vegan Cosmetics,Mumbai,Maharashtra,India,2018,85,5.76,0.98,266,www.greentrap.com,43.8,B2C,Urban Millennials,Indian,No
+BR0067,Bare Anatomy,Bare Anatomy,Beauty & Personal Care,Customised Haircare,New Delhi,Delhi,India,2019,77,5.69,0.28,58,www.bareanatomy.com,13.2,B2C,Families,Indian,No
+BR0068,Satliva,Satliva,Beauty & Personal Care,CBD/Hemp Personal Care,Ahmedabad,Gujarat,India,2018,87,8.8,1.73,305,www.satliva.com,21.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0069,Kapiva,Kapiva Ayurveda,Beauty & Personal Care,Ayurvedic Wellness,Mumbai,Maharashtra,India,2016,110,7.33,1.03,1527,www.kapiva.com,27.7,B2C,Urban Millennials,Indian,No
+BR0070,Dr Vaidya's,Vedix Wellness Pvt Ltd,Beauty & Personal Care,Ayurvedic Products,New Delhi,Delhi,India,2017,63,6.73,1.28,75,www.drvaidyas.com,33,B2C,Working Professionals,Indian,No
+BR0071,Vedix,The Good Glamm Group,Beauty & Personal Care,Customised Ayurveda,Bengaluru,Karnataka,India,2019,118,9.89,1.6,1399,www.vedix.com,12.4,B2C,Premium/Affluent,Indian,No
+BR0072,Sirona Hygiene,Sirona Hygiene Pvt Ltd,Beauty & Personal Care,Feminine Hygiene,Gurugram,Haryana,India,2015,67,5.54,0.83,352,www.sironahygiene.com,23.1,B2C,Youth (18-30),Indian,No
+BR0073,Nua Woman,Nua (Livpure Group),Beauty & Personal Care,Feminine Care,Mumbai,Maharashtra,India,2018,14,0.74,0.15,79,www.nuawoman.com,11.6,B2C,Youth (18-30),Indian,No
+BR0074,Pee Safe,Redcliffe Hygiene,Beauty & Personal Care,Hygiene Products,Gurugram,Haryana,India,2016,372,21.79,5.23,1576,www.peesafe.com,33.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0075,Enrich Salons,Enrich Salon Pvt Ltd,Beauty & Personal Care,Salon & Spa,Mumbai,Maharashtra,India,2004,63,6.34,1.14,355,www.enrichsalons.com,11.7,B2C,Working Professionals,Indian,No
+BR0076,Naturals Salon,Naturals Beauty Salon,Beauty & Personal Care,Salon & Spa,Chennai,Tamil Nadu,India,2000,531,46.17,4.89,1563,www.naturalssalon.com,16.7,B2C,Working Professionals,Indian,No
+BR0077,Lakme Salon,Hindustan Unilever,Beauty & Personal Care,Salon & Spa,Mumbai,Maharashtra,India,1998,411,21.31,2.61,1554,www.lakmesalon.com,16.7,B2C,Rural & Semi-Urban,Indian,Yes
+BR0078,Green Trends,CavinKare,Beauty & Personal Care,Unisex Salon,Chennai,Tamil Nadu,India,2001,142,7.66,1.87,1886,www.greentrends.com,29.9,B2C,Premium/Affluent,Indian,No
+BR0079,Swastikesh Beauty,Swastikesh Ventures Pvt Ltd,Beauty & Personal Care,Cosmetics,Noida,Uttar Pradesh,India,2002,564,40.65,6.89,193,www.swastikeshbeauty.com,7.5,B2C,Rural & Semi-Urban,Indian,No
+BR0080,Sattvaika Herbals,Sattvaika Ventures Pvt Ltd,Beauty & Personal Care,Beauty,New Delhi,Delhi,India,1997,271,12.52,2.04,290,www.sattvaikaherbals.com,30.1,B2C,Families,Indian,No
+BR0081,Bhoomiel Herbals,Bhoomiel Ventures Pvt Ltd,Beauty & Personal Care,Beauty,Faridabad,Haryana,India,2013,511,41.17,3.98,1735,www.bhoomielherbals.com,10.3,B2B,Mass Market,Indian,No
+BR0082,Mudrael Herbals,Mudrael Ventures Pvt Ltd,Beauty & Personal Care,Care,Thiruvananthapuram,Kerala,India,1999,294,26.23,6.49,1256,www.mudraelherbals.com,13.3,B2C,Youth (18-30),Indian,No
+BR0083,Kiaanesh Care,Kiaanesh Ventures Pvt Ltd,Beauty & Personal Care,Naturals,Chandigarh,Punjab,India,2020,177,14.74,1.13,883,www.kiaaneshcare.com,28.9,B2C,Families,Indian,No
+BR0084,Kiaanika Skin,Kiaanika Ventures Pvt Ltd,Beauty & Personal Care,Glow,Ludhiana,Punjab,India,2017,512,20.89,2.15,409,www.kiaanikaskin.com,27.5,B2B,Premium/Affluent,Indian,No
+BR0085,Shara Cosmetics,Shara Ventures Pvt Ltd,Beauty & Personal Care,Care,Bhopal,Madhya Pradesh,India,2009,77,6.43,1.04,282,www.sharacosmetics.com,30,B2C,Working Professionals,Indian,No
+BR0086,Veeraa Skin,Veeraa Ventures Pvt Ltd,Beauty & Personal Care,Wellness,Bengaluru,Karnataka,India,2012,13,2.29,0.06,178,www.veeraaskin.com,36.1,B2C,Working Professionals,Indian,No
+BR0087,Yashaan Glow,Yashaan Ventures Pvt Ltd,Beauty & Personal Care,Care,Kochi,Kerala,India,2002,16,1.36,0.2,112,www.yashaanglow.com,31.3,B2C,Premium/Affluent,Indian,No
+BR0088,Kriaa Care,Kriaa Ventures Pvt Ltd,Beauty & Personal Care,Naturals,Kolkata,West Bengal,India,2007,13,2.19,0.06,30,www.kriaacare.com,26.1,B2C,Youth (18-30),Indian,No
+BR0089,Anura Skin,Anura Ventures Pvt Ltd,Beauty & Personal Care,Wellness,Visakhapatnam,Andhra Pradesh,India,2006,146,7.85,1.39,1273,www.anuraskin.com,26.7,B2C,Enterprise/B2B Clients,Indian,No
+BR0090,Shaan Cosmetics,Shaan Ventures Pvt Ltd,Beauty & Personal Care,Cosmetics,Hyderabad,Telangana,India,2020,100,8.67,0.93,329,www.shaancosmetics.com,23.9,B2C,Premium/Affluent,Indian,No
+BR0091,Utsavus Skin,Utsavus Ventures Pvt Ltd,Beauty & Personal Care,Skin,Nagpur,Maharashtra,India,2018,697,50.56,10.3,1626,www.utsavusskin.com,31.1,B2B,Enterprise/B2B Clients,Indian,No
+BR0092,Saanviesh Skin,Saanviesh Ventures Pvt Ltd,Beauty & Personal Care,Skin,Visakhapatnam,Andhra Pradesh,India,2009,416,21.4,2.52,1078,www.saanvieshskin.com,17.6,B2B,Premium/Affluent,Indian,No
+BR0093,Vasuon Cosmetics,Vasuon Ventures Pvt Ltd,Beauty & Personal Care,Wellness,Jaipur,Rajasthan,India,1999,38,2.74,0.2,98,www.vasuoncosmetics.com,33.4,B2C,Working Professionals,Indian,No
+BR0094,Trishula Care,Trishula Ventures Pvt Ltd,Beauty & Personal Care,Skin,Bhubaneswar,Odisha,India,1998,3,0.42,0.01,34,www.trishulacare.com,47.2,B2C,Rural & Semi-Urban,Indian,No
+BR0095,Ishaanant Cosmetics,Ishaanant Ventures Pvt Ltd,Beauty & Personal Care,Wellness,Mysuru,Karnataka,India,2021,668,45.32,7.58,1300,www.ishaanantcosmetics.com,22.3,B2C,Premium/Affluent,Indian,No
+BR0096,Vantageeer Wellness,Vantageeer Ventures Pvt Ltd,Beauty & Personal Care,Glow,Kanpur,Uttar Pradesh,India,2022,47,5.22,0.99,236,www.vantageeerwellness.com,40.1,B2B,Mass Market,Indian,No
+BR0097,Prishael Skin,Prishael Ventures Pvt Ltd,Beauty & Personal Care,Naturals,Bhopal,Madhya Pradesh,India,2009,24,3.39,0.22,157,www.prishaelskin.com,35.4,B2C,Youth (18-30),Indian,No
+BR0098,Nakshatraika Care,Nakshatraika Ventures Pvt Ltd,Beauty & Personal Care,Glow,Nagpur,Maharashtra,India,2012,560,28.66,2.05,1881,www.nakshatraikacare.com,22.1,B2C,Premium/Affluent,Indian,No
+BR0099,Swastikan Glow,Swastikan Ventures Pvt Ltd,Beauty & Personal Care,Glow,Bengaluru,Karnataka,India,2022,79,7.09,1.19,307,www.swastikanglow.com,44.1,B2C,Mass Market,Indian,No
+BR0100,Brightaa Wellness,Brightaa Ventures Pvt Ltd,Beauty & Personal Care,Herbals,Bhubaneswar,Odisha,India,2020,65,6.22,0.92,34,www.brightaawellness.com,14.7,B2C,Urban Millennials,Indian,No
+BR0101,Taraora Herbals,Taraora Ventures Pvt Ltd,Beauty & Personal Care,Beauty,Chandigarh,Punjab,India,2008,93,6.93,0.42,93,www.taraoraherbals.com,29,B2C,Enterprise/B2B Clients,Indian,No
+BR0102,Bhoomiesh Beauty,Bhoomiesh Ventures Pvt Ltd,Beauty & Personal Care,Glow,Bhopal,Madhya Pradesh,India,2020,3,0.42,0.06,33,www.bhoomieshbeauty.com,47.3,B2C,Families,Indian,No
+BR0103,Sattvaus Wellness,Sattvaus Ventures Pvt Ltd,Beauty & Personal Care,Cosmetics,Visakhapatnam,Andhra Pradesh,India,2003,44,3.59,0.2,179,www.sattvauswellness.com,34.7,B2C,Premium/Affluent,Indian,No
+BR0104,Zenesh Beauty,Zenesh Ventures Pvt Ltd,Beauty & Personal Care,Wellness,Mumbai,Maharashtra,India,2019,22,2.12,0.25,22,www.zeneshbeauty.com,43.7,B2C,Urban Millennials,Indian,No
+BR0105,Vantageaa Herbals,Vantageaa Ventures Pvt Ltd,Beauty & Personal Care,Herbals,New Delhi,Delhi,India,2007,410,25.1,4.3,998,www.vantageaaherbals.com,13.9,B2C,Premium/Affluent,Indian,No
+BR0106,Lumoash Herbals,Lumoash Ventures Pvt Ltd,Beauty & Personal Care,Beauty,Bhubaneswar,Odisha,India,2001,342,15.56,2.89,1364,www.lumoashherbals.com,20.1,B2C,Urban Millennials,Indian,No
+BR0107,Sattvaan Care,Sattvaan Ventures Pvt Ltd,Beauty & Personal Care,Wellness,New Delhi,Delhi,India,2013,14,1.1,0.15,23,www.sattvaancare.com,15.6,B2C,Families,Indian,No
+BR0108,Primeika Wellness,Primeika Ventures Pvt Ltd,Beauty & Personal Care,Herbals,Bengaluru,Karnataka,India,2016,19,3.03,0.17,40,www.primeikawellness.com,10.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0109,Elevra Beauty,Elevra Ventures Pvt Ltd,Beauty & Personal Care,Care,Mysuru,Karnataka,India,2016,26,1.98,0.3,276,www.elevrabeauty.com,28.7,B2B,Rural & Semi-Urban,Indian,No
+BR0110,Kavyaora Care,Kavyaora Ventures Pvt Ltd,Beauty & Personal Care,Skin,Faridabad,Haryana,India,2007,151,12.5,0.73,188,www.kavyaoracare.com,19.3,B2C,Premium/Affluent,Indian,No
+BR0111,Kria Naturals,Kria Ventures Pvt Ltd,Beauty & Personal Care,Skin,Chennai,Tamil Nadu,India,2012,704,48.39,7.97,1603,www.krianaturals.com,24.6,B2C,Urban Millennials,Indian,No
+BR0112,Veerika Glow,Veerika Ventures Pvt Ltd,Beauty & Personal Care,Skin,Chandigarh,Punjab,India,2000,20,1.05,0.09,336,www.veerikaglow.com,25,B2C,Rural & Semi-Urban,Indian,No
+BR0113,Bhoomion Beauty,Bhoomion Ventures Pvt Ltd,Beauty & Personal Care,Cosmetics,Jaipur,Rajasthan,India,2023,162,13.3,1.31,1356,www.bhoomionbeauty.com,17.6,B2B,Premium/Affluent,Indian,No
+BR0114,Zenin Skin,Zenin Ventures Pvt Ltd,Beauty & Personal Care,Skin,Jaipur,Rajasthan,India,2017,46,3.27,0.29,190,www.zeninskin.com,36.8,B2C,Premium/Affluent,Indian,No
+BR0115,Ojasan Cosmetics,Ojasan Ventures Pvt Ltd,Beauty & Personal Care,Wellness,Visakhapatnam,Andhra Pradesh,India,1996,457,20.9,3.18,1739,www.ojasancosmetics.com,16.1,B2C,Youth (18-30),Indian,No
+BR0116,Ojaso Naturals,Ojaso Ventures Pvt Ltd,Beauty & Personal Care,Wellness,Visakhapatnam,Andhra Pradesh,India,1998,265,12.56,1.12,1383,www.ojasonaturals.com,10.4,B2C,Premium/Affluent,Indian,No
+BR0117,Amaraant Wellness,Amaraant Ventures Pvt Ltd,Beauty & Personal Care,Beauty,Visakhapatnam,Andhra Pradesh,India,1996,26,2.7,0.31,308,www.amaraantwellness.com,36.1,B2B,Working Professionals,Indian,No
+BR0118,Kavyaora Glow,Kavyaora Ventures Pvt Ltd,Beauty & Personal Care,Herbals,Coimbatore,Tamil Nadu,India,2019,71,7.97,1.11,339,www.kavyaoraglow.com,20,B2B,Rural & Semi-Urban,Indian,No
+BR0119,Rudrara Wellness,Rudrara Ventures Pvt Ltd,Beauty & Personal Care,Care,Surat,Gujarat,India,1995,206,8.93,1.24,770,www.rudrarawellness.com,29.1,B2B,Mass Market,Indian,No
+BR0120,Zenithora Glow,Zenithora Ventures Pvt Ltd,Beauty & Personal Care,Herbals,Noida,Uttar Pradesh,India,2020,9,0.82,0.07,19,www.zenithoraglow.com,12.8,B2B,Urban Millennials,Indian,No
+BR0121,Vantagera Glow,Vantagera Ventures Pvt Ltd,Beauty & Personal Care,Glow,Patna,Bihar,India,2004,3,0.47,0.06,167,www.vantageraglow.com,39.7,B2C,Enterprise/B2B Clients,Indian,No
+BR0122,Prishaen Care,Prishaen Ventures Pvt Ltd,Beauty & Personal Care,Herbals,Noida,Uttar Pradesh,India,2019,424,28.7,5.98,1984,www.prishaencare.com,7.2,B2C,Families,Indian,No
+BR0123,Sattvaith Beauty,Sattvaith Ventures Pvt Ltd,Beauty & Personal Care,Skin,Coimbatore,Tamil Nadu,India,2000,39,3.24,0.18,51,www.sattvaithbeauty.com,24.7,B2C,Rural & Semi-Urban,Indian,No
+BR0124,Utsavora Care,Utsavora Ventures Pvt Ltd,Beauty & Personal Care,Cosmetics,Thiruvananthapuram,Kerala,India,2014,25,2.18,0.23,20,www.utsavoracare.com,22.4,B2C,Working Professionals,Indian,No
+BR0125,Elevaa Skin,Elevaa Ventures Pvt Ltd,Beauty & Personal Care,Glow,New Delhi,Delhi,India,1995,99,8.6,1.15,206,www.elevaaskin.com,21.8,B2C,Urban Millennials,Indian,No
+BR0126,Kriora Care,Kriora Ventures Pvt Ltd,Beauty & Personal Care,Skin,Kochi,Kerala,India,2018,10,1.62,0.18,23,www.krioracare.com,49.5,B2C,Rural & Semi-Urban,Indian,No
+BR0127,Rohanen Skin,Rohanen Ventures Pvt Ltd,Beauty & Personal Care,Herbals,Hyderabad,Telangana,India,2008,16,0.9,0.13,165,www.rohanenskin.com,17.3,B2C,Youth (18-30),Indian,No
+BR0128,Vasuika Skin,Vasuika Ventures Pvt Ltd,Beauty & Personal Care,Herbals,Indore,Madhya Pradesh,India,2004,333,23.05,1.8,866,www.vasuikaskin.com,15,B2B,Enterprise/B2B Clients,Indian,No
+BR0129,Utsavaan Care,Utsavaan Ventures Pvt Ltd,Beauty & Personal Care,Naturals,Patna,Bihar,India,2009,22,2.15,0.1,306,www.utsavaancare.com,21.9,B2B,Rural & Semi-Urban,Indian,No
+BR0130,Mudraora Cosmetics,Mudraora Ventures Pvt Ltd,Beauty & Personal Care,Glow,Jaipur,Rajasthan,India,1997,21,3.01,0.38,199,www.mudraoracosmetics.com,59.9,B2C,Premium/Affluent,Indian,No
+BR0131,Nakshatraaa Wellness,Nakshatraaa Ventures Pvt Ltd,Beauty & Personal Care,Cosmetics,Mumbai,Maharashtra,India,2002,17,2.02,0.14,102,www.nakshatraaawellness.com,25.4,B2C,Families,Indian,No
+BR0132,Swastikant Glow,Swastikant Ventures Pvt Ltd,Beauty & Personal Care,Beauty,Bhopal,Madhya Pradesh,India,2007,339,26.56,2.35,431,www.swastikantglow.com,10.5,B2B,Urban Millennials,Indian,No
+BR0133,Taraora Glow,Taraora Ventures Pvt Ltd,Beauty & Personal Care,Glow,Vadodara,Gujarat,India,2011,86,4.91,0.79,398,www.taraoraglow.com,40.7,B2B,Mass Market,Indian,No
+BR0134,Omus Wellness,Omus Ventures Pvt Ltd,Beauty & Personal Care,Herbals,Patna,Bihar,India,2019,17,2.83,0.28,162,www.omuswellness.com,28.8,B2B,Youth (18-30),Indian,No
+BR0135,Zenus Wellness,Zenus Ventures Pvt Ltd,Beauty & Personal Care,Skin,Bhubaneswar,Odisha,India,2003,5,0.79,0.08,52,www.zenuswellness.com,46.1,B2B,Mass Market,Indian,No
+BR0136,Trishulix Glow,Trishulix Ventures Pvt Ltd,Beauty & Personal Care,Glow,Lucknow,Uttar Pradesh,India,1997,11,1.61,0.08,123,www.trishulixglow.com,40.5,B2C,Working Professionals,Indian,No
+BR0137,Rohaneer Cosmetics,Rohaneer Ventures Pvt Ltd,Beauty & Personal Care,Wellness,Hyderabad,Telangana,India,2002,31,2.08,0.4,260,www.rohaneercosmetics.com,41.4,B2C,Families,Indian,No
+BR0138,Kriora Herbals,Kriora Ventures Pvt Ltd,Beauty & Personal Care,Herbals,Thiruvananthapuram,Kerala,India,2008,358,31.23,7.71,1095,www.krioraherbals.com,28.3,B2C,Enterprise/B2B Clients,Indian,No
+BR0139,Kalpel Beauty,Kalpel Ventures Pvt Ltd,Beauty & Personal Care,Skin,Bhopal,Madhya Pradesh,India,1995,13,1.6,0.07,61,www.kalpelbeauty.com,50.1,B2B,Youth (18-30),Indian,No
+BR0140,Zenitheer Glow,Zenitheer Ventures Pvt Ltd,Beauty & Personal Care,Beauty,Bhubaneswar,Odisha,India,2003,89,4.75,0.53,210,www.zenitheerglow.com,28.5,B2C,Premium/Affluent,Indian,No
+BR0141,Aadhyao Naturals,Aadhyao Ventures Pvt Ltd,Beauty & Personal Care,Beauty,Hyderabad,Telangana,India,2007,74,6.37,0.33,62,www.aadhyaonaturals.com,36.2,B2C,Urban Millennials,Indian,No
+BR0142,Novain Naturals,Novain Ventures Pvt Ltd,Beauty & Personal Care,Glow,Ahmedabad,Gujarat,India,2003,50,4.33,0.74,66,www.novainnaturals.com,43,B2C,Families,Indian,No
+BR0143,Saanvien Skin,Saanvien Ventures Pvt Ltd,Beauty & Personal Care,Beauty,Visakhapatnam,Andhra Pradesh,India,2021,672,56.58,13.36,999,www.saanvienskin.com,7.5,B2C,Rural & Semi-Urban,Indian,No
+BR0144,Aruaya Glow,Aruaya Ventures Pvt Ltd,Beauty & Personal Care,Glow,Bengaluru,Karnataka,India,2019,265,23.78,2.97,207,www.aruayaglow.com,15.2,B2C,Premium/Affluent,Indian,No
+BR0145,Niraika Wellness,Niraika Ventures Pvt Ltd,Beauty & Personal Care,Glow,Gurugram,Haryana,India,2010,86,8.17,1.34,90,www.niraikawellness.com,9.4,B2C,Working Professionals,Indian,No
+BR0146,Ojasaya Wellness,Ojasaya Ventures Pvt Ltd,Beauty & Personal Care,Beauty,Chennai,Tamil Nadu,India,2004,587,27.57,5.27,1068,www.ojasayawellness.com,23.8,B2B,Premium/Affluent,Indian,No
+BR0147,Elevora Herbals,Elevora Ventures Pvt Ltd,Beauty & Personal Care,Glow,Indore,Madhya Pradesh,India,1997,12,0.76,0.04,392,www.elevoraherbals.com,30.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0148,Meherora Cosmetics,Meherora Ventures Pvt Ltd,Beauty & Personal Care,Care,New Delhi,Delhi,India,2012,20,1.4,0.11,44,www.meheroracosmetics.com,16.8,B2C,Working Professionals,Indian,No
+BR0149,Bhoomiith Beauty,Bhoomiith Ventures Pvt Ltd,Beauty & Personal Care,Care,Visakhapatnam,Andhra Pradesh,India,1998,16,1.7,0.2,294,www.bhoomiithbeauty.com,8.6,B2C,Families,Indian,No
+BR0150,Lumoel Wellness,Lumoel Ventures Pvt Ltd,Beauty & Personal Care,Skin,Visakhapatnam,Andhra Pradesh,India,2018,75,5.26,0.16,200,www.lumoelwellness.com,16.9,B2C,Enterprise/B2B Clients,Indian,No
+BR0151,Parle-G,Parle Products,FMCG,Biscuits,Mumbai,Maharashtra,India,1938,6772,314.27,70.08,6025,www.parleg.com,8.3,B2C,Premium/Affluent,Indian,No
+BR0152,Britannia,Britannia Industries,FMCG,Biscuits & Dairy,Kolkata,West Bengal,India,1892,10549,225.15,49.43,51090,www.britannia.com,19.7,B2C,Families,Indian,Yes
+BR0153,Amul,Gujarat Cooperative Milk Marketing Federation,FMCG,Dairy,Anand,Gujarat,India,1946,45730,1650.42,242.39,19238,www.amul.com,17.6,B2C,Mass Market,Indian,No
+BR0154,Haldiram's,Haldiram Foods International,FMCG,Snacks & Namkeen,Nagpur,Maharashtra,India,1937,12708,759.14,111.47,52940,www.haldirams.com,14.4,B2C,Rural & Semi-Urban,Indian,No
+BR0155,MDH,MDH Spices,FMCG,Spices,New Delhi,Delhi,India,1919,1795,116.77,32.36,5270,www.mdh.com,10.1,B2C,Urban Millennials,Indian,No
+BR0156,Everest Spices,Everest Food Products,FMCG,Spices,Mumbai,Maharashtra,India,1966,1956,102.22,20.27,7022,www.everestspices.com,26,B2C,Enterprise/B2B Clients,Indian,No
+BR0157,Tata Salt,Tata Consumer Products,FMCG,Salt & Staples,Mumbai,Maharashtra,India,1983,35572,778.15,131.42,47160,www.tatasalt.com,16.1,B2C,Rural & Semi-Urban,Indian,Yes
+BR0158,Tata Tea,Tata Consumer Products,FMCG,Tea,Kolkata,West Bengal,India,1964,43297,1573,251.64,17050,www.tatatea.com,17.6,B2C,Working Professionals,Indian,Yes
+BR0159,Bru,Hindustan Unilever,FMCG,Coffee,Mumbai,Maharashtra,India,1965,1812,70.7,17.78,2182,www.bru.com,23.5,B2C,Mass Market,Indian,Yes
+BR0160,Nescafe India,Nestle India,FMCG,Coffee,Gurugram,Haryana,India,1963,3162,217.27,41.6,2098,www.nescafeindia.com,13.9,B2C,Urban Millennials,Indian,Yes
+BR0161,Maggi,Nestle India,FMCG,Instant Noodles,Gurugram,Haryana,India,1983,16184,742.31,211.15,29318,www.maggi.com,5.7,B2C,Families,Indian,Yes
+BR0162,Patanjali Ghee,Patanjali Ayurved,FMCG,Dairy & Ghee,Haridwar,Uttarakhand,India,2006,7835,274.89,60.75,7591,www.patanjalighee.com,19.7,B2C,Families,Indian,No
+BR0163,Dabur Chyawanprash,Dabur India,FMCG,Health Supplements,Ghaziabad,Uttar Pradesh,India,1949,4180,223.62,47.92,2777,www.daburchyawanprash.com,16,B2C,Rural & Semi-Urban,Indian,Yes
+BR0164,Real (Dabur),Dabur India,FMCG,Fruit Juices,Ghaziabad,Uttar Pradesh,India,1996,312,26.68,2.46,539,www.realdabur.com,33.9,B2C,Premium/Affluent,Indian,Yes
+BR0165,Mother Dairy,Mother Dairy Fruit & Vegetable,FMCG,Dairy,New Delhi,Delhi,India,1974,46078,2311.9,654.01,50588,www.motherdairy.com,14.9,B2C,Families,Indian,No
+BR0166,Nandini,Karnataka Milk Federation,FMCG,Dairy,Bengaluru,Karnataka,India,1955,2466,97.58,14.08,3318,www.nandini.com,13.8,B2C,Rural & Semi-Urban,Indian,No
+BR0167,Verka,Punjab State Cooperative Milk Producers Federation,FMCG,Dairy,Chandigarh,Punjab,India,1973,316,18.32,4.15,1104,www.verka.com,8.9,B2C,Working Professionals,Indian,No
+BR0168,Saffola,Marico Ltd,FMCG,Edible Oil,Mumbai,Maharashtra,India,1960,3999,171.19,20.65,3563,www.saffola.com,14.5,B2C,Families,Indian,Yes
+BR0169,Fortune Oil,Adani Wilmar,FMCG,Edible Oil,Ahmedabad,Gujarat,India,1999,45769,945.07,199.09,43275,www.fortuneoil.com,14.4,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0170,Sundrop,Agro Tech Foods,FMCG,Edible Oil,Hyderabad,Telangana,India,1986,307,15.27,1.47,1316,www.sundrop.com,30.2,B2C,Working Professionals,Indian,Yes
+BR0171,Aashirvaad,ITC Ltd,FMCG,Atta & Staples,Kolkata,West Bengal,India,2002,3113,210.85,31.1,7253,www.aashirvaad.com,23.9,B2C,Working Professionals,Indian,Yes
+BR0172,Sunfeast,ITC Ltd,FMCG,Biscuits,Kolkata,West Bengal,India,2003,2736,162.24,24.41,2146,www.sunfeast.com,21.6,B2C,Working Professionals,Indian,Yes
+BR0173,Bingo!,ITC Ltd,FMCG,Snacks,Kolkata,West Bengal,India,2007,1573,103.15,28.68,1481,www.bingo.com,17.1,B2C,Premium/Affluent,Indian,Yes
+BR0174,Yippee!,ITC Ltd,FMCG,Instant Noodles,Kolkata,West Bengal,India,2010,762,55.91,11.34,994,www.yippee.com,10,B2C,Families,Indian,Yes
+BR0175,Lay's India,PepsiCo India,FMCG,Chips & Snacks,Gurugram,Haryana,India,1995,1086,39.12,4.84,4735,www.laysindia.com,13.6,B2C,Working Professionals,Indian,Yes
+BR0176,Kurkure,PepsiCo India,FMCG,Snacks,Gurugram,Haryana,India,1999,3569,109.32,20.38,4369,www.kurkure.com,5.3,B2C,Urban Millennials,Indian,Yes
+BR0177,Balaji Wafers,Balaji Wafers Pvt Ltd,FMCG,Chips & Snacks,Rajkot,Gujarat,India,1982,3050,126.48,22.82,6716,www.balajiwafers.com,20.5,B2C,Youth (18-30),Indian,No
+BR0178,Bikaji,Bikaji Foods International,FMCG,Snacks & Namkeen,Bikaner,Rajasthan,India,1993,1250,42.3,4.64,2572,www.bikaji.com,19.3,B2C,Urban Millennials,Indian,Yes
+BR0179,Bikanervala,Bikanervala Foods,FMCG,Sweets & Namkeen,New Delhi,Delhi,India,1980,4224,171.88,27.39,4056,www.bikanervala.com,27.1,B2C,Working Professionals,Indian,No
+BR0180,Priya Gold,Surya Food & Agro,FMCG,Biscuits,New Delhi,Delhi,India,1993,496,44.35,4.22,1550,www.priyagold.com,30,B2C,Premium/Affluent,Indian,No
+BR0181,Anmol Biscuits,Anmol Industries,FMCG,Biscuits,Kolkata,West Bengal,India,1990,558,46.23,9.33,341,www.anmolbiscuits.com,17.8,B2C,Enterprise/B2B Clients,Indian,No
+BR0182,Cadbury India,Mondelez India,FMCG,Chocolates,Mumbai,Maharashtra,India,1948,35399,787.43,80.23,16231,www.cadburyindia.com,5.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0183,Amul Chocolate,Gujarat Cooperative Milk Marketing Federation,FMCG,Chocolates,Anand,Gujarat,India,1972,3509,151.75,41.8,1781,www.amulchocolate.com,25.6,B2C,Mass Market,Indian,No
+BR0184,Parag Milk Foods,Parag Milk Foods,FMCG,Dairy,Pune,Maharashtra,India,1992,261,22.18,4.18,1310,www.paragmilkfoods.com,19.8,B2C,Mass Market,Indian,Yes
+BR0185,Godrej Tasty Bite,Tasty Bite Eatables,FMCG,Ready-to-eat Food,Pune,Maharashtra,India,1985,747,55.44,5.88,1262,www.godrejtastybite.com,22.3,B2C,Mass Market,Indian,No
+BR0186,MTR Foods,Orkla India,FMCG,Ready-to-eat Food,Bengaluru,Karnataka,India,1924,1553,99.44,8.27,2697,www.mtrfoods.com,18.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0187,Gits Foods,Gits Food Products,FMCG,Ready-to-eat Food,Pune,Maharashtra,India,1963,750,41.23,6.71,1310,www.gitsfoods.com,30.2,B2C,Enterprise/B2B Clients,Indian,No
+BR0188,ITC Master Chef,ITC Ltd,FMCG,Frozen Foods,Kolkata,West Bengal,India,2003,574,38.47,4.88,1664,www.itcmasterchef.com,10.1,B2C,Premium/Affluent,Indian,Yes
+BR0189,Godrej No.1,Godrej Consumer Products,FMCG,Soaps,Mumbai,Maharashtra,India,1990,2903,200.25,18.17,4580,www.godrejno1.com,10.3,B2C,Premium/Affluent,Indian,Yes
+BR0190,Cinthol,Godrej Consumer Products,FMCG,Soaps,Mumbai,Maharashtra,India,1952,338,26.55,6.4,962,www.cinthol.com,34.1,B2C,Rural & Semi-Urban,Indian,Yes
+BR0191,Lifebuoy,Hindustan Unilever,FMCG,Soaps,Mumbai,Maharashtra,India,1895,924,37.84,10.54,5019,www.lifebuoy.com,10.2,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0192,Lux,Hindustan Unilever,FMCG,Soaps,Mumbai,Maharashtra,India,1929,2614,149.48,31.71,1702,www.lux.com,22.8,B2C,Urban Millennials,Indian,Yes
+BR0193,Vim,Hindustan Unilever,FMCG,Dishwashing,Mumbai,Maharashtra,India,1970,4152,242.98,23.43,2263,www.vim.com,13.7,B2C,Youth (18-30),Indian,Yes
+BR0194,Surf Excel,Hindustan Unilever,FMCG,Detergents,Mumbai,Maharashtra,India,1959,45681,1492.27,181.03,5340,www.surfexcel.com,21,B2C,Working Professionals,Indian,Yes
+BR0195,Rin,Hindustan Unilever,FMCG,Detergents,Mumbai,Maharashtra,India,1972,2312,94.3,10.04,2535,www.rin.com,14.9,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0196,Ghadi Detergent,Rohit Surfactants Private Limited,FMCG,Detergents,Kanpur,Uttar Pradesh,India,1987,1234,41.44,7.91,5890,www.ghadidetergent.com,18.8,B2C,Rural & Semi-Urban,Indian,No
+BR0197,Nirma,Nirma Ltd,FMCG,Detergents & Soaps,Ahmedabad,Gujarat,India,1969,4428,135.01,21.97,7382,www.nirma.com,6.9,B2C,Families,Indian,No
+BR0198,Patanjali Detergent,Patanjali Ayurved,FMCG,Detergents,Haridwar,Uttarakhand,India,2016,500,24.26,3.06,434,www.patanjalidetergent.com,13.8,B2C,Urban Millennials,Indian,No
+BR0199,Colgate India,Colgate-Palmolive India,FMCG,Oral Care,Mumbai,Maharashtra,India,1937,2871,93.4,15.59,4449,www.colgateindia.com,11.9,B2C,Premium/Affluent,Indian,Yes
+BR0200,Dabur Red,Dabur India,FMCG,Oral Care,Ghaziabad,Uttar Pradesh,India,1993,353,30.77,5.97,1165,www.daburred.com,23.2,B2C,Families,Indian,Yes
+BR0201,Pepsodent,Hindustan Unilever,FMCG,Oral Care,Mumbai,Maharashtra,India,1993,421,19.67,1.01,960,www.pepsodent.com,15.6,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0202,Closeup,Hindustan Unilever,FMCG,Oral Care,Mumbai,Maharashtra,India,1975,663,37.44,4.38,1820,www.closeup.com,29.9,B2C,Youth (18-30),Indian,Yes
+BR0203,Britannia Marie Gold,Britannia Industries,FMCG,Biscuits,Kolkata,West Bengal,India,1993,310,21.77,4.12,1131,www.britanniamariegold.com,15.1,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0204,Horlicks India,HUL (formerly GSK CH),FMCG,Health Drinks,Gurugram,Haryana,India,1930,4869,202.82,44.42,5022,www.horlicksindia.com,27.3,B2C,Families,Indian,Yes
+BR0205,Bournvita,Mondelez India,FMCG,Health Drinks,Mumbai,Maharashtra,India,1948,328,17.72,3.67,897,www.bournvita.com,9.3,B2C,Families,Indian,No
+BR0206,Complan,Zydus Wellness,FMCG,Health Drinks,Ahmedabad,Gujarat,India,1962,515,34.62,6.45,1276,www.complan.com,6.8,B2C,Working Professionals,Indian,Yes
+BR0207,Glucon-D,Zydus Wellness,FMCG,Energy Drink Powder,Ahmedabad,Gujarat,India,1955,760,38.37,8.04,1852,www.glucond.com,26.1,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0208,Frooti,Parle Agro,FMCG,Beverages,Mumbai,Maharashtra,India,1985,3627,128.98,18.13,3069,www.frooti.com,20.1,B2C,Enterprise/B2B Clients,Indian,No
+BR0209,Appy Fizz,Parle Agro,FMCG,Beverages,Mumbai,Maharashtra,India,2005,652,28.51,7.07,1131,www.appyfizz.com,22.9,B2C,Enterprise/B2B Clients,Indian,No
+BR0210,Thums Up,Coca-Cola India,FMCG,Beverages,Gurugram,Haryana,India,1977,3083,190.02,28.87,7654,www.thumsup.com,17.3,B2C,Premium/Affluent,Indian,No
+BR0211,Limca,Coca-Cola India,FMCG,Beverages,Gurugram,Haryana,India,1971,177,9.26,1.69,490,www.limca.com,24.8,B2C,Mass Market,Indian,No
+BR0212,Bisleri,Bisleri International,FMCG,Packaged Water,Mumbai,Maharashtra,India,1969,3166,176.64,36.98,7165,www.bisleri.com,12.6,B2C,Enterprise/B2B Clients,Indian,No
+BR0213,Rasna,Pioma Industries,FMCG,Beverage Concentrates,Ahmedabad,Gujarat,India,1976,174,7.83,0.74,1679,www.rasna.com,21,B2C,Families,Indian,No
+BR0214,Paper Boat,Hector Beverages,FMCG,Ethnic Beverages,Bengaluru,Karnataka,India,2013,412,24.54,5.02,1355,www.paperboat.com,26,B2C,Youth (18-30),Indian,No
+BR0215,Dabur Honey,Dabur India,FMCG,Honey & Foods,Ghaziabad,Uttar Pradesh,India,1996,342,14.08,1,1001,www.daburhoney.com,32.7,B2C,Premium/Affluent,Indian,Yes
+BR0216,Patanjali Noodles,Patanjali Ayurved,FMCG,Instant Noodles,Haridwar,Uttarakhand,India,2015,181,15.77,1.24,788,www.patanjalinoodles.com,15.9,B2C,Families,Indian,No
+BR0217,24 Mantra Organic,Sresta Natural Bioproducts,FMCG,Organic Foods,Hyderabad,Telangana,India,2004,465,26.69,1.86,1628,www.24mantraorganic.com,26.2,B2C,Rural & Semi-Urban,Indian,No
+BR0218,Organic India,Organic India Pvt Ltd,FMCG,Organic Foods & Herbal Tea,Lucknow,Uttar Pradesh,India,1997,147,6.21,1.19,196,www.organicindia.com,30.6,B2C,Premium/Affluent,Indian,No
+BR0219,Wagh Bakri,Gujarat Tea Processors & Packers,FMCG,Tea,Ahmedabad,Gujarat,India,1892,3644,133.28,36.89,2998,www.waghbakri.com,16.9,B2C,Youth (18-30),Indian,No
+BR0220,Society Tea,Asmaco Fine Teas & Exports,FMCG,Tea,Mumbai,Maharashtra,India,1954,332,20.34,2.9,1783,www.societytea.com,17.7,B2C,Youth (18-30),Indian,No
+BR0221,Girnar Tea,Girnar Food & Beverages,FMCG,Tea,Jabalpur,Madhya Pradesh,India,1989,231,16.8,2.17,1660,www.girnartea.com,23.8,B2C,Families,Indian,No
+BR0222,Red Label,Hindustan Unilever,FMCG,Tea,Mumbai,Maharashtra,India,1933,2688,126.83,10.26,2759,www.redlabel.com,9.7,B2C,Premium/Affluent,Indian,Yes
+BR0223,Taj Mahal Tea,Hindustan Unilever,FMCG,Tea,Mumbai,Maharashtra,India,1966,504,40.32,6.35,899,www.tajmahaltea.com,15.5,B2C,Working Professionals,Indian,Yes
+BR0224,Vasuora Fresh,Vasuora Ventures Pvt Ltd,FMCG,Daily,Mysuru,Karnataka,India,1997,4,0.54,0.05,173,www.vasuorafresh.com,25.7,B2C,Enterprise/B2B Clients,Indian,No
+BR0225,Primeeer Foods,Primeeer Ventures Pvt Ltd,FMCG,Goods,Bhopal,Madhya Pradesh,India,1996,65,5.92,0.53,254,www.primeeerfoods.com,30.8,B2C,Urban Millennials,Indian,No
+BR0226,Niraaya Home,Niraaya Ventures Pvt Ltd,FMCG,Fresh,Mysuru,Karnataka,India,2002,23,3.2,0.34,90,www.niraayahome.com,15.9,B2C,Urban Millennials,Indian,No
+BR0227,Kalpith Consumer,Kalpith Ventures Pvt Ltd,FMCG,Fresh,New Delhi,Delhi,India,2012,21,1.56,0.08,218,www.kalpithconsumer.com,23.5,B2C,Youth (18-30),Indian,No
+BR0228,Lumoel Mart,Lumoel Ventures Pvt Ltd,FMCG,Mart,Ahmedabad,Gujarat,India,1997,15,1.81,0.15,147,www.lumoelmart.com,44.7,B2C,Youth (18-30),Indian,No
+BR0229,Prishaan Home,Prishaan Ventures Pvt Ltd,FMCG,Daily,Kolkata,West Bengal,India,2005,14,1.84,0.07,90,www.prishaanhome.com,52.1,B2C,Mass Market,Indian,No
+BR0230,Sattvaix Goods,Sattvaix Ventures Pvt Ltd,FMCG,Home,New Delhi,Delhi,India,2004,88,10.25,1.15,119,www.sattvaixgoods.com,38.2,B2C,Working Professionals,Indian,No
+BR0231,Bhoomiith Goods,Bhoomiith Ventures Pvt Ltd,FMCG,Fresh,Coimbatore,Tamil Nadu,India,2008,11,1.4,0.16,123,www.bhoomiithgoods.com,34.4,B2C,Premium/Affluent,Indian,No
+BR0232,Kiaanith Consumer,Kiaanith Ventures Pvt Ltd,FMCG,Daily,Bhubaneswar,Odisha,India,2006,15,2.33,0.11,18,www.kiaanithconsumer.com,23.7,B2C,Urban Millennials,Indian,No
+BR0233,Shaora Foods,Shaora Ventures Pvt Ltd,FMCG,Foods,Visakhapatnam,Andhra Pradesh,India,2012,218,13.69,2.72,1718,www.shaorafoods.com,20.4,B2C,Premium/Affluent,Indian,No
+BR0234,Dhruvash Mart,Dhruvash Ventures Pvt Ltd,FMCG,Mart,Visakhapatnam,Andhra Pradesh,India,2017,62,4.23,0.52,207,www.dhruvashmart.com,28.1,B2C,Mass Market,Indian,No
+BR0235,Veerika Mart,Veerika Ventures Pvt Ltd,FMCG,Foods,Kanpur,Uttar Pradesh,India,2020,19,2.38,0.12,118,www.veerikamart.com,15.1,B2C,Families,Indian,No
+BR0236,Aadhyaaya Daily,Aadhyaaya Ventures Pvt Ltd,FMCG,Fresh,Ahmedabad,Gujarat,India,1999,8,1.46,0.11,99,www.aadhyaayadaily.com,53.1,B2B,Premium/Affluent,Indian,No
+BR0237,Vedin Foods,Vedin Ventures Pvt Ltd,FMCG,Daily,Faridabad,Haryana,India,2006,50,5.92,0.96,141,www.vedinfoods.com,15.8,B2C,Rural & Semi-Urban,Indian,No
+BR0238,Rudraora Mart,Rudraora Ventures Pvt Ltd,FMCG,Daily,Chandigarh,Punjab,India,2009,22,3.06,0.23,167,www.rudraoramart.com,17,B2C,Families,Indian,No
+BR0239,Amaraen Goods,Amaraen Ventures Pvt Ltd,FMCG,Consumer,Noida,Uttar Pradesh,India,1998,670,53.74,8.81,1240,www.amaraengoods.com,14.2,B2C,Youth (18-30),Indian,No
+BR0240,Kiaaneer Foods,Kiaaneer Ventures Pvt Ltd,FMCG,Daily,Lucknow,Uttar Pradesh,India,2017,39,3.88,0.31,156,www.kiaaneerfoods.com,43.2,B2C,Premium/Affluent,Indian,No
+BR0241,Brightaa Foods,Brightaa Ventures Pvt Ltd,FMCG,Fresh,Hyderabad,Telangana,India,2009,195,15.11,2,271,www.brightaafoods.com,34.8,B2C,Youth (18-30),Indian,No
+BR0242,Shaora Home,Shaora Ventures Pvt Ltd,FMCG,Daily,Thiruvananthapuram,Kerala,India,2017,591,27.56,2.18,809,www.shaorahome.com,30,B2C,Enterprise/B2B Clients,Indian,No
+BR0243,Mehero Fresh,Mehero Ventures Pvt Ltd,FMCG,Consumer,Surat,Gujarat,India,2011,443,30.48,3.16,998,www.meherofresh.com,16.9,B2B,Premium/Affluent,Indian,No
+BR0244,Ishaanix Foods,Ishaanix Ventures Pvt Ltd,FMCG,Daily,Chandigarh,Punjab,India,2009,16,2.72,0.09,141,www.ishaanixfoods.com,47.5,B2C,Rural & Semi-Urban,Indian,No
+BR0245,Shaika Goods,Shaika Ventures Pvt Ltd,FMCG,Mart,Bhopal,Madhya Pradesh,India,2011,51,4.28,0.55,395,www.shaikagoods.com,11.4,B2B,Working Professionals,Indian,No
+BR0246,Kriin Goods,Kriin Ventures Pvt Ltd,FMCG,Goods,Mysuru,Karnataka,India,2009,67,6.63,1.16,293,www.kriingoods.com,22.7,B2C,Enterprise/B2B Clients,Indian,No
+BR0247,Zenaan Daily,Zenaan Ventures Pvt Ltd,FMCG,Home,Ahmedabad,Gujarat,India,2008,84,7.13,0.61,165,www.zenaandaily.com,20.5,B2C,Youth (18-30),Indian,No
+BR0248,Omon Consumer,Omon Ventures Pvt Ltd,FMCG,Fresh,Jaipur,Rajasthan,India,2000,61,5.12,0.45,369,www.omonconsumer.com,36.2,B2C,Mass Market,Indian,No
+BR0249,Trishulash Home,Trishulash Ventures Pvt Ltd,FMCG,Daily,Mysuru,Karnataka,India,2001,19,1.99,0.22,83,www.trishulashhome.com,42.4,B2C,Youth (18-30),Indian,No
+BR0250,Swastikash Daily,Swastikash Ventures Pvt Ltd,FMCG,Consumer,Bengaluru,Karnataka,India,2013,12,0.93,0.13,61,www.swastikashdaily.com,59.8,B2C,Youth (18-30),Indian,No
+BR0251,Naveenika Goods,Naveenika Ventures Pvt Ltd,FMCG,Fresh,New Delhi,Delhi,India,1997,718,39.53,8.89,1945,www.naveenikagoods.com,13.9,B2B,Rural & Semi-Urban,Indian,No
+BR0252,Ojasaan Consumer,Ojasaan Ventures Pvt Ltd,FMCG,Daily,Visakhapatnam,Andhra Pradesh,India,2010,7,0.82,0.11,52,www.ojasaanconsumer.com,12.6,B2C,Urban Millennials,Indian,No
+BR0253,Meherix Consumer,Meherix Ventures Pvt Ltd,FMCG,Foods,Bhopal,Madhya Pradesh,India,2009,608,47.29,6.42,336,www.meherixconsumer.com,26.4,B2C,Mass Market,Indian,No
+BR0254,Zenithix Mart,Zenithix Ventures Pvt Ltd,FMCG,Home,Kolkata,West Bengal,India,2014,249,10.95,1.85,1213,www.zenithixmart.com,25.7,B2C,Mass Market,Indian,No
+BR0255,Veeren Consumer,Veeren Ventures Pvt Ltd,FMCG,Foods,Ludhiana,Punjab,India,2005,106,6.04,0.45,1911,www.veerenconsumer.com,18.2,B2C,Youth (18-30),Indian,No
+BR0256,Ishaanin Foods,Ishaanin Ventures Pvt Ltd,FMCG,Mart,New Delhi,Delhi,India,2007,13,1.29,0.04,36,www.ishaaninfoods.com,15.2,B2C,Rural & Semi-Urban,Indian,No
+BR0257,Mudraith Daily,Mudraith Ventures Pvt Ltd,FMCG,Daily,Kochi,Kerala,India,2019,717,33.58,6.87,1692,www.mudraithdaily.com,31.4,B2C,Youth (18-30),Indian,No
+BR0258,Meherix Foods,Meherix Ventures Pvt Ltd,FMCG,Consumer,Mysuru,Karnataka,India,2011,16,1.45,0.19,104,www.meherixfoods.com,24.3,B2C,Families,Indian,No
+BR0259,Veeran Foods,Veeran Ventures Pvt Ltd,FMCG,Fresh,Jaipur,Rajasthan,India,2014,16,1.53,0.11,185,www.veeranfoods.com,32.1,B2C,Families,Indian,No
+BR0260,Dhruveer Foods,Dhruveer Ventures Pvt Ltd,FMCG,Fresh,Coimbatore,Tamil Nadu,India,1999,3,0.28,0.03,160,www.dhruveerfoods.com,46.5,B2C,Rural & Semi-Urban,Indian,No
+BR0261,Aadhyaaya Foods,Aadhyaaya Ventures Pvt Ltd,FMCG,Goods,Indore,Madhya Pradesh,India,2013,97,6.96,0.37,161,www.aadhyaayafoods.com,31.9,B2C,Families,Indian,No
+BR0262,Krien Daily,Krien Ventures Pvt Ltd,FMCG,Fresh,Patna,Bihar,India,2021,14,2,0.2,186,www.kriendaily.com,11.3,B2C,Urban Millennials,Indian,No
+BR0263,Anuesh Mart,Anuesh Ventures Pvt Ltd,FMCG,Home,Chandigarh,Punjab,India,2012,6,0.83,0.04,110,www.anueshmart.com,24.8,B2C,Mass Market,Indian,No
+BR0264,Utsavon Mart,Utsavon Ventures Pvt Ltd,FMCG,Goods,New Delhi,Delhi,India,1996,649,51.69,5.06,940,www.utsavonmart.com,9.3,B2B,Working Professionals,Indian,No
+BR0265,Trishulus Consumer,Trishulus Ventures Pvt Ltd,FMCG,Mart,Hyderabad,Telangana,India,2014,67,3.71,0.67,26,www.trishulusconsumer.com,44.5,B2B,Rural & Semi-Urban,Indian,No
+BR0266,Meherant Goods,Meherant Ventures Pvt Ltd,FMCG,Goods,Bhubaneswar,Odisha,India,2010,4,0.7,0.07,103,www.meherantgoods.com,37.3,B2C,Youth (18-30),Indian,No
+BR0267,Omora Daily,Omora Ventures Pvt Ltd,FMCG,Fresh,Jaipur,Rajasthan,India,2014,79,9.18,1.48,28,www.omoradaily.com,29.7,B2B,Mass Market,Indian,No
+BR0268,Kalpant Consumer,Kalpant Ventures Pvt Ltd,FMCG,Fresh,New Delhi,Delhi,India,2000,34,1.77,0.07,223,www.kalpantconsumer.com,26.7,B2C,Enterprise/B2B Clients,Indian,No
+BR0269,Kiaanin Home,Kiaanin Ventures Pvt Ltd,FMCG,Foods,Gurugram,Haryana,India,2013,11,1.35,0.14,147,www.kiaaninhome.com,40.8,B2C,Urban Millennials,Indian,No
+BR0270,Asterith Mart,Asterith Ventures Pvt Ltd,FMCG,Daily,Hyderabad,Telangana,India,2017,159,6.97,1.63,1804,www.asterithmart.com,10.5,B2B,Rural & Semi-Urban,Indian,No
+BR0271,Vantagean Fresh,Vantagean Ventures Pvt Ltd,FMCG,Fresh,Hyderabad,Telangana,India,2012,45,4.27,0.73,368,www.vantageanfresh.com,31.8,B2C,Urban Millennials,Indian,No
+BR0272,Lumoeer Goods,Lumoeer Ventures Pvt Ltd,FMCG,Consumer,Chandigarh,Punjab,India,2014,73,7.37,1.28,49,www.lumoeergoods.com,17,B2C,Enterprise/B2B Clients,Indian,No
+BR0273,Meherra Goods,Meherra Ventures Pvt Ltd,FMCG,Goods,Jaipur,Rajasthan,India,2017,4,0.54,0.01,180,www.meherragoods.com,47.1,B2C,Youth (18-30),Indian,No
+BR0274,Zenam Goods,Zenam Ventures Pvt Ltd,FMCG,Home,Coimbatore,Tamil Nadu,India,2023,4,0.59,0.07,51,www.zenamgoods.com,34.8,B2C,Rural & Semi-Urban,Indian,No
+BR0275,Rudraash Foods,Rudraash Ventures Pvt Ltd,FMCG,Fresh,Jaipur,Rajasthan,India,2006,14,2.15,0.24,52,www.rudraashfoods.com,28.6,B2C,Urban Millennials,Indian,No
+BR0276,Vantageaa Consumer,Vantageaa Ventures Pvt Ltd,FMCG,Foods,Kanpur,Uttar Pradesh,India,2017,613,28.14,6.47,836,www.vantageaaconsumer.com,29.4,B2C,Urban Millennials,Indian,No
+BR0277,Kalpra Consumer,Kalpra Ventures Pvt Ltd,FMCG,Foods,New Delhi,Delhi,India,2015,467,24.8,6.08,1435,www.kalpraconsumer.com,8.2,B2C,Working Professionals,Indian,No
+BR0278,Vantageesh Fresh,Vantageesh Ventures Pvt Ltd,FMCG,Consumer,Hyderabad,Telangana,India,2012,13,1.14,0.15,52,www.vantageeshfresh.com,28.4,B2C,Urban Millennials,Indian,No
+BR0279,Vantageix Fresh,Vantageix Ventures Pvt Ltd,FMCG,Foods,Kolkata,West Bengal,India,2005,641,54.33,10.04,386,www.vantageixfresh.com,12.6,B2B,Mass Market,Indian,No
+BR0280,Shaaan Daily,Shaaan Ventures Pvt Ltd,FMCG,Home,Gurugram,Haryana,India,2000,14,1.55,0.11,261,www.shaaandaily.com,21.5,B2C,Youth (18-30),Indian,No
+BR0281,Veden Home,Veden Ventures Pvt Ltd,FMCG,Goods,Bhubaneswar,Odisha,India,2018,5,0.93,0.02,192,www.vedenhome.com,47,B2B,Enterprise/B2B Clients,Indian,No
+BR0282,Surash Daily,Surash Ventures Pvt Ltd,FMCG,Fresh,Coimbatore,Tamil Nadu,India,2004,30,2.03,0.38,183,www.surashdaily.com,18,B2C,Premium/Affluent,Indian,No
+BR0283,Brightin Home,Brightin Ventures Pvt Ltd,FMCG,Goods,Patna,Bihar,India,2001,15,1.35,0.15,23,www.brightinhome.com,19,B2C,Mass Market,Indian,No
+BR0284,Lumoaan Goods,Lumoaan Ventures Pvt Ltd,FMCG,Goods,Ahmedabad,Gujarat,India,2018,96,5.26,0.57,164,www.lumoaangoods.com,36.6,B2C,Urban Millennials,Indian,No
+BR0285,Prishao Daily,Prishao Ventures Pvt Ltd,FMCG,Mart,Bhopal,Madhya Pradesh,India,2011,40,3.5,0.11,122,www.prishaodaily.com,18.8,B2C,Urban Millennials,Indian,No
+BR0286,Vasuin Mart,Vasuin Ventures Pvt Ltd,FMCG,Consumer,Kochi,Kerala,India,1995,618,32.2,3.98,1160,www.vasuinmart.com,34.9,B2C,Families,Indian,No
+BR0287,Yashith Goods,Yashith Ventures Pvt Ltd,FMCG,Consumer,Pune,Maharashtra,India,2015,76,6.7,1.11,97,www.yashithgoods.com,8.2,B2C,Enterprise/B2B Clients,Indian,No
+BR0288,Omus Goods,Omus Ventures Pvt Ltd,FMCG,Fresh,Surat,Gujarat,India,2016,12,1.07,0.15,375,www.omusgoods.com,40.5,B2B,Rural & Semi-Urban,Indian,No
+BR0289,Omaan Goods,Omaan Ventures Pvt Ltd,FMCG,Mart,Ludhiana,Punjab,India,2002,1,0.15,0.02,196,www.omaangoods.com,25.4,B2C,Families,Indian,No
+BR0290,Utsavaya Mart,Utsavaya Ventures Pvt Ltd,FMCG,Home,Bhubaneswar,Odisha,India,2019,471,24.44,3.63,272,www.utsavayamart.com,34.2,B2C,Youth (18-30),Indian,No
+BR0291,Shaon Mart,Shaon Ventures Pvt Ltd,FMCG,Home,Ludhiana,Punjab,India,2013,598,26.71,6.26,1987,www.shaonmart.com,30.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0292,Primeaa Daily,Primeaa Ventures Pvt Ltd,FMCG,Mart,Hyderabad,Telangana,India,2005,18,2.09,0.31,31,www.primeaadaily.com,39,B2C,Youth (18-30),Indian,No
+BR0293,Kavyael Daily,Kavyael Ventures Pvt Ltd,FMCG,Home,Bhubaneswar,Odisha,India,2023,67,5.22,0.68,51,www.kavyaeldaily.com,24.1,B2C,Youth (18-30),Indian,No
+BR0294,Anuon Mart,Anuon Ventures Pvt Ltd,FMCG,Home,Patna,Bihar,India,2012,31,2.14,0.18,221,www.anuonmart.com,33.9,B2C,Rural & Semi-Urban,Indian,No
+BR0295,Niraen Goods,Niraen Ventures Pvt Ltd,FMCG,Foods,Nagpur,Maharashtra,India,2001,39,2.66,0.11,123,www.niraengoods.com,13,B2C,Premium/Affluent,Indian,No
+BR0296,Krieer Foods,Krieer Ventures Pvt Ltd,FMCG,Consumer,Mysuru,Karnataka,India,1996,209,10.07,1.44,982,www.krieerfoods.com,9.5,B2B,Rural & Semi-Urban,Indian,No
+BR0297,Bhoomiaan Mart,Bhoomiaan Ventures Pvt Ltd,FMCG,Mart,Chandigarh,Punjab,India,2009,24,2.44,0.15,77,www.bhoomiaanmart.com,52.6,B2C,Premium/Affluent,Indian,No
+BR0298,Sattvain Fresh,Sattvain Ventures Pvt Ltd,FMCG,Mart,Ludhiana,Punjab,India,2000,5,0.71,0.09,188,www.sattvainfresh.com,40.2,B2C,Families,Indian,No
+BR0299,Nakshatraa Home,Nakshatraa Ventures Pvt Ltd,FMCG,Daily,Pune,Maharashtra,India,2009,85,6.21,0.28,147,www.nakshatraahome.com,43.8,B2C,Enterprise/B2B Clients,Indian,No
+BR0300,Kiaanra Consumer,Kiaanra Ventures Pvt Ltd,FMCG,Fresh,Patna,Bihar,India,1999,459,33.93,3.46,506,www.kiaanraconsumer.com,6.9,B2B,Enterprise/B2B Clients,Indian,No
+BR0301,HDFC Bank,HDFC Bank Ltd,Banking & FinTech,Private Banking,Mumbai,Maharashtra,India,1994,27794,720.65,156.8,54701,www.hdfcbank.com,21.4,B2C,Premium/Affluent,Indian,Yes
+BR0302,ICICI Bank,ICICI Bank Ltd,Banking & FinTech,Private Banking,Mumbai,Maharashtra,India,1994,55871,2374.93,285.46,23749,www.icicibank.com,19.6,B2C,Rural & Semi-Urban,Indian,Yes
+BR0303,State Bank of India,State Bank of India,Banking & FinTech,Public Sector Banking,Mumbai,Maharashtra,India,1955,53284,1628.65,376.15,42488,www.statebankofindia.com,15,B2C,Mass Market,Indian,Yes
+BR0304,Axis Bank,Axis Bank Ltd,Banking & FinTech,Private Banking,Mumbai,Maharashtra,India,1993,14471,522.68,116.9,49617,www.axisbank.com,16.5,B2C,Mass Market,Indian,Yes
+BR0305,Kotak Mahindra Bank,Kotak Mahindra Bank Ltd,Banking & FinTech,Private Banking,Mumbai,Maharashtra,India,2003,26769,1476.51,351.56,8230,www.kotakmahindrabank.com,17.4,B2C,Urban Millennials,Indian,Yes
+BR0306,Bank of Baroda,Bank of Baroda,Banking & FinTech,Public Sector Banking,Vadodara,Gujarat,India,1908,54337,1130.71,297.92,24861,www.bankofbaroda.com,9.6,B2C,Working Professionals,Indian,Yes
+BR0307,Punjab National Bank,Punjab National Bank,Banking & FinTech,Public Sector Banking,New Delhi,Delhi,India,1894,52203,2474.11,728.62,19939,www.punjabnationalbank.com,6.4,B2C,Working Professionals,Indian,Yes
+BR0308,Canara Bank,Canara Bank,Banking & FinTech,Public Sector Banking,Bengaluru,Karnataka,India,1906,47572,1562,383.88,44647,www.canarabank.com,15.6,B2C,Families,Indian,Yes
+BR0309,IndusInd Bank,IndusInd Bank Ltd,Banking & FinTech,Private Banking,Mumbai,Maharashtra,India,1994,2655,176.67,28.52,4968,www.indusindbank.com,22.5,B2C,Rural & Semi-Urban,Indian,Yes
+BR0310,Yes Bank,Yes Bank Ltd,Banking & FinTech,Private Banking,Mumbai,Maharashtra,India,2004,4248,215.01,24.04,3548,www.yesbank.com,21.3,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0311,IDFC First Bank,IDFC First Bank Ltd,Banking & FinTech,Private Banking,Mumbai,Maharashtra,India,2018,1370,87.73,22.45,1237,www.idfcfirstbank.com,9,B2C,Families,Indian,Yes
+BR0312,Federal Bank,Federal Bank Ltd,Banking & FinTech,Private Banking,Kochi,Kerala,India,1931,4315,172.52,29.55,3952,www.federalbank.com,21.2,B2C,Urban Millennials,Indian,Yes
+BR0313,Bandhan Bank,Bandhan Bank Ltd,Banking & FinTech,Private/Microfinance Banking,Kolkata,West Bengal,India,2015,2347,114,18.17,2014,www.bandhanbank.com,20.7,B2C,Families,Indian,Yes
+BR0314,RBL Bank,RBL Bank Ltd,Banking & FinTech,Private Banking,Mumbai,Maharashtra,India,1943,361,25.14,2.15,1932,www.rblbank.com,19.8,B2C,Rural & Semi-Urban,Indian,Yes
+BR0315,Paytm,One97 Communications,Banking & FinTech,Digital Payments,Noida,Uttar Pradesh,India,2010,2246,142.62,18.79,7806,www.paytm.com,20.8,B2C,Urban Millennials,Indian,Yes
+BR0316,PhonePe,PhonePe Pvt Ltd,Banking & FinTech,Digital Payments,Bengaluru,Karnataka,India,2015,915,29.28,7.34,7388,www.phonepe.com,27.2,B2C,Families,Indian,No
+BR0317,Google Pay India,Google India,Banking & FinTech,Digital Payments,Bengaluru,Karnataka,India,2017,3519,200.96,26.89,4354,www.googlepayindia.com,16.8,B2C,Mass Market,Indian,No
+BR0318,BharatPe,Resilient Innovations,Banking & FinTech,Merchant Payments & Lending,New Delhi,Delhi,India,2018,432,20.13,1.7,1790,www.bharatpe.com,6.2,B2B,Urban Millennials,Indian,No
+BR0319,Razorpay,Razorpay Software,Banking & FinTech,Payment Gateway,Bengaluru,Karnataka,India,2014,3355,227.2,50.56,6811,www.razorpay.com,19.8,B2B,Enterprise/B2B Clients,Indian,No
+BR0320,CRED,Dreamplug Technologies,Banking & FinTech,Credit Card Payments & Rewards,Bengaluru,Karnataka,India,2018,727,60.02,8.51,596,www.cred.com,19.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0321,Zerodha,Zerodha Broking Ltd,Banking & FinTech,Stock Broking,Bengaluru,Karnataka,India,2010,3255,98.6,27.6,7908,www.zerodha.com,24.3,B2C,Urban Millennials,Indian,No
+BR0322,Groww,Billionbrains Garage Ventures,Banking & FinTech,Investment Platform,Bengaluru,Karnataka,India,2016,2054,70.49,6.54,3264,www.groww.com,19.7,B2C,Urban Millennials,Indian,No
+BR0323,Upstox,RKSV Securities,Banking & FinTech,Stock Broking,Mumbai,Maharashtra,India,2012,283,21.37,4.88,761,www.upstox.com,11.5,B2C,Families,Indian,No
+BR0324,Policybazaar,PB Fintech Ltd,Banking & FinTech,Insurance Aggregator,Gurugram,Haryana,India,2008,4579,284.87,68.5,5915,www.policybazaar.com,14.3,B2C,Rural & Semi-Urban,Indian,Yes
+BR0325,Paytm Money,Paytm Money Ltd,Banking & FinTech,Investment Platform,Noida,Uttar Pradesh,India,2017,577,43.85,7.94,755,www.paytmmoney.com,13.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0326,MobiKwik,One MobiKwik Systems,Banking & FinTech,Digital Wallet,Gurugram,Haryana,India,2009,383,29.44,4.9,1321,www.mobikwik.com,29.7,B2C,Rural & Semi-Urban,Indian,Yes
+BR0327,Freecharge,Axis Bank,Banking & FinTech,Digital Wallet,Mumbai,Maharashtra,India,2010,609,31.11,4.88,1757,www.freecharge.com,19.8,B2C,Rural & Semi-Urban,Indian,Yes
+BR0328,Slice,Garagepreneurs Internet,Banking & FinTech,Credit Cards for Youth,Bengaluru,Karnataka,India,2016,455,37.44,8.17,1945,www.slice.com,22.2,B2C,Urban Millennials,Indian,No
+BR0329,Jupiter Money,Amica Financial Technologies,Banking & FinTech,Neobanking,Mumbai,Maharashtra,India,2019,168,7.81,0.79,1805,www.jupitermoney.com,22.2,B2C,Youth (18-30),Indian,No
+BR0330,Fi Money,Epifi Technologies,Banking & FinTech,Neobanking,Bengaluru,Karnataka,India,2019,763,64.82,11.73,605,www.fimoney.com,16.3,B2C,Urban Millennials,Indian,No
+BR0331,Navi,Navi Technologies,Banking & FinTech,Lending & Insurance,Bengaluru,Karnataka,India,2018,2566,168.01,25.93,5796,www.navi.com,11.8,B2C,Premium/Affluent,Indian,Yes
+BR0332,Cashfree Payments,Cashfree Payments India,Banking & FinTech,Payment Gateway,Bengaluru,Karnataka,India,2015,429,35.78,5.97,1421,www.cashfreepayments.com,8.1,B2B,Families,Indian,No
+BR0333,Instamojo,Instamojo Technologies,Banking & FinTech,Payment Gateway,Bengaluru,Karnataka,India,2012,55,6.09,0.58,172,www.instamojo.com,23.3,B2B,Youth (18-30),Indian,No
+BR0334,Lendingkart,Lendingkart Technologies,Banking & FinTech,SME Lending,Ahmedabad,Gujarat,India,2014,196,9.81,1.29,1316,www.lendingkart.com,31.9,B2B,Working Professionals,Indian,No
+BR0335,Capital Float,Capital Float (Ambit Finvest),Banking & FinTech,SME Lending,Bengaluru,Karnataka,India,2013,200,16.65,1.43,315,www.capitalfloat.com,20.1,B2B,Youth (18-30),Indian,No
+BR0336,KreditBee,Krazybee Services,Banking & FinTech,Consumer Lending,Bengaluru,Karnataka,India,2018,319,13.7,1.92,578,www.kreditbee.com,28.1,B2C,Youth (18-30),Indian,No
+BR0337,MoneyTap,MoneyTap Financial Services,Banking & FinTech,Consumer Credit Line,Bengaluru,Karnataka,India,2015,62,3.78,0.62,65,www.moneytap.com,12.8,B2C,Enterprise/B2B Clients,Indian,No
+BR0338,ClearTax,Defmacro Software,Banking & FinTech,Tax Filing & Fintech SaaS,Bengaluru,Karnataka,India,2011,543,32.7,7.95,935,www.cleartax.com,6.1,B2B,Families,Indian,No
+BR0339,Khatabook,Book Keeper Technologies,Banking & FinTech,SME Bookkeeping App,Bengaluru,Karnataka,India,2018,612,53.51,12.22,1700,www.khatabook.com,30.2,B2B,Families,Indian,No
+BR0340,OkCredit,OkCredit (Kiwi Payments),Banking & FinTech,SME Bookkeeping App,Bengaluru,Karnataka,India,2017,12,0.58,0.09,135,www.okcredit.com,33.7,B2B,Rural & Semi-Urban,Indian,No
+BR0341,Angel One,Angel One Ltd,Banking & FinTech,Stock Broking,Mumbai,Maharashtra,India,1987,2111,72,13.01,3507,www.angelone.com,8.8,B2C,Mass Market,Indian,Yes
+BR0342,Motilal Oswal,Motilal Oswal Financial Services,Banking & FinTech,Broking & Wealth Management,Mumbai,Maharashtra,India,1987,2052,85.45,19.27,5885,www.motilaloswal.com,17.1,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0343,ICICI Direct,ICICI Securities,Banking & FinTech,Stock Broking,Mumbai,Maharashtra,India,2000,4530,316.24,46.98,5015,www.icicidirect.com,13.3,B2C,Families,Indian,Yes
+BR0344,HDFC Securities,HDFC Securities Ltd,Banking & FinTech,Stock Broking,Mumbai,Maharashtra,India,2000,1493,98.92,23.98,1156,www.hdfcsecurities.com,10.3,B2C,Youth (18-30),Indian,No
+BR0345,Bajaj Finserv,Bajaj Finserv Ltd,Banking & FinTech,NBFC & Insurance,Pune,Maharashtra,India,2007,16616,346.87,69.7,13071,www.bajajfinserv.com,10.6,B2C,Mass Market,Indian,Yes
+BR0346,Muthoot Finance,Muthoot Finance Ltd,Banking & FinTech,Gold Loans,Kochi,Kerala,India,1939,25636,1169.31,297.3,45837,www.muthootfinance.com,4.9,B2C,Mass Market,Indian,Yes
+BR0347,Manappuram Finance,Manappuram Finance Ltd,Banking & FinTech,Gold Loans,Thrissur,Kerala,India,1949,3580,201.01,16.87,6650,www.manappuramfinance.com,7.7,B2C,Working Professionals,Indian,Yes
+BR0348,Shriram Finance,Shriram Finance Ltd,Banking & FinTech,Vehicle & SME Finance,Chennai,Tamil Nadu,India,1974,25914,1085.57,211.56,15035,www.shriramfinance.com,7.7,B2C,Mass Market,Indian,Yes
+BR0349,Mahindra Finance,Mahindra & Mahindra Financial Services,Banking & FinTech,Rural Finance,Mumbai,Maharashtra,India,1991,2065,116.59,24.77,3211,www.mahindrafinance.com,19.3,B2C,Youth (18-30),Indian,Yes
+BR0350,LIC,Life Insurance Corporation of India,Banking & FinTech,Life Insurance,Mumbai,Maharashtra,India,1956,28035,1568.44,317.32,45481,www.lic.com,6.1,B2C,Premium/Affluent,Indian,Yes
+BR0351,HDFC Life,HDFC Life Insurance Company,Banking & FinTech,Life Insurance,Mumbai,Maharashtra,India,2000,4096,204.43,41.25,7373,www.hdfclife.com,11,B2C,Families,Indian,Yes
+BR0352,ICICI Prudential Life,ICICI Prudential Life Insurance,Banking & FinTech,Life Insurance,Mumbai,Maharashtra,India,2000,2303,106.85,11.98,5490,www.iciciprudentiallife.com,16.4,B2C,Families,Indian,Yes
+BR0353,SBI Life Insurance,SBI Life Insurance Company,Banking & FinTech,Life Insurance,Mumbai,Maharashtra,India,2001,3691,181.67,23.05,1104,www.sbilifeinsurance.com,20.4,B2C,Premium/Affluent,Indian,Yes
+BR0354,Star Health Insurance,Star Health & Allied Insurance,Banking & FinTech,Health Insurance,Chennai,Tamil Nadu,India,2006,4308,244.53,26.86,1737,www.starhealthinsurance.com,22.9,B2C,Premium/Affluent,Indian,Yes
+BR0355,Niyo,Finnew Solutions,Banking & FinTech,Neobanking for Travel/Salary,Bengaluru,Karnataka,India,2015,75,4.29,0.32,138,www.niyo.com,24.9,B2C,Urban Millennials,Indian,No
+BR0356,OneCard,FPL Technologies,Banking & FinTech,Credit Card App,Pune,Maharashtra,India,2020,285,12.11,2.58,1940,www.onecard.com,7.1,B2C,Urban Millennials,Indian,No
+BR0357,Setu,Setu (Pine Labs),Banking & FinTech,Fintech Infrastructure APIs,Bengaluru,Karnataka,India,2018,42,4.13,0.42,79,www.setu.com,11.5,B2B,Mass Market,Indian,No
+BR0358,Pine Labs,Pine Labs Pvt Ltd,Banking & FinTech,Merchant Commerce Platform,Noida,Uttar Pradesh,India,1998,841,29.87,6.26,3692,www.pinelabs.com,13.2,B2B,Working Professionals,Indian,No
+BR0359,Perfios,Perfios Software Solutions,Banking & FinTech,Financial Data Analytics,Bengaluru,Karnataka,India,2008,769,41.06,8.07,913,www.perfios.com,29.6,B2B,Youth (18-30),Indian,No
+BR0360,Astereer Fin,Astereer Ventures Pvt Ltd,Banking & FinTech,Credit,Gurugram,Haryana,India,2009,180,10.78,1.52,1861,www.astereerfin.com,17.2,B2C,Working Professionals,Indian,No
+BR0361,Suran Credit,Suran Ventures Pvt Ltd,Banking & FinTech,Pay,Gurugram,Haryana,India,2001,20,2.93,0.36,38,www.surancredit.com,16.6,B2C,Mass Market,Indian,No
+BR0362,Bhoomiika Money,Bhoomiika Ventures Pvt Ltd,Banking & FinTech,Capital,Noida,Uttar Pradesh,India,1995,25,4.05,0.14,161,www.bhoomiikamoney.com,34.1,B2B,Working Professionals,Indian,No
+BR0363,Asterin Finance,Asterin Ventures Pvt Ltd,Banking & FinTech,Finance,Kochi,Kerala,India,1996,5,0.64,0.04,17,www.asterinfinance.com,53.1,B2C,Youth (18-30),Indian,No
+BR0364,Elevora Credit,Elevora Ventures Pvt Ltd,Banking & FinTech,Bank,Bhopal,Madhya Pradesh,India,1995,54,4.5,0.81,245,www.elevoracredit.com,9.7,B2C,Urban Millennials,Indian,No
+BR0365,Kavyao Pay,Kavyao Ventures Pvt Ltd,Banking & FinTech,Money,Lucknow,Uttar Pradesh,India,2023,559,22.69,5.07,1224,www.kavyaopay.com,28.3,B2C,Families,Indian,No
+BR0366,Ishaanaan Pay,Ishaanaan Ventures Pvt Ltd,Banking & FinTech,Finance,Bhubaneswar,Odisha,India,2023,98,9.5,0.83,287,www.ishaanaanpay.com,33.5,B2C,Premium/Affluent,Indian,No
+BR0367,Kiaanin Bank,Kiaanin Ventures Pvt Ltd,Banking & FinTech,Money,Kolkata,West Bengal,India,2015,11,1.74,0.14,179,www.kiaaninbank.com,43.8,B2B,Enterprise/B2B Clients,Indian,No
+BR0368,Kiaanel Pay,Kiaanel Ventures Pvt Ltd,Banking & FinTech,Money,Bhubaneswar,Odisha,India,2006,5,0.75,0.1,166,www.kiaanelpay.com,12.7,B2C,Youth (18-30),Indian,No
+BR0369,Yasho Finance,Yasho Ventures Pvt Ltd,Banking & FinTech,Credit,Kochi,Kerala,India,1995,13,1.66,0.14,52,www.yashofinance.com,13.7,B2C,Working Professionals,Indian,No
+BR0370,Vantageon Pay,Vantageon Ventures Pvt Ltd,Banking & FinTech,Capital,Gurugram,Haryana,India,1998,324,18.34,1.94,1188,www.vantageonpay.com,12.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0371,Arura Money,Arura Ventures Pvt Ltd,Banking & FinTech,Capital,Bhopal,Madhya Pradesh,India,2021,11,1.11,0.09,156,www.aruramoney.com,32.4,B2C,Working Professionals,Indian,No
+BR0372,Kalpith Credit,Kalpith Ventures Pvt Ltd,Banking & FinTech,Money,Ludhiana,Punjab,India,2017,12,1.07,0.09,177,www.kalpithcredit.com,10.9,B2C,Enterprise/B2B Clients,Indian,No
+BR0373,Elevaa Credit,Elevaa Ventures Pvt Ltd,Banking & FinTech,Finance,Bhubaneswar,Odisha,India,2000,47,4.19,0.13,66,www.elevaacredit.com,37.3,B2C,Urban Millennials,Indian,No
+BR0374,Utsavra Finance,Utsavra Ventures Pvt Ltd,Banking & FinTech,Capital,Bhubaneswar,Odisha,India,2005,22,3.05,0.32,126,www.utsavrafinance.com,57.5,B2B,Rural & Semi-Urban,Indian,No
+BR0375,Saanviel Capital,Saanviel Ventures Pvt Ltd,Banking & FinTech,Fin,Kochi,Kerala,India,1995,678,54.78,11.99,829,www.saanvielcapital.com,22.2,B2B,Working Professionals,Indian,No
+BR0376,Omon Credit,Omon Ventures Pvt Ltd,Banking & FinTech,Fin,Ludhiana,Punjab,India,2006,18,2.12,0.17,34,www.omoncredit.com,48,B2C,Families,Indian,No
+BR0377,Taraith Pay,Taraith Ventures Pvt Ltd,Banking & FinTech,Bank,Kochi,Kerala,India,2000,1,0.13,0.01,84,www.taraithpay.com,37.4,B2B,Rural & Semi-Urban,Indian,No
+BR0378,Brightaan Pay,Brightaan Ventures Pvt Ltd,Banking & FinTech,Money,Vadodara,Gujarat,India,2012,73,3.89,0.23,91,www.brightaanpay.com,38.4,B2B,Enterprise/B2B Clients,Indian,No
+BR0379,Nakshatraora Money,Nakshatraora Ventures Pvt Ltd,Banking & FinTech,Pay,Surat,Gujarat,India,2004,4,0.51,0.02,110,www.nakshatraoramoney.com,20.8,B2C,Families,Indian,No
+BR0380,Surel Money,Surel Ventures Pvt Ltd,Banking & FinTech,Credit,Indore,Madhya Pradesh,India,2000,75,4.29,0.43,344,www.surelmoney.com,39,B2B,Premium/Affluent,Indian,No
+BR0381,Nakshatraaan Money,Nakshatraaan Ventures Pvt Ltd,Banking & FinTech,Finance,Coimbatore,Tamil Nadu,India,1999,80,6.48,0.92,278,www.nakshatraaanmoney.com,13,B2C,Working Professionals,Indian,No
+BR0382,Rohano Fin,Rohano Ventures Pvt Ltd,Banking & FinTech,Capital,Mysuru,Karnataka,India,2009,103,7.91,1.27,1036,www.rohanofin.com,30.3,B2C,Working Professionals,Indian,No
+BR0383,Kriaya Pay,Kriaya Ventures Pvt Ltd,Banking & FinTech,Fin,Chennai,Tamil Nadu,India,1996,93,9.76,1.8,374,www.kriayapay.com,29.4,B2C,Youth (18-30),Indian,No
+BR0384,Mudraora Bank,Mudraora Ventures Pvt Ltd,Banking & FinTech,Credit,Bhopal,Madhya Pradesh,India,2012,19,1.85,0.25,184,www.mudraorabank.com,26.7,B2C,Enterprise/B2B Clients,Indian,No
+BR0385,Elevaan Credit,Elevaan Ventures Pvt Ltd,Banking & FinTech,Credit,Gurugram,Haryana,India,2009,393,27.69,5.22,658,www.elevaancredit.com,13.9,B2C,Rural & Semi-Urban,Indian,No
+BR0386,Niraith Pay,Niraith Ventures Pvt Ltd,Banking & FinTech,Bank,Chennai,Tamil Nadu,India,2005,779,48.82,3.74,995,www.niraithpay.com,23.5,B2C,Urban Millennials,Indian,No
+BR0387,Krieer Finance,Krieer Ventures Pvt Ltd,Banking & FinTech,Fin,Thiruvananthapuram,Kerala,India,2017,690,46.51,5.25,1659,www.krieerfinance.com,33.1,B2C,Families,Indian,No
+BR0388,Novao Finance,Novao Ventures Pvt Ltd,Banking & FinTech,Bank,Coimbatore,Tamil Nadu,India,2001,6,0.83,0.05,98,www.novaofinance.com,56.1,B2C,Youth (18-30),Indian,No
+BR0389,Sattvaam Fin,Sattvaam Ventures Pvt Ltd,Banking & FinTech,Bank,Jaipur,Rajasthan,India,2002,787,57.05,13.79,1181,www.sattvaamfin.com,21.7,B2C,Rural & Semi-Urban,Indian,No
+BR0390,Brightin Finance,Brightin Ventures Pvt Ltd,Banking & FinTech,Credit,Ludhiana,Punjab,India,2008,597,46.6,7.57,1343,www.brightinfinance.com,22.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0391,Utsavix Capital,Utsavix Ventures Pvt Ltd,Banking & FinTech,Pay,Chennai,Tamil Nadu,India,2001,572,48.44,7.59,1947,www.utsavixcapital.com,30.6,B2B,Mass Market,Indian,No
+BR0392,Vantageesh Pay,Vantageesh Ventures Pvt Ltd,Banking & FinTech,Pay,Bhopal,Madhya Pradesh,India,2010,14,1.11,0.04,181,www.vantageeshpay.com,12.8,B2C,Urban Millennials,Indian,No
+BR0393,Sattvaen Capital,Sattvaen Ventures Pvt Ltd,Banking & FinTech,Finance,Chandigarh,Punjab,India,2006,625,30.03,3.22,663,www.sattvaencapital.com,10.2,B2C,Mass Market,Indian,No
+BR0394,Lumoam Capital,Lumoam Ventures Pvt Ltd,Banking & FinTech,Fin,Kanpur,Uttar Pradesh,India,1996,583,31.95,6.41,216,www.lumoamcapital.com,16.4,B2C,Working Professionals,Indian,No
+BR0395,Shaora Pay,Shaora Ventures Pvt Ltd,Banking & FinTech,Bank,Visakhapatnam,Andhra Pradesh,India,2012,172,14.32,2.83,1921,www.shaorapay.com,12.5,B2B,Enterprise/B2B Clients,Indian,No
+BR0396,Zenitheer Fin,Zenitheer Ventures Pvt Ltd,Banking & FinTech,Bank,Bhubaneswar,Odisha,India,2010,266,21.1,4.43,739,www.zenitheerfin.com,26.1,B2B,Mass Market,Indian,No
+BR0397,Vedon Money,Vedon Ventures Pvt Ltd,Banking & FinTech,Capital,Hyderabad,Telangana,India,2019,93,7.2,1.39,370,www.vedonmoney.com,19.6,B2B,Mass Market,Indian,No
+BR0398,Prishain Finance,Prishain Ventures Pvt Ltd,Banking & FinTech,Credit,Visakhapatnam,Andhra Pradesh,India,2016,11,0.76,0.1,246,www.prishainfinance.com,38.7,B2C,Rural & Semi-Urban,Indian,No
+BR0399,Utsavam Pay,Utsavam Ventures Pvt Ltd,Banking & FinTech,Money,Bengaluru,Karnataka,India,2007,78,6.88,0.91,391,www.utsavampay.com,43.7,B2C,Urban Millennials,Indian,No
+BR0400,Yashon Bank,Yashon Ventures Pvt Ltd,Banking & FinTech,Credit,Nagpur,Maharashtra,India,2014,50,5.99,0.26,108,www.yashonbank.com,35.2,B2C,Premium/Affluent,Indian,No
+BR0401,Manyavar,Vedant Fashions Ltd,Fashion & Lifestyle,Ethnic Wear,Kolkata,West Bengal,India,1999,2995,152.1,23.58,2682,www.manyavar.com,20.8,B2C,Rural & Semi-Urban,Indian,Yes
+BR0402,Fabindia,Fabindia Overseas Pvt Ltd,Fashion & Lifestyle,Ethnic & Home Fashion,New Delhi,Delhi,India,1960,2517,86.24,14.25,5795,www.fabindia.com,10.8,B2C,Enterprise/B2B Clients,Indian,No
+BR0403,W for Woman,TCNS Clothing Co.,Fashion & Lifestyle,Women's Ethnic Wear,Gurugram,Haryana,India,1996,495,34.97,8.69,963,www.wforwoman.com,27.9,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0404,Biba,Biba Apparels Pvt Ltd,Fashion & Lifestyle,Women's Ethnic Wear,Mumbai,Maharashtra,India,1988,3119,163.12,18.88,5580,www.biba.com,17.8,B2C,Urban Millennials,Indian,No
+BR0405,Global Desi,Global Desi (TCNS),Fashion & Lifestyle,Indo-Western Fashion,Gurugram,Haryana,India,2004,792,54.55,11.17,965,www.globaldesi.com,27.3,B2C,Premium/Affluent,Indian,Yes
+BR0406,FabAlley,FabFurnish Fashion Pvt Ltd,Fashion & Lifestyle,Women's Western Wear,Gurugram,Haryana,India,2012,624,38.86,7.38,481,www.faballey.com,8.9,B2C,Enterprise/B2B Clients,Indian,No
+BR0407,Westside,Trent Ltd (Tata Group),Fashion & Lifestyle,Fashion Retail,Mumbai,Maharashtra,India,1998,4102,254.43,51.6,6607,www.westside.com,21.3,B2C,Youth (18-30),Indian,Yes
+BR0408,Zudio,Trent Ltd (Tata Group),Fashion & Lifestyle,Value Fashion Retail,Mumbai,Maharashtra,India,2016,2434,134.94,32.5,7744,www.zudio.com,8.3,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0409,Van Heusen,Aditya Birla Fashion & Retail,Fashion & Lifestyle,Formal Wear,Mumbai,Maharashtra,India,1990,1170,47.42,7.31,5989,www.vanheusen.com,5.9,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0410,Allen Solly,Aditya Birla Fashion & Retail,Fashion & Lifestyle,Smart Casual Wear,Mumbai,Maharashtra,India,1993,4709,216.73,45.78,3346,www.allensolly.com,21.4,B2C,Mass Market,Indian,Yes
+BR0411,Louis Philippe,Aditya Birla Fashion & Retail,Fashion & Lifestyle,Premium Formal Wear,Mumbai,Maharashtra,India,1989,4772,299.73,62.36,4596,www.louisphilippe.com,5.2,B2C,Urban Millennials,Indian,Yes
+BR0412,Peter England,Aditya Birla Fashion & Retail,Fashion & Lifestyle,Formal Wear,Mumbai,Maharashtra,India,1997,1618,99.27,18.08,6721,www.peterengland.com,10.3,B2C,Youth (18-30),Indian,Yes
+BR0413,Pantaloons,Aditya Birla Fashion & Retail,Fashion & Lifestyle,Fashion Retail,Bengaluru,Karnataka,India,1997,3631,161.17,34.01,2289,www.pantaloons.com,7,B2C,Urban Millennials,Indian,Yes
+BR0414,Lifestyle,Landmark Group,Fashion & Lifestyle,Fashion Retail,Bengaluru,Karnataka,India,1999,4075,179.79,28.59,5801,www.lifestyle.com,9.6,B2C,Mass Market,Indian,No
+BR0415,Shoppers Stop,Shoppers Stop Ltd,Fashion & Lifestyle,Department Store,Mumbai,Maharashtra,India,1991,3895,127.54,12.5,3330,www.shoppersstop.com,21.7,B2C,Rural & Semi-Urban,Indian,Yes
+BR0416,Raymond,Raymond Lifestyle Ltd,Fashion & Lifestyle,Fabric & Apparel,Mumbai,Maharashtra,India,1925,2259,141.48,17.72,2593,www.raymond.com,15.5,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0417,Blackberrys,Mohan Clothing Company,Fashion & Lifestyle,Formal Menswear,Faridabad,Haryana,India,1975,502,26.66,3.5,368,www.blackberrys.com,22.2,B2C,Urban Millennials,Indian,No
+BR0418,Arvind Fashions,Arvind Fashions Ltd,Fashion & Lifestyle,Denim & Apparel Manufacturing,Ahmedabad,Gujarat,India,1931,2228,77.26,14.11,3111,www.arvindfashions.com,25.2,B2B,Urban Millennials,Indian,Yes
+BR0419,Killer Jeans,Kewal Kiran Clothing,Fashion & Lifestyle,Denim Wear,Mumbai,Maharashtra,India,1989,586,51.74,8.41,1726,www.killerjeans.com,13.1,B2C,Rural & Semi-Urban,Indian,Yes
+BR0420,Spykar,Spykar Lifestyles,Fashion & Lifestyle,Denim & Casual Wear,Mumbai,Maharashtra,India,1992,773,48.65,6.92,1351,www.spykar.com,31,B2C,Working Professionals,Indian,No
+BR0421,Flying Machine,Arvind Fashions,Fashion & Lifestyle,Denim Wear,Ahmedabad,Gujarat,India,1980,181,7.87,1.39,601,www.flyingmachine.com,25.6,B2C,Families,Indian,Yes
+BR0422,Wildcraft,Wildcraft India,Fashion & Lifestyle,Outdoor & Backpacks,Bengaluru,Karnataka,India,2001,660,40.02,4.83,1247,www.wildcraft.com,6.3,B2C,Urban Millennials,Indian,No
+BR0423,Woodland,Aero Club,Fashion & Lifestyle,Footwear & Outdoor Apparel,New Delhi,Delhi,India,1992,1843,62.14,13.34,7726,www.woodland.com,12.9,B2C,Youth (18-30),Indian,No
+BR0424,Bata India,Bata India Ltd,Fashion & Lifestyle,Footwear,Kolkata,West Bengal,India,1931,2802,123.66,32.01,3204,www.bataindia.com,9.2,B2C,Families,Indian,Yes
+BR0425,Metro Shoes,Metro Brands Ltd,Fashion & Lifestyle,Footwear Retail,Mumbai,Maharashtra,India,1955,2896,110,24.98,3174,www.metroshoes.com,9.8,B2C,Families,Indian,Yes
+BR0426,Liberty Shoes,Liberty Shoes Ltd,Fashion & Lifestyle,Footwear,Karnal,Haryana,India,1954,685,56,6.79,1745,www.libertyshoes.com,9.1,B2C,Premium/Affluent,Indian,Yes
+BR0427,Relaxo Footwears,Relaxo Footwears Ltd,Fashion & Lifestyle,Footwear,New Delhi,Delhi,India,1976,3638,205.7,41.71,7260,www.relaxofootwears.com,24.7,B2C,Mass Market,Indian,Yes
+BR0428,Campus Shoes,Campus Activewear Ltd,Fashion & Lifestyle,Sports Footwear,New Delhi,Delhi,India,2005,4362,195.61,27.99,5706,www.campusshoes.com,25,B2C,Working Professionals,Indian,Yes
+BR0429,Paragon Footwear,Paragon Polymer Products,Fashion & Lifestyle,Footwear,Kochi,Kerala,India,1975,228,17.83,2.71,964,www.paragonfootwear.com,12.4,B2C,Youth (18-30),Indian,No
+BR0430,Khadims,Khadim India Ltd,Fashion & Lifestyle,Footwear Retail,Kolkata,West Bengal,India,1965,138,11.03,1.61,1257,www.khadims.com,6.9,B2C,Rural & Semi-Urban,Indian,Yes
+BR0431,Titan,Titan Company Ltd,Fashion & Lifestyle,Watches & Jewellery,Bengaluru,Karnataka,India,1984,26654,1264.85,170.7,12888,www.titan.com,16.6,B2C,Working Professionals,Indian,Yes
+BR0432,Tanishq,Titan Company Ltd,Fashion & Lifestyle,Jewellery,Bengaluru,Karnataka,India,1994,22361,454.75,106.78,29866,www.tanishq.com,14.5,B2C,Rural & Semi-Urban,Indian,Yes
+BR0433,CaratLane,CaratLane Trading (Titan),Fashion & Lifestyle,Online Jewellery,Chennai,Tamil Nadu,India,2008,2319,149.5,17.56,3153,www.caratlane.com,10.5,B2C,Working Professionals,Indian,No
+BR0434,Kalyan Jewellers,Kalyan Jewellers India Ltd,Fashion & Lifestyle,Jewellery Retail,Thrissur,Kerala,India,1993,57719,1946.51,266.25,32783,www.kalyanjewellers.com,7.8,B2C,Rural & Semi-Urban,Indian,Yes
+BR0435,Malabar Gold & Diamonds,Malabar Group,Fashion & Lifestyle,Jewellery Retail,Kozhikode,Kerala,India,1993,25079,903.45,171.79,42447,www.malabargolddiamonds.com,6.4,B2C,Families,Indian,No
+BR0436,PC Jeweller,PC Jeweller Ltd,Fashion & Lifestyle,Jewellery Retail,New Delhi,Delhi,India,2005,4220,248.25,59.78,5549,www.pcjeweller.com,14.9,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0437,Joyalukkas,Joyalukkas Group,Fashion & Lifestyle,Jewellery Retail,Thrissur,Kerala,India,1987,15784,820.77,203.31,35997,www.joyalukkas.com,18.5,B2C,Youth (18-30),Indian,No
+BR0438,Fastrack,Titan Company Ltd,Fashion & Lifestyle,Youth Watches & Accessories,Bengaluru,Karnataka,India,1998,395,18.46,4.22,1441,www.fastrack.com,21,B2C,Rural & Semi-Urban,Indian,Yes
+BR0439,Sonata Watches,Titan Company Ltd,Fashion & Lifestyle,Watches,Bengaluru,Karnataka,India,1990,650,35.73,5.8,1312,www.sonatawatches.com,7.4,B2C,Premium/Affluent,Indian,Yes
+BR0440,Hidesign,Hidesign India,Fashion & Lifestyle,Leather Goods,Puducherry,Puducherry,India,1978,583,25.09,5.34,1125,www.hidesign.com,30.3,B2C,Premium/Affluent,Indian,No
+BR0441,Da Milano,Da Milano,Fashion & Lifestyle,Luxury Leather Goods,New Delhi,Delhi,India,1980,415,23.54,2.88,1297,www.damilano.com,22.2,B2C,Urban Millennials,Indian,No
+BR0442,Baggit,Baggit India Pvt Ltd,Fashion & Lifestyle,Handbags & Accessories,Mumbai,Maharashtra,India,1990,41,3.23,0.29,367,www.baggit.com,43.6,B2C,Families,Indian,No
+BR0443,Fabulloso (Myntra),Myntra Designs (Flipkart),Fashion & Lifestyle,Fashion E-commerce,Bengaluru,Karnataka,India,2007,36727,1689.24,350.83,56138,www.fabullosomyntra.com,9.1,B2C,Rural & Semi-Urban,Indian,No
+BR0444,Ajio,Reliance Retail,Fashion & Lifestyle,Fashion E-commerce,Mumbai,Maharashtra,India,2016,42026,1660,410.53,10138,www.ajio.com,10.9,B2C,Urban Millennials,Indian,No
+BR0445,Nykaa Fashion,FSN E-Commerce Ventures,Fashion & Lifestyle,Fashion E-commerce,Mumbai,Maharashtra,India,2018,2748,187.58,47.58,6247,www.nykaafashion.com,23.6,B2C,Rural & Semi-Urban,Indian,Yes
+BR0446,Snitch,Snitch Apparels,Fashion & Lifestyle,Men's Fashion D2C,Bengaluru,Karnataka,India,2019,395,27.91,3.65,296,www.snitch.com,8.3,B2C,Rural & Semi-Urban,Indian,No
+BR0447,Bewakoof,Bewakoof Brands,Fashion & Lifestyle,Casual Fashion D2C,Mumbai,Maharashtra,India,2012,260,14.51,1.57,697,www.bewakoof.com,23.6,B2C,Enterprise/B2B Clients,Indian,No
+BR0448,The Souled Store,The Souled Store Pvt Ltd,Fashion & Lifestyle,Pop-Culture Merchandise,Mumbai,Maharashtra,India,2013,290,18.04,4.02,893,www.thesouledstore.com,27.7,B2C,Working Professionals,Indian,No
+BR0449,Chumbak,Chumbak Design Pvt Ltd,Fashion & Lifestyle,Lifestyle & Accessories,Bengaluru,Karnataka,India,2010,390,19.18,1.05,1640,www.chumbak.com,12.8,B2C,Urban Millennials,Indian,No
+BR0450,FabIndia Home,Fabindia Overseas Pvt Ltd,Fashion & Lifestyle,Home Fashion,New Delhi,Delhi,India,1976,758,56.9,3.76,491,www.fabindiahome.com,17.5,B2C,Premium/Affluent,Indian,No
+BR0451,Kiaanan Couture,Kiaanan Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Kanpur,Uttar Pradesh,India,2003,145,12.15,1.94,203,www.kiaanancouture.com,28.4,B2B,Premium/Affluent,Indian,No
+BR0452,Surith Couture,Surith Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Hyderabad,Telangana,India,1999,4,0.5,0.02,109,www.surithcouture.com,25.5,B2C,Families,Indian,No
+BR0453,Swastikika Styles,Swastikika Ventures Pvt Ltd,Fashion & Lifestyle,Lifestyle,Jaipur,Rajasthan,India,2020,76,6.19,0.32,289,www.swastikikastyles.com,39,B2C,Mass Market,Indian,No
+BR0454,Rohanon Apparel,Rohanon Ventures Pvt Ltd,Fashion & Lifestyle,Apparel,Vadodara,Gujarat,India,1997,2,0.21,0.03,131,www.rohanonapparel.com,33.4,B2C,Urban Millennials,Indian,No
+BR0455,Sattvaen Fashion,Sattvaen Ventures Pvt Ltd,Fashion & Lifestyle,Lifestyle,Ludhiana,Punjab,India,2023,484,22.63,5.42,1254,www.sattvaenfashion.com,11.1,B2C,Working Professionals,Indian,No
+BR0456,Dhruvaa Styles,Dhruvaa Ventures Pvt Ltd,Fashion & Lifestyle,Couture,Bhubaneswar,Odisha,India,1998,67,6.31,0.79,288,www.dhruvaastyles.com,31.7,B2C,Urban Millennials,Indian,No
+BR0457,Bhoomiika Wear,Bhoomiika Ventures Pvt Ltd,Fashion & Lifestyle,Couture,Gurugram,Haryana,India,2016,23,2.92,0.14,32,www.bhoomiikawear.com,32.1,B2B,Rural & Semi-Urban,Indian,No
+BR0458,Omen Lifestyle,Omen Ventures Pvt Ltd,Fashion & Lifestyle,Lifestyle,Jaipur,Rajasthan,India,2011,11,1.04,0.02,143,www.omenlifestyle.com,50.8,B2C,Youth (18-30),Indian,No
+BR0459,Primeus Couture,Primeus Ventures Pvt Ltd,Fashion & Lifestyle,Lifestyle,New Delhi,Delhi,India,2023,41,3.39,0.11,271,www.primeuscouture.com,43,B2C,Working Professionals,Indian,No
+BR0460,Tarao Styles,Tarao Ventures Pvt Ltd,Fashion & Lifestyle,Threads,Nagpur,Maharashtra,India,1997,310,24.25,5.08,1372,www.taraostyles.com,12.7,B2B,Mass Market,Indian,No
+BR0461,Novaesh Apparel,Novaesh Ventures Pvt Ltd,Fashion & Lifestyle,Fashion,Visakhapatnam,Andhra Pradesh,India,2018,59,3.75,0.67,243,www.novaeshapparel.com,22.6,B2C,Youth (18-30),Indian,No
+BR0462,Saanvian Fashion,Saanvian Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Bengaluru,Karnataka,India,2000,18,2.63,0.34,66,www.saanvianfashion.com,23.1,B2C,Enterprise/B2B Clients,Indian,No
+BR0463,Nakshatraam Couture,Nakshatraam Ventures Pvt Ltd,Fashion & Lifestyle,Lifestyle,Bhopal,Madhya Pradesh,India,2015,66,5.71,0.95,333,www.nakshatraamcouture.com,37.9,B2C,Urban Millennials,Indian,No
+BR0464,Omeer Fashion,Omeer Ventures Pvt Ltd,Fashion & Lifestyle,Lifestyle,Bengaluru,Karnataka,India,2017,8,1.2,0.15,115,www.omeerfashion.com,19.4,B2B,Premium/Affluent,Indian,No
+BR0465,Taraash Styles,Taraash Ventures Pvt Ltd,Fashion & Lifestyle,Couture,Jaipur,Rajasthan,India,2004,5,0.59,0.06,168,www.taraashstyles.com,32.6,B2C,Working Professionals,Indian,No
+BR0466,Niraix Apparel,Niraix Ventures Pvt Ltd,Fashion & Lifestyle,Styles,Gurugram,Haryana,India,2018,27,1.38,0.05,293,www.niraixapparel.com,8.8,B2B,Premium/Affluent,Indian,No
+BR0467,Dhruvaan Apparel,Dhruvaan Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Jaipur,Rajasthan,India,1995,35,2.08,0.22,24,www.dhruvaanapparel.com,16.6,B2C,Youth (18-30),Indian,No
+BR0468,Veda Wear,Veda Ventures Pvt Ltd,Fashion & Lifestyle,Threads,Indore,Madhya Pradesh,India,2004,110,5.61,0.75,1759,www.vedawear.com,29.2,B2B,Rural & Semi-Urban,Indian,No
+BR0469,Veeraa Couture,Veeraa Ventures Pvt Ltd,Fashion & Lifestyle,Styles,Hyderabad,Telangana,India,2000,425,33.79,3.92,1877,www.veeraacouture.com,27.8,B2C,Youth (18-30),Indian,No
+BR0470,Omo Threads,Omo Ventures Pvt Ltd,Fashion & Lifestyle,Lifestyle,New Delhi,Delhi,India,2015,15,1.56,0.07,260,www.omothreads.com,14.7,B2C,Urban Millennials,Indian,No
+BR0471,Ojasesh Apparel,Ojasesh Ventures Pvt Ltd,Fashion & Lifestyle,Threads,Bhubaneswar,Odisha,India,2006,672,54.72,4.07,1723,www.ojaseshapparel.com,26.7,B2C,Enterprise/B2B Clients,Indian,No
+BR0472,Dhruvika Fashion,Dhruvika Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Kolkata,West Bengal,India,2010,79,6.43,1,37,www.dhruvikafashion.com,15.4,B2C,Premium/Affluent,Indian,No
+BR0473,Kalpin Wear,Kalpin Ventures Pvt Ltd,Fashion & Lifestyle,Lifestyle,Chandigarh,Punjab,India,2008,465,41.42,5.99,1545,www.kalpinwear.com,33.9,B2C,Rural & Semi-Urban,Indian,No
+BR0474,Nakshatrael Threads,Nakshatrael Ventures Pvt Ltd,Fashion & Lifestyle,Threads,Visakhapatnam,Andhra Pradesh,India,2021,24,2.45,0.38,301,www.nakshatraelthreads.com,27.3,B2C,Urban Millennials,Indian,No
+BR0475,Vantageus Couture,Vantageus Ventures Pvt Ltd,Fashion & Lifestyle,Apparel,Chandigarh,Punjab,India,2010,53,3.78,0.35,46,www.vantageuscouture.com,40,B2C,Families,Indian,No
+BR0476,Shaam Styles,Shaam Ventures Pvt Ltd,Fashion & Lifestyle,Threads,Hyderabad,Telangana,India,2003,24,2.53,0.19,13,www.shaamstyles.com,18.4,B2C,Urban Millennials,Indian,No
+BR0477,Kria Styles,Kria Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Nagpur,Maharashtra,India,2013,63,4.86,0.35,41,www.kriastyles.com,29.5,B2C,Working Professionals,Indian,No
+BR0478,Vedeer Lifestyle,Vedeer Ventures Pvt Ltd,Fashion & Lifestyle,Styles,Bhubaneswar,Odisha,India,2006,72,4.38,0.71,147,www.vedeerlifestyle.com,13.8,B2C,Premium/Affluent,Indian,No
+BR0479,Dhruvin Couture,Dhruvin Ventures Pvt Ltd,Fashion & Lifestyle,Threads,Mysuru,Karnataka,India,2006,72,5.28,1.03,340,www.dhruvincouture.com,10.2,B2C,Rural & Semi-Urban,Indian,No
+BR0480,Naveenora Apparel,Naveenora Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Hyderabad,Telangana,India,2000,551,41.38,8.62,407,www.naveenoraapparel.com,20.1,B2C,Rural & Semi-Urban,Indian,No
+BR0481,Rudraix Lifestyle,Rudraix Ventures Pvt Ltd,Fashion & Lifestyle,Fashion,New Delhi,Delhi,India,2019,98,10.35,1.64,244,www.rudraixlifestyle.com,35.1,B2C,Mass Market,Indian,No
+BR0482,Nakshatraan Threads,Nakshatraan Ventures Pvt Ltd,Fashion & Lifestyle,Couture,Kolkata,West Bengal,India,2007,72,5.41,0.29,40,www.nakshatraanthreads.com,26,B2B,Working Professionals,Indian,No
+BR0483,Vedaan Lifestyle,Vedaan Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Coimbatore,Tamil Nadu,India,2021,14,1.93,0.16,155,www.vedaanlifestyle.com,19.3,B2C,Rural & Semi-Urban,Indian,No
+BR0484,Vasuen Threads,Vasuen Ventures Pvt Ltd,Fashion & Lifestyle,Styles,Bhopal,Madhya Pradesh,India,2013,39,3.24,0.58,326,www.vasuenthreads.com,41.8,B2C,Youth (18-30),Indian,No
+BR0485,Ojasen Apparel,Ojasen Ventures Pvt Ltd,Fashion & Lifestyle,Couture,Bhopal,Madhya Pradesh,India,2021,3,0.26,0.02,77,www.ojasenapparel.com,37.1,B2B,Working Professionals,Indian,No
+BR0486,Utsava Wear,Utsava Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Hyderabad,Telangana,India,2000,101,7.23,0.91,529,www.utsavawear.com,31.6,B2C,Rural & Semi-Urban,Indian,No
+BR0487,Kavyain Apparel,Kavyain Ventures Pvt Ltd,Fashion & Lifestyle,Fashion,Surat,Gujarat,India,2014,20,2.04,0.23,178,www.kavyainapparel.com,58.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0488,Zenithith Threads,Zenithith Ventures Pvt Ltd,Fashion & Lifestyle,Apparel,Coimbatore,Tamil Nadu,India,2016,27,2.65,0.42,98,www.zenithiththreads.com,30.7,B2C,Rural & Semi-Urban,Indian,No
+BR0489,Bhoomiora Fashion,Bhoomiora Ventures Pvt Ltd,Fashion & Lifestyle,Apparel,Gurugram,Haryana,India,1999,47,3.4,0.16,357,www.bhoomiorafashion.com,10.5,B2C,Youth (18-30),Indian,No
+BR0490,Primean Wear,Primean Ventures Pvt Ltd,Fashion & Lifestyle,Apparel,Hyderabad,Telangana,India,2000,225,9.35,0.67,542,www.primeanwear.com,8.9,B2C,Enterprise/B2B Clients,Indian,No
+BR0491,Aadhyaika Wear,Aadhyaika Ventures Pvt Ltd,Fashion & Lifestyle,Lifestyle,Nagpur,Maharashtra,India,2018,69,6.01,0.9,151,www.aadhyaikawear.com,9.8,B2B,Families,Indian,No
+BR0492,Kavyaus Wear,Kavyaus Ventures Pvt Ltd,Fashion & Lifestyle,Couture,Bhubaneswar,Odisha,India,2000,524,22.83,5.39,577,www.kavyauswear.com,25,B2C,Premium/Affluent,Indian,No
+BR0493,Kalpo Wear,Kalpo Ventures Pvt Ltd,Fashion & Lifestyle,Couture,Noida,Uttar Pradesh,India,2018,52,4.94,0.45,400,www.kalpowear.com,42.7,B2C,Enterprise/B2B Clients,Indian,No
+BR0494,Krira Couture,Krira Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Indore,Madhya Pradesh,India,1998,675,53.84,3.32,1413,www.kriracouture.com,13.7,B2B,Mass Market,Indian,No
+BR0495,Primeora Couture,Primeora Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Hyderabad,Telangana,India,2000,76,8.25,0.36,130,www.primeoracouture.com,43.5,B2C,Premium/Affluent,Indian,No
+BR0496,Sattvaon Styles,Sattvaon Ventures Pvt Ltd,Fashion & Lifestyle,Wear,Chennai,Tamil Nadu,India,2010,19,1.26,0.12,118,www.sattvaonstyles.com,27.5,B2C,Families,Indian,No
+BR0497,Surora Threads,Surora Ventures Pvt Ltd,Fashion & Lifestyle,Threads,Visakhapatnam,Andhra Pradesh,India,2006,15,2.57,0.24,152,www.surorathreads.com,30.8,B2C,Premium/Affluent,Indian,No
+BR0498,Nakshatraix Styles,Nakshatraix Ventures Pvt Ltd,Fashion & Lifestyle,Styles,Bhopal,Madhya Pradesh,India,2013,19,2.67,0.29,189,www.nakshatraixstyles.com,43.3,B2B,Premium/Affluent,Indian,No
+BR0499,Elevesh Couture,Elevesh Ventures Pvt Ltd,Fashion & Lifestyle,Styles,Hyderabad,Telangana,India,2010,5,0.49,0.04,96,www.eleveshcouture.com,42.9,B2C,Working Professionals,Indian,No
+BR0500,Utsaveer Couture,Utsaveer Ventures Pvt Ltd,Fashion & Lifestyle,Styles,Noida,Uttar Pradesh,India,1995,23,3.98,0.36,93,www.utsaveercouture.com,52.2,B2C,Enterprise/B2B Clients,Indian,No
+BR0501,Maruti Suzuki,Maruti Suzuki India Ltd,Automobile & EV,Passenger Vehicles,New Delhi,Delhi,India,1981,16679,760.96,181.11,21673,www.marutisuzuki.com,18.2,B2C,Urban Millennials,Indian,Yes
+BR0502,Tata Motors,Tata Motors Ltd,Automobile & EV,Passenger & Commercial Vehicles,Mumbai,Maharashtra,India,1945,21516,903.65,228.99,12460,www.tatamotors.com,16.3,B2C,Rural & Semi-Urban,Indian,Yes
+BR0503,Mahindra & Mahindra,Mahindra & Mahindra Ltd,Automobile & EV,SUVs & Tractors,Mumbai,Maharashtra,India,1945,26783,1145.14,334.41,59528,www.mahindramahindra.com,7.2,B2C,Rural & Semi-Urban,Indian,Yes
+BR0504,Hero MotoCorp,Hero MotoCorp Ltd,Automobile & EV,Two-Wheelers,New Delhi,Delhi,India,1984,50860,2893.51,566.61,36096,www.heromotocorp.com,18.4,B2C,Youth (18-30),Indian,Yes
+BR0505,Bajaj Auto,Bajaj Auto Ltd,Automobile & EV,Two & Three-Wheelers,Pune,Maharashtra,India,1945,31482,1419.47,395.2,40190,www.bajajauto.com,20.1,B2C,Working Professionals,Indian,Yes
+BR0506,TVS Motor,TVS Motor Company,Automobile & EV,Two-Wheelers,Chennai,Tamil Nadu,India,1978,48119,1759.15,437.18,59729,www.tvsmotor.com,13.4,B2C,Rural & Semi-Urban,Indian,Yes
+BR0507,Royal Enfield,Eicher Motors Ltd,Automobile & EV,Motorcycles,Chennai,Tamil Nadu,India,1901,3132,96.3,18.82,3717,www.royalenfield.com,23.4,B2C,Rural & Semi-Urban,Indian,Yes
+BR0508,Ashok Leyland,Ashok Leyland Ltd,Automobile & EV,Commercial Vehicles,Chennai,Tamil Nadu,India,1948,8642,224.44,60.18,27226,www.ashokleyland.com,21.7,B2C,Youth (18-30),Indian,Yes
+BR0509,Force Motors,Force Motors Ltd,Automobile & EV,Commercial & Utility Vehicles,Pune,Maharashtra,India,1958,3198,145.78,29.02,7408,www.forcemotors.com,22.3,B2C,Rural & Semi-Urban,Indian,Yes
+BR0510,Ola Electric,Ola Electric Mobility Ltd,Automobile & EV,Electric Two-Wheelers,Bengaluru,Karnataka,India,2017,3781,154.5,15.04,2946,www.olaelectric.com,13.5,B2C,Urban Millennials,Indian,Yes
+BR0511,Ather Energy,Ather Energy Pvt Ltd,Automobile & EV,Electric Two-Wheelers,Bengaluru,Karnataka,India,2013,251,13.85,1,1757,www.atherenergy.com,7.1,B2C,Families,Indian,Yes
+BR0512,Bajaj Chetak (EV),Bajaj Auto Ltd,Automobile & EV,Electric Scooters,Pune,Maharashtra,India,2020,739,45.98,2.53,1138,www.bajajchetakev.com,32.2,B2C,Youth (18-30),Indian,Yes
+BR0513,TVS iQube,TVS Motor Company,Automobile & EV,Electric Scooters,Chennai,Tamil Nadu,India,2020,233,20.09,3.95,1222,www.tvsiqube.com,15,B2C,Rural & Semi-Urban,Indian,Yes
+BR0514,Hero Electric,Hero Electric Vehicles Pvt Ltd,Automobile & EV,Electric Two-Wheelers,Ludhiana,Punjab,India,2007,200,16.74,3.59,1207,www.heroelectric.com,25.6,B2C,Youth (18-30),Indian,No
+BR0515,Okinawa Autotech,Okinawa Autotech Pvt Ltd,Automobile & EV,Electric Two-Wheelers,Gurugram,Haryana,India,2015,244,10.19,1.3,1921,www.okinawaautotech.com,21.1,B2C,Mass Market,Indian,No
+BR0516,Ampere Vehicles,Ampere Vehicles (Greaves Electric Mobility),Automobile & EV,Electric Two-Wheelers,Coimbatore,Tamil Nadu,India,2008,38,2.02,0.35,64,www.amperevehicles.com,20.3,B2C,Mass Market,Indian,No
+BR0517,Revolt Motors,Revolt Intellicorp,Automobile & EV,Electric Motorcycles,Gurugram,Haryana,India,2019,19,2,0.31,31,www.revoltmotors.com,29.4,B2C,Urban Millennials,Indian,No
+BR0518,Simple Energy,Simple Energy Pvt Ltd,Automobile & EV,Electric Scooters,Bengaluru,Karnataka,India,2019,68,4.37,0.28,166,www.simpleenergy.com,18.2,B2C,Rural & Semi-Urban,Indian,No
+BR0519,Mahindra Electric,Mahindra Electric Automobile Ltd,Automobile & EV,Electric Vehicles,Bengaluru,Karnataka,India,2010,641,47.15,4.93,472,www.mahindraelectric.com,13.9,B2C,Mass Market,Indian,Yes
+BR0520,Tata.ev,Tata Motors Ltd,Automobile & EV,Electric Passenger Vehicles,Mumbai,Maharashtra,India,2020,4825,252.75,25.4,5444,www.tataev.com,13.1,B2C,Rural & Semi-Urban,Indian,Yes
+BR0521,PMI Electro Mobility,PMI Electro Mobility Solutions,Automobile & EV,Electric Buses,Faridabad,Haryana,India,2017,34,3.99,0.67,313,www.pmielectromobility.com,17.1,B2B,Premium/Affluent,Indian,No
+BR0522,Olectra Greentech,Olectra Greentech Ltd,Automobile & EV,Electric Buses,Hyderabad,Telangana,India,2000,318,26.91,4.25,253,www.olectragreentech.com,9.8,B2B,Working Professionals,Indian,Yes
+BR0523,JBM Auto,JBM Auto Ltd,Automobile & EV,Electric Buses & Auto Components,New Delhi,Delhi,India,1983,4594,147.09,23.05,1705,www.jbmauto.com,14.8,B2B,Youth (18-30),Indian,Yes
+BR0524,Escorts Kubota,Escorts Kubota Ltd,Automobile & EV,Tractors & Farm Equipment,Faridabad,Haryana,India,1944,3760,246.82,50.82,6653,www.escortskubota.com,21.1,B2C,Rural & Semi-Urban,Indian,Yes
+BR0525,Eicher Motors,Eicher Motors Ltd,Automobile & EV,Commercial Vehicles,Pithampur,Madhya Pradesh,India,1948,2112,132.44,29.48,6495,www.eichermotors.com,23.6,B2C,Premium/Affluent,Indian,Yes
+BR0526,SML Isuzu,SML Isuzu Ltd,Automobile & EV,Commercial Vehicles,Chandigarh,Punjab,India,1983,782,60.8,8.7,419,www.smlisuzu.com,8.7,B2C,Working Professionals,Indian,Yes
+BR0527,Piaggio India,Piaggio Vehicles Pvt Ltd,Automobile & EV,Three-Wheelers,Pune,Maharashtra,India,1999,168,9.33,1.67,1719,www.piaggioindia.com,19.5,B2C,Families,Indian,No
+BR0528,Mahindra Last Mile Mobility,Mahindra & Mahindra Ltd,Automobile & EV,Three-Wheelers & Small EVs,Mumbai,Maharashtra,India,2016,763,36.01,8.25,678,www.mahindralastmilemobility.com,32.5,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0529,Yulu,Bounce/Yulu Bikes Pvt Ltd,Automobile & EV,Shared Electric Mobility,Bengaluru,Karnataka,India,2017,27,3.03,0.26,186,www.yulu.com,24.8,B2C,Mass Market,Indian,No
+BR0530,Bounce,Bounce (Wickr Innovations),Automobile & EV,Shared Two-Wheeler Mobility,Bengaluru,Karnataka,India,2014,16,0.92,0.1,107,www.bounce.com,18.4,B2C,Rural & Semi-Urban,Indian,No
+BR0531,MG Motor India,JSW MG Motor India,Automobile & EV,Passenger & Electric Vehicles,Gurugram,Haryana,India,2017,3339,117.17,11.79,7697,www.mgmotorindia.com,21.4,B2C,Premium/Affluent,Indian,No
+BR0532,Cummins India,Cummins India Ltd,Automobile & EV,Engines & Powertrain,Pune,Maharashtra,India,1962,2169,121.4,28.95,5364,www.cumminsindia.com,15.6,B2B,Enterprise/B2B Clients,Indian,Yes
+BR0533,Bharat Forge,Bharat Forge Ltd,Automobile & EV,Auto Components/Forging,Pune,Maharashtra,India,1961,1802,71.63,8.01,4951,www.bharatforge.com,13.8,B2B,Rural & Semi-Urban,Indian,Yes
+BR0534,Motherson Sumi (Samvardhana Motherson),Samvardhana Motherson International,Automobile & EV,Auto Components,Noida,Uttar Pradesh,India,1975,16453,785.84,146.35,33531,www.mothersonsumisamvardhanamotherson.com,14.2,B2B,Rural & Semi-Urban,Indian,Yes
+BR0535,Bosch India,Bosch Ltd,Automobile & EV,Auto Components,Bengaluru,Karnataka,India,1951,3087,121.77,25.88,1638,www.boschindia.com,22,B2B,Working Professionals,Indian,Yes
+BR0536,Amara Raja Batteries,Amara Raja Energy & Mobility,Automobile & EV,Automotive Batteries,Tirupati,Andhra Pradesh,India,1985,1280,68.93,10,1799,www.amararajabatteries.com,23.9,B2B,Youth (18-30),Indian,Yes
+BR0537,Exide Industries,Exide Industries Ltd,Automobile & EV,Automotive Batteries,Kolkata,West Bengal,India,1947,2094,96.8,19.33,6615,www.exideindustries.com,23.7,B2B,Enterprise/B2B Clients,Indian,Yes
+BR0538,MRF Tyres,MRF Ltd,Automobile & EV,Tyres,Chennai,Tamil Nadu,India,1946,23008,1053.73,118.33,19261,www.mrftyres.com,18.7,B2C,Mass Market,Indian,Yes
+BR0539,Apollo Tyres,Apollo Tyres Ltd,Automobile & EV,Tyres,Gurugram,Haryana,India,1972,3980,224.6,38.32,3387,www.apollotyres.com,14,B2C,Working Professionals,Indian,Yes
+BR0540,CEAT Tyres,CEAT Ltd (RPG Group),Automobile & EV,Tyres,Mumbai,Maharashtra,India,1958,1622,92.87,13.31,5671,www.ceattyres.com,23.3,B2C,Urban Millennials,Indian,Yes
+BR0541,JK Tyre,JK Tyre & Industries,Automobile & EV,Tyres,New Delhi,Delhi,India,1977,4658,314.24,70.25,3820,www.jktyre.com,27.8,B2C,Mass Market,Indian,Yes
+BR0542,Swastikora Drive,Swastikora Ventures Pvt Ltd,Automobile & EV,Electric,Kochi,Kerala,India,2013,65,5.57,0.97,170,www.swastikoradrive.com,10.3,B2B,Mass Market,Indian,No
+BR0543,Ojasaya Electric,Ojasaya Ventures Pvt Ltd,Automobile & EV,Mobility,Patna,Bihar,India,1995,1,0.14,0.02,38,www.ojasayaelectric.com,53.1,B2C,Mass Market,Indian,No
+BR0544,Trishulin Mobility,Trishulin Ventures Pvt Ltd,Automobile & EV,Mobility,Pune,Maharashtra,India,2002,265,19.88,2.56,801,www.trishulinmobility.com,26.6,B2C,Enterprise/B2B Clients,Indian,No
+BR0545,Yasheer Wheels,Yasheer Ventures Pvt Ltd,Automobile & EV,Auto,Hyderabad,Telangana,India,1996,44,3.91,0.56,263,www.yasheerwheels.com,13.1,B2C,Enterprise/B2B Clients,Indian,No
+BR0546,Amaraant Auto,Amaraant Ventures Pvt Ltd,Automobile & EV,Wheels,Faridabad,Haryana,India,2020,86,6.46,0.65,167,www.amaraantauto.com,44.9,B2C,Youth (18-30),Indian,No
+BR0547,Kavyaika Drive,Kavyaika Ventures Pvt Ltd,Automobile & EV,Drive,Thiruvananthapuram,Kerala,India,2000,22,1.22,0.04,389,www.kavyaikadrive.com,40.7,B2C,Enterprise/B2B Clients,Indian,No
+BR0548,Taraika Drive,Taraika Ventures Pvt Ltd,Automobile & EV,Electric,Jaipur,Rajasthan,India,2018,24,2.28,0.09,116,www.taraikadrive.com,53,B2C,Enterprise/B2B Clients,Indian,No
+BR0549,Aruith Mobility,Aruith Ventures Pvt Ltd,Automobile & EV,Auto,Visakhapatnam,Andhra Pradesh,India,2022,536,33.64,4.54,1829,www.aruithmobility.com,19.1,B2C,Rural & Semi-Urban,Indian,No
+BR0550,Utsava Drive,Utsava Ventures Pvt Ltd,Automobile & EV,Mobility,Indore,Madhya Pradesh,India,2004,30,2.42,0.08,275,www.utsavadrive.com,39.3,B2C,Families,Indian,No
+BR0551,Rudraith Wheels,Rudraith Ventures Pvt Ltd,Automobile & EV,Electric,Gurugram,Haryana,India,1996,74,5.1,0.96,315,www.rudraithwheels.com,21.6,B2B,Mass Market,Indian,No
+BR0552,Utsavant Wheels,Utsavant Ventures Pvt Ltd,Automobile & EV,Electric,Bengaluru,Karnataka,India,2008,498,37.45,2.72,1136,www.utsavantwheels.com,33.9,B2C,Premium/Affluent,Indian,No
+BR0553,Saanviika Electric,Saanviika Ventures Pvt Ltd,Automobile & EV,Wheels,New Delhi,Delhi,India,2003,200,15.27,3.77,1687,www.saanviikaelectric.com,28.6,B2C,Working Professionals,Indian,No
+BR0554,Anuin Electric,Anuin Ventures Pvt Ltd,Automobile & EV,Auto,Kolkata,West Bengal,India,2007,57,4.89,0.65,145,www.anuinelectric.com,25.5,B2C,Premium/Affluent,Indian,No
+BR0555,Trishulra Auto,Trishulra Ventures Pvt Ltd,Automobile & EV,Drive,Mysuru,Karnataka,India,2019,72,6.28,0.81,333,www.trishulraauto.com,10,B2B,Rural & Semi-Urban,Indian,No
+BR0556,Shaesh Drive,Shaesh Ventures Pvt Ltd,Automobile & EV,Mobility,Visakhapatnam,Andhra Pradesh,India,2006,58,2.95,0.32,260,www.shaeshdrive.com,29.2,B2C,Rural & Semi-Urban,Indian,No
+BR0557,Bhoomia Mobility,Bhoomia Ventures Pvt Ltd,Automobile & EV,Electric,Surat,Gujarat,India,2014,11,1.95,0.24,84,www.bhoomiamobility.com,18.4,B2C,Urban Millennials,Indian,No
+BR0558,Asteran Auto,Asteran Ventures Pvt Ltd,Automobile & EV,Motors,Kolkata,West Bengal,India,1999,18,2.51,0.07,131,www.asteranauto.com,38.9,B2C,Mass Market,Indian,No
+BR0559,Arura Wheels,Arura Ventures Pvt Ltd,Automobile & EV,Motors,Hyderabad,Telangana,India,1995,69,4.87,0.76,33,www.arurawheels.com,18.6,B2C,Premium/Affluent,Indian,No
+BR0560,Vantagea Mobility,Vantagea Ventures Pvt Ltd,Automobile & EV,Mobility,Kolkata,West Bengal,India,2001,21,1.19,0.19,149,www.vantageamobility.com,12.9,B2C,Urban Millennials,Indian,No
+BR0561,Naveenin Drive,Naveenin Ventures Pvt Ltd,Automobile & EV,Wheels,Pune,Maharashtra,India,2013,8,0.8,0.09,164,www.naveenindrive.com,18.7,B2C,Youth (18-30),Indian,No
+BR0562,Mudraan Mobility,Mudraan Ventures Pvt Ltd,Automobile & EV,Motors,Kolkata,West Bengal,India,1996,69,5.26,0.31,378,www.mudraanmobility.com,16.7,B2C,Youth (18-30),Indian,No
+BR0563,Yashora Drive,Yashora Ventures Pvt Ltd,Automobile & EV,Drive,Ludhiana,Punjab,India,1995,660,54.81,6.5,322,www.yashoradrive.com,34.1,B2C,Youth (18-30),Indian,No
+BR0564,Kiaanon Drive,Kiaanon Ventures Pvt Ltd,Automobile & EV,Wheels,Coimbatore,Tamil Nadu,India,2010,21,3.28,0.24,108,www.kiaanondrive.com,21.9,B2C,Working Professionals,Indian,No
+BR0565,Prishaon Electric,Prishaon Ventures Pvt Ltd,Automobile & EV,Mobility,Mumbai,Maharashtra,India,2002,18,1.78,0.17,98,www.prishaonelectric.com,12.7,B2C,Urban Millennials,Indian,No
+BR0566,Aadhyao Motors,Aadhyao Ventures Pvt Ltd,Automobile & EV,Auto,Chandigarh,Punjab,India,2006,78,4.53,0.26,224,www.aadhyaomotors.com,25.6,B2B,Working Professionals,Indian,No
+BR0567,Primeam Motors,Primeam Ventures Pvt Ltd,Automobile & EV,Motors,Lucknow,Uttar Pradesh,India,2023,19,2.93,0.26,107,www.primeammotors.com,44.2,B2B,Enterprise/B2B Clients,Indian,No
+BR0568,Yashra Auto,Yashra Ventures Pvt Ltd,Automobile & EV,Drive,Thiruvananthapuram,Kerala,India,2016,432,20.42,4.58,174,www.yashraauto.com,14.4,B2C,Working Professionals,Indian,No
+BR0569,Naveenaan Drive,Naveenaan Ventures Pvt Ltd,Automobile & EV,Electric,Faridabad,Haryana,India,2002,44,3.2,0.38,41,www.naveenaandrive.com,11.6,B2B,Rural & Semi-Urban,Indian,No
+BR0570,Utsavith Electric,Utsavith Ventures Pvt Ltd,Automobile & EV,Wheels,Hyderabad,Telangana,India,2015,769,47.38,11.07,1907,www.utsavithelectric.com,13.9,B2C,Urban Millennials,Indian,No
+BR0571,Prishain Mobility,Prishain Ventures Pvt Ltd,Automobile & EV,Wheels,Hyderabad,Telangana,India,2019,287,12.89,2.33,951,www.prishainmobility.com,19.4,B2B,Families,Indian,No
+BR0572,Rohanika Wheels,Rohanika Ventures Pvt Ltd,Automobile & EV,Auto,Chennai,Tamil Nadu,India,2005,19,2.58,0.12,96,www.rohanikawheels.com,43.9,B2C,Youth (18-30),Indian,No
+BR0573,Rohanora Electric,Rohanora Ventures Pvt Ltd,Automobile & EV,Drive,Jaipur,Rajasthan,India,2018,9,0.69,0.01,27,www.rohanoraelectric.com,10.6,B2B,Premium/Affluent,Indian,No
+BR0574,Yashin Auto,Yashin Ventures Pvt Ltd,Automobile & EV,Wheels,Chennai,Tamil Nadu,India,2000,468,34.74,4.18,1635,www.yashinauto.com,14.2,B2C,Families,Indian,No
+BR0575,Nakshatraika Auto,Nakshatraika Ventures Pvt Ltd,Automobile & EV,Electric,Gurugram,Haryana,India,2006,124,8.79,0.54,1366,www.nakshatraikaauto.com,25,B2C,Families,Indian,No
+BR0576,Utsavix Drive,Utsavix Ventures Pvt Ltd,Automobile & EV,Electric,Ludhiana,Punjab,India,2022,96,9.04,1.36,81,www.utsavixdrive.com,11.2,B2C,Youth (18-30),Indian,No
+BR0577,Prishara Motors,Prishara Ventures Pvt Ltd,Automobile & EV,Auto,Visakhapatnam,Andhra Pradesh,India,2003,10,1.56,0.16,57,www.prisharamotors.com,54.8,B2C,Youth (18-30),Indian,No
+BR0578,Prishaaa Motors,Prishaaa Ventures Pvt Ltd,Automobile & EV,Drive,Surat,Gujarat,India,2022,33,2.71,0.51,347,www.prishaaamotors.com,24.8,B2C,Urban Millennials,Indian,No
+BR0579,Lumora Electric,Lumora Ventures Pvt Ltd,Automobile & EV,Electric,Indore,Madhya Pradesh,India,2014,20,2.91,0.31,92,www.lumoraelectric.com,22.9,B2C,Premium/Affluent,Indian,No
+BR0580,Aadhyaika Drive,Aadhyaika Ventures Pvt Ltd,Automobile & EV,Motors,New Delhi,Delhi,India,2009,35,1.9,0.18,50,www.aadhyaikadrive.com,17.6,B2B,Urban Millennials,Indian,No
+BR0581,Ishaanon Wheels,Ishaanon Ventures Pvt Ltd,Automobile & EV,Drive,Indore,Madhya Pradesh,India,2012,26,1.43,0.28,122,www.ishaanonwheels.com,30.6,B2B,Youth (18-30),Indian,No
+BR0582,Prishaash Electric,Prishaash Ventures Pvt Ltd,Automobile & EV,Electric,Bhopal,Madhya Pradesh,India,2019,17,1.5,0.14,120,www.prishaashelectric.com,20.9,B2C,Premium/Affluent,Indian,No
+BR0583,Dhruvika Motors,Dhruvika Ventures Pvt Ltd,Automobile & EV,Motors,Hyderabad,Telangana,India,2021,92,9.22,0.44,57,www.dhruvikamotors.com,10.6,B2C,Urban Millennials,Indian,No
+BR0584,Omo Wheels,Omo Ventures Pvt Ltd,Automobile & EV,Motors,Hyderabad,Telangana,India,2008,80,4.11,0.47,354,www.omowheels.com,31.7,B2C,Mass Market,Indian,No
+BR0585,Kalpel Auto,Kalpel Ventures Pvt Ltd,Automobile & EV,Drive,Patna,Bihar,India,2003,70,4.79,0.71,220,www.kalpelauto.com,29.3,B2B,Working Professionals,Indian,No
+BR0586,Mudrael Drive,Mudrael Ventures Pvt Ltd,Automobile & EV,Drive,Chennai,Tamil Nadu,India,1998,13,1.5,0.17,27,www.mudraeldrive.com,37,B2C,Mass Market,Indian,No
+BR0587,Trishulel Electric,Trishulel Ventures Pvt Ltd,Automobile & EV,Auto,Surat,Gujarat,India,2012,45,4.38,0.71,82,www.trishulelelectric.com,29,B2B,Rural & Semi-Urban,Indian,No
+BR0588,Elevora Auto,Elevora Ventures Pvt Ltd,Automobile & EV,Motors,Ahmedabad,Gujarat,India,2000,9,0.99,0.03,175,www.elevoraauto.com,14.5,B2C,Rural & Semi-Urban,Indian,No
+BR0589,Meherus Mobility,Meherus Ventures Pvt Ltd,Automobile & EV,Auto,Ahmedabad,Gujarat,India,2023,156,9.84,2,1476,www.meherusmobility.com,11.9,B2C,Mass Market,Indian,No
+BR0590,Ojasa Electric,Ojasa Ventures Pvt Ltd,Automobile & EV,Wheels,Bhubaneswar,Odisha,India,2012,24,3.53,0.21,109,www.ojasaelectric.com,54.8,B2B,Rural & Semi-Urban,Indian,No
+BR0591,Ishaanaa Wheels,Ishaanaa Ventures Pvt Ltd,Automobile & EV,Wheels,Bhubaneswar,Odisha,India,2008,54,6.02,0.63,117,www.ishaanaawheels.com,13.2,B2C,Families,Indian,No
+BR0592,Ishaaneer Mobility,Ishaaneer Ventures Pvt Ltd,Automobile & EV,Drive,Kolkata,West Bengal,India,2000,118,10.58,1.03,946,www.ishaaneermobility.com,7.8,B2C,Urban Millennials,Indian,No
+BR0593,Rudraan Drive,Rudraan Ventures Pvt Ltd,Automobile & EV,Electric,Jaipur,Rajasthan,India,1997,450,39.69,8.43,183,www.rudraandrive.com,7.1,B2B,Mass Market,Indian,No
+BR0594,Mudraora Mobility,Mudraora Ventures Pvt Ltd,Automobile & EV,Motors,Surat,Gujarat,India,2018,40,4.06,0.4,128,www.mudraoramobility.com,37.9,B2C,Working Professionals,Indian,No
+BR0595,Meherith Mobility,Meherith Ventures Pvt Ltd,Automobile & EV,Wheels,Indore,Madhya Pradesh,India,2019,95,10.49,1.27,399,www.meherithmobility.com,29.4,B2C,Premium/Affluent,Indian,No
+BR0596,Vantagein Motors,Vantagein Ventures Pvt Ltd,Automobile & EV,Auto,Lucknow,Uttar Pradesh,India,2011,13,0.8,0.11,261,www.vantageinmotors.com,41.6,B2C,Mass Market,Indian,No
+BR0597,Naveenan Motors,Naveenan Ventures Pvt Ltd,Automobile & EV,Drive,Mysuru,Karnataka,India,2018,32,3.03,0.1,343,www.naveenanmotors.com,9.8,B2C,Urban Millennials,Indian,No
+BR0598,Utsavith Mobility,Utsavith Ventures Pvt Ltd,Automobile & EV,Wheels,Ludhiana,Punjab,India,2014,84,4.77,0.64,322,www.utsavithmobility.com,10.4,B2C,Premium/Affluent,Indian,No
+BR0599,Brightix Auto,Brightix Ventures Pvt Ltd,Automobile & EV,Motors,Faridabad,Haryana,India,2001,180,12.55,2.17,279,www.brightixauto.com,29.3,B2C,Enterprise/B2B Clients,Indian,No
+BR0600,Omaa Wheels,Omaa Ventures Pvt Ltd,Automobile & EV,Wheels,Visakhapatnam,Andhra Pradesh,India,1996,40,4.38,0.68,225,www.omaawheels.com,20,B2B,Youth (18-30),Indian,No
+BR0601,Godrej Appliances,Godrej & Boyce,Consumer Electronics,Home Appliances,Mumbai,Maharashtra,India,1958,4625,157.71,17.49,2811,www.godrejappliances.com,24.1,B2C,Premium/Affluent,Indian,No
+BR0602,Voltas,Voltas Ltd (Tata Group),Consumer Electronics,Air Conditioners,Mumbai,Maharashtra,India,1954,2553,170.13,17.58,2075,www.voltas.com,26.2,B2C,Working Professionals,Indian,Yes
+BR0603,Blue Star,Blue Star Ltd,Consumer Electronics,Air Conditioners & Cooling,Mumbai,Maharashtra,India,1943,2263,130.42,14.06,4620,www.bluestar.com,25.5,B2C,Rural & Semi-Urban,Indian,Yes
+BR0604,Havells,Havells India Ltd,Consumer Electronics,Electrical & Consumer Durables,Noida,Uttar Pradesh,India,1958,14471,465.8,115.93,12772,www.havells.com,8,B2C,Youth (18-30),Indian,Yes
+BR0605,Crompton Greaves Consumer,Crompton Greaves Consumer Electricals,Consumer Electronics,Fans & Appliances,Mumbai,Maharashtra,India,1937,3690,156.07,19.04,1643,www.cromptongreavesconsumer.com,14.8,B2C,Premium/Affluent,Indian,Yes
+BR0606,Bajaj Electricals,Bajaj Electricals Ltd,Consumer Electronics,Home Appliances,Mumbai,Maharashtra,India,1938,1127,68.7,15.9,1348,www.bajajelectricals.com,9.5,B2C,Mass Market,Indian,Yes
+BR0607,Usha International,Usha International Ltd,Consumer Electronics,Fans & Home Appliances,New Delhi,Delhi,India,1934,4131,208.77,19.18,1974,www.ushainternational.com,25.9,B2C,Mass Market,Indian,No
+BR0608,Orient Electric,Orient Electric Ltd (CK Birla Group),Consumer Electronics,Fans & Appliances,Kolkata,West Bengal,India,2016,146,10.74,2.16,1752,www.orientelectric.com,9.6,B2C,Families,Indian,Yes
+BR0609,V-Guard Industries,V-Guard Industries Ltd,Consumer Electronics,Electrical Appliances & Stabilizers,Kochi,Kerala,India,1977,3268,124.18,26.59,1239,www.vguardindustries.com,7.1,B2C,Urban Millennials,Indian,Yes
+BR0610,Videocon,Videocon Industries,Consumer Electronics,Consumer Electronics,Mumbai,Maharashtra,India,1979,764,43.86,3.6,1175,www.videocon.com,28.6,B2C,Families,Indian,No
+BR0611,Micromax,Micromax Informatics,Consumer Electronics,Smartphones & Electronics,Gurugram,Haryana,India,2000,453,19.69,4.21,1713,www.micromax.com,6.4,B2C,Families,Indian,No
+BR0612,Lava International,Lava International Ltd,Consumer Electronics,Smartphones,Noida,Uttar Pradesh,India,2009,3806,261.01,29.85,7176,www.lavainternational.com,17.4,B2C,Premium/Affluent,Indian,No
+BR0613,boAt,Imagine Marketing Ltd,Consumer Electronics,Audio & Wearables,Mumbai,Maharashtra,India,2016,4682,312.83,78.29,4888,www.boat.com,13.4,B2C,Youth (18-30),Indian,No
+BR0614,Noise,Nexxbase Marketing,Consumer Electronics,Wearables & Audio,Gurugram,Haryana,India,2014,408,35.84,3.09,876,www.noise.com,34.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0615,Zebronics,Zebronics India Pvt Ltd,Consumer Electronics,Computer Peripherals & Audio,Chennai,Tamil Nadu,India,1997,250,12.84,0.93,793,www.zebronics.com,9.6,B2C,Premium/Affluent,Indian,No
+BR0616,Portronics,Portronics Digital Pvt Ltd,Consumer Electronics,Electronics Accessories,New Delhi,Delhi,India,2011,57,4.81,0.44,167,www.portronics.com,28.6,B2C,Mass Market,Indian,No
+BR0617,Ambrane India,Ambrane India Pvt Ltd,Consumer Electronics,Mobile Accessories,New Delhi,Delhi,India,2012,17,1.47,0.14,253,www.ambraneindia.com,30.2,B2C,Urban Millennials,Indian,No
+BR0618,Syska,Syska Group,Consumer Electronics,LED Lighting & Electronics,Mumbai,Maharashtra,India,2015,581,47.67,4.54,984,www.syska.com,14.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0619,Wipro Consumer (Wipro Enterprises),Wipro Enterprises,Consumer Electronics,Consumer Products & Lighting,Bengaluru,Karnataka,India,1945,1593,52.22,12.96,4896,www.wiproconsumerwiproenterprises.com,26.6,B2C,Rural & Semi-Urban,Indian,No
+BR0620,Philips India (Innovation Center),Signify Innovations India,Consumer Electronics,Lighting & Electronics,Gurugram,Haryana,India,1930,1553,108.63,19.37,1861,www.philipsindiainnovationcenter.com,14.1,B2C,Premium/Affluent,Indian,No
+BR0621,Onida,Mirc Electronics,Consumer Electronics,Television & Electronics,Mumbai,Maharashtra,India,1981,184,10.96,2.07,358,www.onida.com,27.5,B2C,Youth (18-30),Indian,Yes
+BR0622,BPL,BPL Ltd,Consumer Electronics,Consumer Electronics,Bengaluru,Karnataka,India,1963,145,12.9,1.52,1368,www.bpl.com,30.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0623,Thomson India (SPPL),Super Plastronics Pvt Ltd,Consumer Electronics,Television & Appliances,New Delhi,Delhi,India,2018,186,15.23,2.97,720,www.thomsonindiasppl.com,28.2,B2C,Urban Millennials,Indian,No
+BR0624,Kodak India (SPPL),Super Plastronics Pvt Ltd,Consumer Electronics,Television & Appliances,New Delhi,Delhi,India,2019,629,50.38,12.02,879,www.kodakindiasppl.com,19.8,B2C,Enterprise/B2B Clients,Indian,No
+BR0625,Realme India,Realme Mobile Telecommunications India,Consumer Electronics,Smartphones,Bengaluru,Karnataka,India,2018,4948,249.64,27.33,4724,www.realmeindia.com,7.5,B2C,Urban Millennials,Indian,No
+BR0626,Xiaomi India,Xiaomi Technology India,Consumer Electronics,Smartphones & IoT,Bengaluru,Karnataka,India,2014,31914,932.93,269.13,6947,www.xiaomiindia.com,5.8,B2C,Mass Market,Indian,No
+BR0627,Nothing (India Ops),Nothing Technology India,Consumer Electronics,Smartphones,New Delhi,Delhi,India,2020,681,44.21,2.45,516,www.nothingindiaops.com,17.1,B2C,Rural & Semi-Urban,Indian,No
+BR0628,iBall,iBall (Elin Electronics),Consumer Electronics,Computer Peripherals & Electronics,Mumbai,Maharashtra,India,2001,207,14.71,1.02,306,www.iball.com,25.2,B2C,Working Professionals,Indian,No
+BR0629,Intex Technologies,Intex Technologies India,Consumer Electronics,Consumer Electronics,New Delhi,Delhi,India,1996,655,32.81,5.99,1154,www.intextechnologies.com,20.6,B2C,Rural & Semi-Urban,Indian,No
+BR0630,Karbonn Mobiles,Karbonn Mobiles,Consumer Electronics,Smartphones,New Delhi,Delhi,India,2009,83,7.28,0.24,36,www.karbonnmobiles.com,44.7,B2C,Premium/Affluent,Indian,No
+BR0631,Mivi,Indkal Technologies,Consumer Electronics,Audio Electronics,Bengaluru,Karnataka,India,2015,45,3.2,0.3,255,www.mivi.com,9.3,B2C,Youth (18-30),Indian,No
+BR0632,PTron,Palred Electronics,Consumer Electronics,Audio & Mobile Accessories,Hyderabad,Telangana,India,2016,60,6.62,0.54,381,www.ptron.com,14.1,B2C,Enterprise/B2B Clients,Indian,No
+BR0633,Fire-Boltt,Fire-Boltt (Nixi Technologies),Consumer Electronics,Smartwatches,Gurugram,Haryana,India,2020,194,14.71,2.17,374,www.fireboltt.com,22.5,B2C,Working Professionals,Indian,No
+BR0634,Titan Eye+ (Smart),Titan Company Ltd,Consumer Electronics,Eyewear Tech,Bengaluru,Karnataka,India,2007,562,41.75,6.87,1124,www.titaneyesmart.com,22.3,B2C,Youth (18-30),Indian,Yes
+BR0635,Godrej Security Solutions,Godrej & Boyce,Consumer Electronics,Security & Electronics,Mumbai,Maharashtra,India,1923,455,27.09,4.03,923,www.godrejsecuritysolutions.com,23.9,B2B,Rural & Semi-Urban,Indian,No
+BR0636,Voltas Beko,Voltas Beko (Voltas Ltd),Consumer Electronics,Home Appliances,Mumbai,Maharashtra,India,2017,637,34.51,2.15,1359,www.voltasbeko.com,7.3,B2C,Rural & Semi-Urban,Indian,Yes
+BR0637,IFB Industries,IFB Industries Ltd,Consumer Electronics,Washing Machines & Appliances,Kolkata,West Bengal,India,1974,2265,135.2,11.54,6121,www.ifbindustries.com,12.8,B2C,Premium/Affluent,Indian,Yes
+BR0638,Whirlpool India,Whirlpool of India Ltd,Consumer Electronics,Home Appliances,Gurugram,Haryana,India,1987,2598,181.04,29.4,1462,www.whirlpoolindia.com,20.2,B2C,Families,Indian,Yes
+BR0639,Genesis (Livpure),Livpure Pvt Ltd,Consumer Electronics,Water Purifiers,New Delhi,Delhi,India,2007,264,14.69,0.98,1559,www.genesislivpure.com,7.9,B2C,Urban Millennials,Indian,No
+BR0640,Kent RO,Kent RO Systems,Consumer Electronics,Water Purifiers,Noida,Uttar Pradesh,India,1999,1281,47.12,8.84,1306,www.kentro.com,15.6,B2C,Enterprise/B2B Clients,Indian,No
+BR0641,Eureka Forbes,Eureka Forbes Ltd,Consumer Electronics,Water Purifiers & Vacuum Cleaners,Mumbai,Maharashtra,India,1982,3186,210.44,28.06,6701,www.eurekaforbes.com,15.8,B2C,Mass Market,Indian,No
+BR0642,Rohanaa Electronics,Rohanaa Ventures Pvt Ltd,Consumer Electronics,Tech,Surat,Gujarat,India,1997,790,46.52,5.96,1322,www.rohanaaelectronics.com,8.8,B2B,Working Professionals,Indian,No
+BR0643,Mudrael Devices,Mudrael Ventures Pvt Ltd,Consumer Electronics,Electronics,Surat,Gujarat,India,2002,3,0.5,0.03,138,www.mudraeldevices.com,50.6,B2C,Rural & Semi-Urban,Indian,No
+BR0644,Swastikika Digital,Swastikika Ventures Pvt Ltd,Consumer Electronics,Electronics,Ahmedabad,Gujarat,India,2023,25,1.77,0.34,123,www.swastikikadigital.com,26.4,B2C,Premium/Affluent,Indian,No
+BR0645,Shael Gadgets,Shael Ventures Pvt Ltd,Consumer Electronics,Digital,Jaipur,Rajasthan,India,2017,21,2.83,0.16,22,www.shaelgadgets.com,24.9,B2C,Enterprise/B2B Clients,Indian,No
+BR0646,Kavyain Devices,Kavyain Ventures Pvt Ltd,Consumer Electronics,Gadgets,Patna,Bihar,India,2002,20,2.89,0.42,193,www.kavyaindevices.com,52.2,B2C,Premium/Affluent,Indian,No
+BR0647,Utsavo Digital,Utsavo Ventures Pvt Ltd,Consumer Electronics,Gadgets,Mysuru,Karnataka,India,2006,63,4.38,0.55,291,www.utsavodigital.com,25.6,B2C,Families,Indian,No
+BR0648,Omon Electronics,Omon Ventures Pvt Ltd,Consumer Electronics,Tech,Ludhiana,Punjab,India,2009,9,0.82,0.1,139,www.omonelectronics.com,50.2,B2C,Enterprise/B2B Clients,Indian,No
+BR0649,Prishaesh Tech,Prishaesh Ventures Pvt Ltd,Consumer Electronics,Electronics,Bhubaneswar,Odisha,India,2000,564,31.42,4.17,664,www.prishaeshtech.com,24.1,B2C,Working Professionals,Indian,No
+BR0650,Amaraash Tech,Amaraash Ventures Pvt Ltd,Consumer Electronics,Digital,Visakhapatnam,Andhra Pradesh,India,2005,70,6.22,1.12,341,www.amaraashtech.com,34,B2C,Youth (18-30),Indian,No
+BR0651,Arueer Tech,Arueer Ventures Pvt Ltd,Consumer Electronics,Electronics,Ahmedabad,Gujarat,India,2010,62,4.02,0.78,400,www.arueertech.com,42.7,B2B,Urban Millennials,Indian,No
+BR0652,Asterant Gadgets,Asterant Ventures Pvt Ltd,Consumer Electronics,Devices,Thiruvananthapuram,Kerala,India,2001,24,3.13,0.31,121,www.asterantgadgets.com,56.7,B2C,Mass Market,Indian,No
+BR0653,Omith Tech,Omith Ventures Pvt Ltd,Consumer Electronics,Tech,Chennai,Tamil Nadu,India,2018,57,4.3,0.24,97,www.omithtech.com,35.6,B2C,Urban Millennials,Indian,No
+BR0654,Nakshatraika Digital,Nakshatraika Ventures Pvt Ltd,Consumer Electronics,Tech,Bhubaneswar,Odisha,India,2023,86,6.77,1.19,52,www.nakshatraikadigital.com,31.5,B2B,Enterprise/B2B Clients,Indian,No
+BR0655,Lumoo Digital,Lumoo Ventures Pvt Ltd,Consumer Electronics,Devices,Ludhiana,Punjab,India,2009,7,0.8,0.03,185,www.lumoodigital.com,40.1,B2B,Enterprise/B2B Clients,Indian,No
+BR0656,Prishaith Tech,Prishaith Ventures Pvt Ltd,Consumer Electronics,Digital,New Delhi,Delhi,India,2003,267,12.68,0.7,1782,www.prishaithtech.com,30,B2C,Working Professionals,Indian,No
+BR0657,Mudraith Tech,Mudraith Ventures Pvt Ltd,Consumer Electronics,Gadgets,Jaipur,Rajasthan,India,2020,13,2.26,0.17,19,www.mudraithtech.com,20.1,B2B,Urban Millennials,Indian,No
+BR0658,Eleveer Tech,Eleveer Ventures Pvt Ltd,Consumer Electronics,Tech,Mysuru,Karnataka,India,2022,22,1.52,0.25,357,www.eleveertech.com,28.4,B2C,Mass Market,Indian,No
+BR0659,Lumoam Electronics,Lumoam Ventures Pvt Ltd,Consumer Electronics,Gadgets,Visakhapatnam,Andhra Pradesh,India,2002,97,8.12,0.27,62,www.lumoamelectronics.com,19.6,B2C,Urban Millennials,Indian,No
+BR0660,Kalpin Gadgets,Kalpin Ventures Pvt Ltd,Consumer Electronics,Digital,Pune,Maharashtra,India,1996,707,60.12,7.9,894,www.kalpingadgets.com,25.5,B2C,Premium/Affluent,Indian,No
+BR0661,Primean Digital,Primean Ventures Pvt Ltd,Consumer Electronics,Electronics,Bhopal,Madhya Pradesh,India,2020,11,1.72,0.22,70,www.primeandigital.com,15.6,B2C,Premium/Affluent,Indian,No
+BR0662,Ishaanika Gadgets,Ishaanika Ventures Pvt Ltd,Consumer Electronics,Tech,Nagpur,Maharashtra,India,2018,57,6.16,1.18,288,www.ishaanikagadgets.com,17.3,B2C,Premium/Affluent,Indian,No
+BR0663,Dhruvra Electronics,Dhruvra Ventures Pvt Ltd,Consumer Electronics,Digital,Pune,Maharashtra,India,2016,31,1.84,0.31,188,www.dhruvraelectronics.com,38.8,B2B,Enterprise/B2B Clients,Indian,No
+BR0664,Kalpa Digital,Kalpa Ventures Pvt Ltd,Consumer Electronics,Tech,Patna,Bihar,India,2022,20,3.13,0.44,65,www.kalpadigital.com,17.2,B2B,Youth (18-30),Indian,No
+BR0665,Amaraaan Digital,Amaraaan Ventures Pvt Ltd,Consumer Electronics,Devices,Nagpur,Maharashtra,India,1997,29,2.03,0.2,321,www.amaraaandigital.com,10.1,B2C,Rural & Semi-Urban,Indian,No
+BR0666,Dhruvora Devices,Dhruvora Ventures Pvt Ltd,Consumer Electronics,Electronics,Kolkata,West Bengal,India,2014,18,1.63,0.15,131,www.dhruvoradevices.com,44.1,B2C,Urban Millennials,Indian,No
+BR0667,Amaraan Electronics,Amaraan Ventures Pvt Ltd,Consumer Electronics,Devices,Bhopal,Madhya Pradesh,India,2009,89,10.3,0.94,386,www.amaraanelectronics.com,21.6,B2C,Urban Millennials,Indian,No
+BR0668,Bhoomieer Electronics,Bhoomieer Ventures Pvt Ltd,Consumer Electronics,Electronics,Kolkata,West Bengal,India,2005,115,10.14,1.74,1873,www.bhoomieerelectronics.com,27.4,B2C,Mass Market,Indian,No
+BR0669,Kalpel Tech,Kalpel Ventures Pvt Ltd,Consumer Electronics,Gadgets,Faridabad,Haryana,India,2006,18,2.8,0.14,151,www.kalpeltech.com,29.2,B2C,Rural & Semi-Urban,Indian,No
+BR0670,Yashan Electronics,Yashan Ventures Pvt Ltd,Consumer Electronics,Gadgets,Chandigarh,Punjab,India,2009,91,8.94,1.08,141,www.yashanelectronics.com,39.7,B2B,Enterprise/B2B Clients,Indian,No
+BR0671,Vantageel Gadgets,Vantageel Ventures Pvt Ltd,Consumer Electronics,Electronics,Jaipur,Rajasthan,India,2014,11,1.25,0.23,150,www.vantageelgadgets.com,19.1,B2C,Families,Indian,No
+BR0672,Lumoika Electronics,Lumoika Ventures Pvt Ltd,Consumer Electronics,Electronics,Indore,Madhya Pradesh,India,2004,8,1.34,0.05,122,www.lumoikaelectronics.com,41.6,B2C,Enterprise/B2B Clients,Indian,No
+BR0673,Yashesh Tech,Yashesh Ventures Pvt Ltd,Consumer Electronics,Electronics,Bhubaneswar,Odisha,India,2022,653,35.04,2.31,1746,www.yasheshtech.com,33.3,B2C,Working Professionals,Indian,No
+BR0674,Sattvain Digital,Sattvain Ventures Pvt Ltd,Consumer Electronics,Electronics,Chandigarh,Punjab,India,2009,19,3.23,0.2,118,www.sattvaindigital.com,53.8,B2C,Premium/Affluent,Indian,No
+BR0675,Kria Tech,Kria Ventures Pvt Ltd,Consumer Electronics,Devices,Thiruvananthapuram,Kerala,India,2013,84,8.33,0.97,200,www.kriatech.com,23.6,B2C,Rural & Semi-Urban,Indian,No
+BR0676,Trishuleer Digital,Trishuleer Ventures Pvt Ltd,Consumer Electronics,Devices,Patna,Bihar,India,2013,417,17.26,1.04,1463,www.trishuleerdigital.com,11.3,B2C,Working Professionals,Indian,No
+BR0677,Ojasra Digital,Ojasra Ventures Pvt Ltd,Consumer Electronics,Tech,Chandigarh,Punjab,India,2019,20,1.87,0.13,170,www.ojasradigital.com,25.3,B2C,Premium/Affluent,Indian,No
+BR0678,Lumoo Gadgets,Lumoo Ventures Pvt Ltd,Consumer Electronics,Tech,Vadodara,Gujarat,India,2012,178,9.32,1.8,1722,www.lumoogadgets.com,30.1,B2B,Youth (18-30),Indian,No
+BR0679,Rudrao Tech,Rudrao Ventures Pvt Ltd,Consumer Electronics,Digital,Chennai,Tamil Nadu,India,2005,86,8.45,1.39,183,www.rudraotech.com,24.7,B2C,Youth (18-30),Indian,No
+BR0680,Vasuaa Gadgets,Vasuaa Ventures Pvt Ltd,Consumer Electronics,Digital,New Delhi,Delhi,India,2006,283,21.01,4.52,1787,www.vasuaagadgets.com,14.2,B2C,Premium/Affluent,Indian,No
+BR0681,Mudraeer Devices,Mudraeer Ventures Pvt Ltd,Consumer Electronics,Tech,Chennai,Tamil Nadu,India,2007,11,1.07,0.14,156,www.mudraeerdevices.com,21.2,B2B,Mass Market,Indian,No
+BR0682,Rohanin Electronics,Rohanin Ventures Pvt Ltd,Consumer Electronics,Gadgets,Thiruvananthapuram,Kerala,India,2010,23,3.36,0.34,32,www.rohaninelectronics.com,58.7,B2C,Families,Indian,No
+BR0683,Elevus Devices,Elevus Ventures Pvt Ltd,Consumer Electronics,Gadgets,Coimbatore,Tamil Nadu,India,2023,283,23.39,1.4,1415,www.elevusdevices.com,18.4,B2C,Urban Millennials,Indian,No
+BR0684,Niraen Gadgets,Niraen Ventures Pvt Ltd,Consumer Electronics,Electronics,Faridabad,Haryana,India,2006,205,17.98,1.51,1311,www.niraengadgets.com,9.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0685,Prishaant Gadgets,Prishaant Ventures Pvt Ltd,Consumer Electronics,Gadgets,Faridabad,Haryana,India,2001,641,55.43,11.94,1162,www.prishaantgadgets.com,9.4,B2B,Families,Indian,No
+BR0686,Shaon Digital,Shaon Ventures Pvt Ltd,Consumer Electronics,Gadgets,Kolkata,West Bengal,India,2005,27,2.99,0.49,167,www.shaondigital.com,35.6,B2B,Enterprise/B2B Clients,Indian,No
+BR0687,Amaraen Tech,Amaraen Ventures Pvt Ltd,Consumer Electronics,Devices,Visakhapatnam,Andhra Pradesh,India,2007,22,2.39,0.32,164,www.amaraentech.com,34.9,B2C,Families,Indian,No
+BR0688,Meherus Gadgets,Meherus Ventures Pvt Ltd,Consumer Electronics,Digital,Bengaluru,Karnataka,India,2018,11,1.33,0.05,84,www.meherusgadgets.com,58.8,B2B,Families,Indian,No
+BR0689,Dhruvo Digital,Dhruvo Ventures Pvt Ltd,Consumer Electronics,Electronics,Visakhapatnam,Andhra Pradesh,India,2021,66,7.45,0.69,370,www.dhruvodigital.com,31.9,B2C,Premium/Affluent,Indian,No
+BR0690,Meherix Gadgets,Meherix Ventures Pvt Ltd,Consumer Electronics,Electronics,Kochi,Kerala,India,2013,1,0.11,0.01,187,www.meherixgadgets.com,29.9,B2C,Families,Indian,No
+BR0691,Swastikam Digital,Swastikam Ventures Pvt Ltd,Consumer Electronics,Tech,Vadodara,Gujarat,India,2009,18,2.73,0.32,75,www.swastikamdigital.com,13.7,B2C,Mass Market,Indian,No
+BR0692,Kiaanash Gadgets,Kiaanash Ventures Pvt Ltd,Consumer Electronics,Gadgets,Bhubaneswar,Odisha,India,2021,2,0.4,0.03,100,www.kiaanashgadgets.com,59.8,B2C,Mass Market,Indian,No
+BR0693,Zenus Tech,Zenus Ventures Pvt Ltd,Consumer Electronics,Digital,Mumbai,Maharashtra,India,1999,104,6.77,0.85,958,www.zenustech.com,25.5,B2C,Youth (18-30),Indian,No
+BR0694,Dhruvora Tech,Dhruvora Ventures Pvt Ltd,Consumer Electronics,Devices,Bhubaneswar,Odisha,India,1995,778,52.86,8.78,683,www.dhruvoratech.com,10.9,B2C,Working Professionals,Indian,No
+BR0695,Kriika Devices,Kriika Ventures Pvt Ltd,Consumer Electronics,Digital,Bhubaneswar,Odisha,India,2022,751,63.02,4.81,799,www.kriikadevices.com,26.6,B2B,Enterprise/B2B Clients,Indian,No
+BR0696,Omaya Gadgets,Omaya Ventures Pvt Ltd,Consumer Electronics,Tech,Pune,Maharashtra,India,2000,23,1.33,0.05,85,www.omayagadgets.com,26.5,B2C,Urban Millennials,Indian,No
+BR0697,Anuaya Tech,Anuaya Ventures Pvt Ltd,Consumer Electronics,Devices,New Delhi,Delhi,India,2006,77,8.88,0.69,154,www.anuayatech.com,30.7,B2C,Urban Millennials,Indian,No
+BR0698,Dhruvon Electronics,Dhruvon Ventures Pvt Ltd,Consumer Electronics,Tech,Kolkata,West Bengal,India,2019,462,28.54,2.37,1659,www.dhruvonelectronics.com,34.8,B2C,Youth (18-30),Indian,No
+BR0699,Rohanora Devices,Rohanora Ventures Pvt Ltd,Consumer Electronics,Electronics,Kanpur,Uttar Pradesh,India,2017,60,6.88,0.95,245,www.rohanoradevices.com,10,B2C,Youth (18-30),Indian,No
+BR0700,Veerin Electronics,Veerin Ventures Pvt Ltd,Consumer Electronics,Digital,Hyderabad,Telangana,India,2006,2,0.23,0.02,51,www.veerinelectronics.com,45.3,B2C,Enterprise/B2B Clients,Indian,No
+BR0701,Apollo Hospitals,Apollo Hospitals Enterprise,Health & Wellness,Hospital Chain,Chennai,Tamil Nadu,India,1983,25313,1470.02,323.87,31779,www.apollohospitals.com,6,B2C,Rural & Semi-Urban,Indian,Yes
+BR0702,Fortis Healthcare,Fortis Healthcare Ltd,Health & Wellness,Hospital Chain,Gurugram,Haryana,India,1996,36447,787.67,102.92,29344,www.fortishealthcare.com,9.5,B2C,Rural & Semi-Urban,Indian,Yes
+BR0703,Max Healthcare,Max Healthcare Institute,Health & Wellness,Hospital Chain,New Delhi,Delhi,India,2000,2074,102.52,24.42,2164,www.maxhealthcare.com,23,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0704,Manipal Hospitals,Manipal Health Enterprises,Health & Wellness,Hospital Chain,Bengaluru,Karnataka,India,1991,1004,66.05,17.03,2766,www.manipalhospitals.com,9.2,B2C,Working Professionals,Indian,No
+BR0705,Narayana Health,Narayana Hrudayalaya Ltd,Health & Wellness,Hospital Chain,Bengaluru,Karnataka,India,2000,809,41.98,3.93,1366,www.narayanahealth.com,14.6,B2C,Urban Millennials,Indian,Yes
+BR0706,Medanta,Global Health Ltd,Health & Wellness,Hospital Chain,Gurugram,Haryana,India,2009,3176,209.67,49.54,4893,www.medanta.com,24.2,B2C,Youth (18-30),Indian,Yes
+BR0707,AIIMS (New Delhi),Ministry of Health & Family Welfare,Health & Wellness,Government Hospital,New Delhi,Delhi,India,1956,46907,1885.23,362.32,34486,www.aiimsnewdelhi.com,16,B2C,Youth (18-30),Indian,No
+BR0708,Practo,Practo Technologies,Health & Wellness,Health-Tech Platform,Bengaluru,Karnataka,India,2008,706,39.74,8.34,1510,www.practo.com,24.1,B2C,Enterprise/B2B Clients,Indian,No
+BR0709,1mg,Tata 1mg Healthcare Solutions,Health & Wellness,Online Pharmacy,Gurugram,Haryana,India,2015,1778,81.46,15.33,6492,www.1mg.com,25.5,B2C,Urban Millennials,Indian,No
+BR0710,PharmEasy,API Holdings,Health & Wellness,Online Pharmacy,Mumbai,Maharashtra,India,2015,3513,227.06,50.28,5685,www.pharmeasy.com,19.5,B2C,Urban Millennials,Indian,No
+BR0711,Netmeds,Reliance Retail (Netmeds Marketplace),Health & Wellness,Online Pharmacy,Chennai,Tamil Nadu,India,2015,493,22.76,3.68,544,www.netmeds.com,33.7,B2C,Mass Market,Indian,No
+BR0712,Apollo 24|7,Apollo Hospitals Enterprise,Health & Wellness,Digital Healthcare Platform,Chennai,Tamil Nadu,India,2020,770,50.89,10.18,1179,www.apollo247.com,32,B2C,Premium/Affluent,Indian,Yes
+BR0713,Cult.fit,Curefit Healthcare,Health & Wellness,Fitness & Wellness,Bengaluru,Karnataka,India,2016,3565,182.78,49.8,3252,www.cultfit.com,23.1,B2C,Families,Indian,No
+BR0714,HealthifyMe,HealthifyMe Wellness,Health & Wellness,Fitness & Nutrition App,Bengaluru,Karnataka,India,2012,681,55.79,9.26,323,www.healthifyme.com,29.4,B2C,Rural & Semi-Urban,Indian,No
+BR0715,Dr Lal PathLabs,Dr Lal PathLabs Ltd,Health & Wellness,Diagnostics,New Delhi,Delhi,India,1949,2488,79.1,19.96,1190,www.drlalpathlabs.com,12.8,B2C,Youth (18-30),Indian,Yes
+BR0716,Metropolis Healthcare,Metropolis Healthcare Ltd,Health & Wellness,Diagnostics,Mumbai,Maharashtra,India,1980,2543,163.71,23.49,3106,www.metropolishealthcare.com,7.1,B2C,Premium/Affluent,Indian,Yes
+BR0717,Thyrocare,Thyrocare Technologies,Health & Wellness,Diagnostics,Navi Mumbai,Maharashtra,India,1996,3076,127.37,14.84,7293,www.thyrocare.com,7.1,B2C,Urban Millennials,Indian,Yes
+BR0718,SRL Diagnostics,SRL Diagnostics (Fortis),Health & Wellness,Diagnostics,Gurugram,Haryana,India,1995,4799,274.24,25.17,3664,www.srldiagnostics.com,9.2,B2C,Mass Market,Indian,No
+BR0719,Apollo Pharmacy,Apollo Pharmacies Ltd,Health & Wellness,Pharmacy Retail,Chennai,Tamil Nadu,India,1987,2052,69.65,7.56,3655,www.apollopharmacy.com,10.9,B2C,Premium/Affluent,Indian,Yes
+BR0720,MedPlus,Optival Health Solutions,Health & Wellness,Pharmacy Retail,Hyderabad,Telangana,India,2006,1018,40.29,8.03,2937,www.medplus.com,16.3,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0721,Sun Pharma,Sun Pharmaceutical Industries,Health & Wellness,Pharmaceuticals,Mumbai,Maharashtra,India,1983,57215,1760.58,288.15,41249,www.sunpharma.com,11.3,B2B,Working Professionals,Indian,Yes
+BR0722,Cipla,Cipla Ltd,Health & Wellness,Pharmaceuticals,Mumbai,Maharashtra,India,1935,6590,298.8,84.48,6220,www.cipla.com,8.8,B2B,Premium/Affluent,Indian,Yes
+BR0723,Dr Reddy's Laboratories,Dr Reddy's Laboratories Ltd,Health & Wellness,Pharmaceuticals,Hyderabad,Telangana,India,1984,18547,782.48,201.13,24963,www.drreddyslaboratories.com,14.2,B2B,Working Professionals,Indian,Yes
+BR0724,Lupin,Lupin Ltd,Health & Wellness,Pharmaceuticals,Mumbai,Maharashtra,India,1968,9615,436.83,61.46,14330,www.lupin.com,10.7,B2B,Youth (18-30),Indian,Yes
+BR0725,Zydus Lifesciences,Zydus Lifesciences Ltd,Health & Wellness,Pharmaceuticals,Ahmedabad,Gujarat,India,1952,48011,1992.54,368.12,41382,www.zyduslifesciences.com,12.1,B2B,Mass Market,Indian,Yes
+BR0726,Aurobindo Pharma,Aurobindo Pharma Ltd,Health & Wellness,Pharmaceuticals,Hyderabad,Telangana,India,1986,49695,2904.43,651.02,47798,www.aurobindopharma.com,21.5,B2B,Mass Market,Indian,Yes
+BR0727,Alkem Laboratories,Alkem Laboratories Ltd,Health & Wellness,Pharmaceuticals,Mumbai,Maharashtra,India,1973,1053,70.4,9.48,3055,www.alkemlaboratories.com,24.3,B2B,Enterprise/B2B Clients,Indian,Yes
+BR0728,Mankind Pharma,Mankind Pharma Ltd,Health & Wellness,Pharmaceuticals,New Delhi,Delhi,India,1991,59958,3219.61,458.96,38444,www.mankindpharma.com,9.1,B2C,Youth (18-30),Indian,Yes
+BR0729,Torrent Pharmaceuticals,Torrent Pharmaceuticals Ltd,Health & Wellness,Pharmaceuticals,Ahmedabad,Gujarat,India,1959,3905,205.08,28.74,4238,www.torrentpharmaceuticals.com,21.1,B2B,Youth (18-30),Indian,Yes
+BR0730,Cadila Pharmaceuticals,Cadila Pharmaceuticals Ltd,Health & Wellness,Pharmaceuticals,Ahmedabad,Gujarat,India,1951,3845,268.99,68.77,2727,www.cadilapharmaceuticals.com,19,B2B,Rural & Semi-Urban,Indian,No
+BR0731,Himalaya Wellness,Himalaya Wellness Company,Health & Wellness,Herbal Health Products,Bengaluru,Karnataka,India,1930,4513,306.02,63.36,7166,www.himalayawellness.com,21.3,B2C,Urban Millennials,Indian,No
+BR0732,Dabur Health Supplements,Dabur India,Health & Wellness,Health Supplements,Ghaziabad,Uttar Pradesh,India,1996,1833,127.06,18.85,4766,www.daburhealthsupplements.com,27.1,B2C,Rural & Semi-Urban,Indian,Yes
+BR0733,HealthKart,Bright Lifecare Pvt Ltd,Health & Wellness,Nutrition & Supplements,Gurugram,Haryana,India,2011,111,8.29,1.49,154,www.healthkart.com,23.7,B2C,Mass Market,Indian,No
+BR0734,MuscleBlaze,Bright Lifecare Pvt Ltd,Health & Wellness,Sports Nutrition,Gurugram,Haryana,India,2012,731,53.83,7.14,1983,www.muscleblaze.com,26.2,B2C,Working Professionals,Indian,No
+BR0735,Fast&Up,Nualgi Life Sciences,Health & Wellness,Sports Nutrition,Bengaluru,Karnataka,India,2015,79,6.89,1.13,352,www.fastup.com,32.1,B2C,Mass Market,Indian,No
+BR0736,OZiva,Yoga Bar Nutritional Foods (OZiva),Health & Wellness,Plant-based Nutrition,Mumbai,Maharashtra,India,2016,90,9.67,1.02,83,www.oziva.com,21.1,B2C,Enterprise/B2B Clients,Indian,No
+BR0737,The Whole Truth,Grubbin Food Ventures,Health & Wellness,Clean Nutrition Foods,Mumbai,Maharashtra,India,2019,85,6.34,0.38,376,www.thewholetruth.com,44.4,B2C,Premium/Affluent,Indian,No
+BR0738,Yoga Bar,Sproutlife Foods,Health & Wellness,Health Foods,Bengaluru,Karnataka,India,2014,424,36.8,5.11,603,www.yogabar.com,27.6,B2C,Urban Millennials,Indian,No
+BR0739,Cure.fit Gyms,Curefit Healthcare,Health & Wellness,Fitness Centres,Bengaluru,Karnataka,India,2016,576,43.5,3.84,1821,www.curefitgyms.com,23.8,B2C,Urban Millennials,Indian,No
+BR0740,Portea Medical,Portea Medical Pvt Ltd,Health & Wellness,Home Healthcare,Bengaluru,Karnataka,India,2013,83,5.42,1.07,205,www.porteamedical.com,9.4,B2C,Working Professionals,Indian,No
+BR0741,Omix Health,Omix Ventures Pvt Ltd,Health & Wellness,Life,Patna,Bihar,India,2017,91,9.09,0.6,120,www.omixhealth.com,44.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0742,Rudraesh Care,Rudraesh Ventures Pvt Ltd,Health & Wellness,Wellness,Bengaluru,Karnataka,India,2022,178,9.57,1.44,499,www.rudraeshcare.com,22,B2C,Youth (18-30),Indian,No
+BR0743,Yashant Vital,Yashant Ventures Pvt Ltd,Health & Wellness,Wellness,Kolkata,West Bengal,India,2011,3,0.24,0.01,76,www.yashantvital.com,56.7,B2C,Families,Indian,No
+BR0744,Krira Life,Krira Ventures Pvt Ltd,Health & Wellness,Vital,Coimbatore,Tamil Nadu,India,1995,717,54.79,5.75,1886,www.kriralife.com,25.7,B2C,Urban Millennials,Indian,No
+BR0745,Amaraant Health,Amaraant Ventures Pvt Ltd,Health & Wellness,Vital,Kochi,Kerala,India,1995,577,48.52,2.44,1024,www.amaraanthealth.com,24.6,B2C,Mass Market,Indian,No
+BR0746,Lumoaan Care,Lumoaan Ventures Pvt Ltd,Health & Wellness,Life,Pune,Maharashtra,India,1996,87,6.3,1.09,228,www.lumoaancare.com,18.1,B2C,Working Professionals,Indian,No
+BR0747,Elevin Wellness,Elevin Ventures Pvt Ltd,Health & Wellness,Vital,New Delhi,Delhi,India,2005,13,1.7,0.04,194,www.elevinwellness.com,21.2,B2C,Urban Millennials,Indian,No
+BR0748,Utsaven Health,Utsaven Ventures Pvt Ltd,Health & Wellness,Life,Bhopal,Madhya Pradesh,India,2000,743,49.49,5.6,952,www.utsavenhealth.com,11.6,B2C,Premium/Affluent,Indian,No
+BR0749,Kavyao Life,Kavyao Ventures Pvt Ltd,Health & Wellness,Vital,Bhopal,Madhya Pradesh,India,2015,22,3.55,0.53,67,www.kavyaolife.com,58.9,B2C,Enterprise/B2B Clients,Indian,No
+BR0750,Meherix Life,Meherix Ventures Pvt Ltd,Health & Wellness,Care,Jaipur,Rajasthan,India,2006,96,10.99,0.7,188,www.meherixlife.com,19.5,B2C,Premium/Affluent,Indian,No
+BR0751,Brightus Life,Brightus Ventures Pvt Ltd,Health & Wellness,Health,Bhubaneswar,Odisha,India,2013,13,1,0.03,340,www.brightuslife.com,42.6,B2B,Urban Millennials,Indian,No
+BR0752,Amaraika Wellness,Amaraika Ventures Pvt Ltd,Health & Wellness,Care,Visakhapatnam,Andhra Pradesh,India,1997,273,17.38,4.2,1854,www.amaraikawellness.com,7.6,B2B,Rural & Semi-Urban,Indian,No
+BR0753,Nakshatraaan Vital,Nakshatraaan Ventures Pvt Ltd,Health & Wellness,Medi,Hyderabad,Telangana,India,2011,57,3.78,0.16,327,www.nakshatraaanvital.com,30.9,B2C,Premium/Affluent,Indian,No
+BR0754,Lumoora Health,Lumoora Ventures Pvt Ltd,Health & Wellness,Vital,Bhubaneswar,Odisha,India,1999,16,2.21,0.07,25,www.lumoorahealth.com,55.8,B2B,Enterprise/B2B Clients,Indian,No
+BR0755,Ishaanon Life,Ishaanon Ventures Pvt Ltd,Health & Wellness,Health,Jaipur,Rajasthan,India,2012,319,26.31,1.66,411,www.ishaanonlife.com,7.8,B2C,Working Professionals,Indian,No
+BR0756,Primeora Life,Primeora Ventures Pvt Ltd,Health & Wellness,Care,Coimbatore,Tamil Nadu,India,2016,2,0.32,0.02,36,www.primeoralife.com,43.9,B2C,Mass Market,Indian,No
+BR0757,Kalpika Medi,Kalpika Ventures Pvt Ltd,Health & Wellness,Wellness,Mumbai,Maharashtra,India,2018,37,2.8,0.13,230,www.kalpikamedi.com,16.6,B2B,Mass Market,Indian,No
+BR0758,Aadhyaan Health,Aadhyaan Ventures Pvt Ltd,Health & Wellness,Life,Visakhapatnam,Andhra Pradesh,India,2005,51,4.19,0.43,337,www.aadhyaanhealth.com,30.9,B2B,Rural & Semi-Urban,Indian,No
+BR0759,Asterika Care,Asterika Ventures Pvt Ltd,Health & Wellness,Vital,Kochi,Kerala,India,2001,556,41,2.26,1209,www.asterikacare.com,15.5,B2B,Families,Indian,No
+BR0760,Ojasora Health,Ojasora Ventures Pvt Ltd,Health & Wellness,Health,Visakhapatnam,Andhra Pradesh,India,1995,20,1,0.15,323,www.ojasorahealth.com,37.2,B2C,Families,Indian,No
+BR0761,Vantageus Vital,Vantageus Ventures Pvt Ltd,Health & Wellness,Medi,Bhopal,Madhya Pradesh,India,2004,91,5.38,0.63,201,www.vantageusvital.com,23.6,B2C,Working Professionals,Indian,No
+BR0762,Aadhyaash Health,Aadhyaash Ventures Pvt Ltd,Health & Wellness,Health,Hyderabad,Telangana,India,1995,230,10.79,0.63,411,www.aadhyaashhealth.com,15,B2C,Enterprise/B2B Clients,Indian,No
+BR0763,Prishaa Wellness,Prishaa Ventures Pvt Ltd,Health & Wellness,Vital,Bhubaneswar,Odisha,India,2015,459,33.33,4.05,1345,www.prishaawellness.com,31.7,B2B,Youth (18-30),Indian,No
+BR0764,Sattvaaa Health,Sattvaaa Ventures Pvt Ltd,Health & Wellness,Health,Jaipur,Rajasthan,India,1999,23,1.67,0.15,208,www.sattvaaahealth.com,43.9,B2C,Youth (18-30),Indian,No
+BR0765,Rudrael Life,Rudrael Ventures Pvt Ltd,Health & Wellness,Medi,Bhubaneswar,Odisha,India,1995,2,0.31,0.04,23,www.rudraellife.com,31.1,B2C,Families,Indian,No
+BR0766,Dhruvant Life,Dhruvant Ventures Pvt Ltd,Health & Wellness,Vital,New Delhi,Delhi,India,1995,784,56.44,5.09,290,www.dhruvantlife.com,15.9,B2C,Working Professionals,Indian,No
+BR0767,Zenithix Vital,Zenithix Ventures Pvt Ltd,Health & Wellness,Medi,Jaipur,Rajasthan,India,2010,73,8.61,1.14,189,www.zenithixvital.com,39.5,B2C,Rural & Semi-Urban,Indian,No
+BR0768,Naveenora Life,Naveenora Ventures Pvt Ltd,Health & Wellness,Medi,Gurugram,Haryana,India,2011,531,32.37,2.67,1080,www.naveenoralife.com,31.4,B2C,Mass Market,Indian,No
+BR0769,Kriam Vital,Kriam Ventures Pvt Ltd,Health & Wellness,Vital,Visakhapatnam,Andhra Pradesh,India,1998,55,6.25,0.87,374,www.kriamvital.com,16.5,B2C,Families,Indian,No
+BR0770,Novaa Wellness,Novaa Ventures Pvt Ltd,Health & Wellness,Wellness,Jaipur,Rajasthan,India,2010,32,3.19,0.61,189,www.novaawellness.com,37.9,B2C,Enterprise/B2B Clients,Indian,No
+BR0771,Kalpora Care,Kalpora Ventures Pvt Ltd,Health & Wellness,Vital,Patna,Bihar,India,2023,244,11.99,2.97,893,www.kalporacare.com,6.3,B2C,Rural & Semi-Urban,Indian,No
+BR0772,Zenithora Vital,Zenithora Ventures Pvt Ltd,Health & Wellness,Wellness,Chandigarh,Punjab,India,2020,2,0.16,0.01,59,www.zenithoravital.com,41.6,B2C,Rural & Semi-Urban,Indian,No
+BR0773,Dhruvel Vital,Dhruvel Ventures Pvt Ltd,Health & Wellness,Wellness,Mysuru,Karnataka,India,1999,131,5.42,0.49,506,www.dhruvelvital.com,12.3,B2C,Urban Millennials,Indian,No
+BR0774,Taraora Life,Taraora Ventures Pvt Ltd,Health & Wellness,Health,Jaipur,Rajasthan,India,2001,75,5.51,0.68,111,www.taraoralife.com,15.3,B2C,Youth (18-30),Indian,No
+BR0775,Ojasaya Vital,Ojasaya Ventures Pvt Ltd,Health & Wellness,Medi,Ahmedabad,Gujarat,India,2021,21,3.63,0.08,183,www.ojasayavital.com,16.9,B2C,Premium/Affluent,Indian,No
+BR0776,Kriith Life,Kriith Ventures Pvt Ltd,Health & Wellness,Life,Chennai,Tamil Nadu,India,1998,41,2.62,0.28,209,www.kriithlife.com,38,B2C,Youth (18-30),Indian,No
+BR0777,Saanviaya Health,Saanviaya Ventures Pvt Ltd,Health & Wellness,Medi,Noida,Uttar Pradesh,India,2022,95,11.21,2.24,242,www.saanviayahealth.com,40.5,B2C,Premium/Affluent,Indian,No
+BR0778,Tarael Health,Tarael Ventures Pvt Ltd,Health & Wellness,Health,Patna,Bihar,India,2021,4,0.64,0.02,58,www.taraelhealth.com,19.6,B2B,Enterprise/B2B Clients,Indian,No
+BR0779,Naveenesh Medi,Naveenesh Ventures Pvt Ltd,Health & Wellness,Wellness,New Delhi,Delhi,India,2000,73,5.24,0.54,345,www.naveeneshmedi.com,17,B2B,Mass Market,Indian,No
+BR0780,Mudraash Vital,Mudraash Ventures Pvt Ltd,Health & Wellness,Wellness,Patna,Bihar,India,2018,19,2.68,0.35,85,www.mudraashvital.com,49.5,B2C,Rural & Semi-Urban,Indian,No
+BR0781,Saanviin Health,Saanviin Ventures Pvt Ltd,Health & Wellness,Health,Kolkata,West Bengal,India,2008,7,0.99,0.06,42,www.saanviinhealth.com,52.6,B2C,Working Professionals,Indian,No
+BR0782,Vantageith Care,Vantageith Ventures Pvt Ltd,Health & Wellness,Life,Ahmedabad,Gujarat,India,2003,29,1.6,0.18,359,www.vantageithcare.com,30.8,B2C,Youth (18-30),Indian,No
+BR0783,Ishaanin Medi,Ishaanin Ventures Pvt Ltd,Health & Wellness,Life,Visakhapatnam,Andhra Pradesh,India,1999,13,2.05,0.21,140,www.ishaaninmedi.com,28.7,B2B,Working Professionals,Indian,No
+BR0784,Lumoon Vital,Lumoon Ventures Pvt Ltd,Health & Wellness,Health,Ludhiana,Punjab,India,2009,225,17.04,2.64,1139,www.lumoonvital.com,26.8,B2C,Working Professionals,Indian,No
+BR0785,Trishulika Health,Trishulika Ventures Pvt Ltd,Health & Wellness,Wellness,Thiruvananthapuram,Kerala,India,2007,12,1.71,0.18,159,www.trishulikahealth.com,42.5,B2C,Families,Indian,No
+BR0786,Aadhyaan Vital,Aadhyaan Ventures Pvt Ltd,Health & Wellness,Vital,Hyderabad,Telangana,India,2015,6,0.63,0.08,111,www.aadhyaanvital.com,20.9,B2B,Enterprise/B2B Clients,Indian,No
+BR0787,Dhruvora Life,Dhruvora Ventures Pvt Ltd,Health & Wellness,Care,Jaipur,Rajasthan,India,2006,722,49.51,11.74,916,www.dhruvoralife.com,13.4,B2B,Premium/Affluent,Indian,No
+BR0788,Naveenin Vital,Naveenin Ventures Pvt Ltd,Health & Wellness,Medi,Bhopal,Madhya Pradesh,India,2015,194,8.58,1.19,870,www.naveeninvital.com,12.7,B2C,Mass Market,Indian,No
+BR0789,Naveenaan Life,Naveenaan Ventures Pvt Ltd,Health & Wellness,Care,Chandigarh,Punjab,India,2019,426,30.25,4.09,1107,www.naveenaanlife.com,18.5,B2C,Rural & Semi-Urban,Indian,No
+BR0790,Sattvaith Life,Sattvaith Ventures Pvt Ltd,Health & Wellness,Medi,Hyderabad,Telangana,India,2001,663,37.04,4.68,517,www.sattvaithlife.com,18.8,B2C,Urban Millennials,Indian,No
+BR0791,Saanviaan Wellness,Saanviaan Ventures Pvt Ltd,Health & Wellness,Medi,Mumbai,Maharashtra,India,2023,17,1.91,0.06,138,www.saanviaanwellness.com,35.6,B2C,Premium/Affluent,Indian,No
+BR0792,Meherora Medi,Meherora Ventures Pvt Ltd,Health & Wellness,Vital,Chennai,Tamil Nadu,India,2021,81,9.27,0.43,56,www.meheroramedi.com,21.3,B2C,Families,Indian,No
+BR0793,Oman Vital,Oman Ventures Pvt Ltd,Health & Wellness,Health,Coimbatore,Tamil Nadu,India,2004,40,3.89,0.28,369,www.omanvital.com,39.3,B2C,Families,Indian,No
+BR0794,Ishaanant Medi,Ishaanant Ventures Pvt Ltd,Health & Wellness,Vital,Faridabad,Haryana,India,2004,594,53.39,13.33,1690,www.ishaanantmedi.com,26.8,B2C,Urban Millennials,Indian,No
+BR0795,Anuel Life,Anuel Ventures Pvt Ltd,Health & Wellness,Wellness,Gurugram,Haryana,India,2005,11,0.77,0.13,226,www.anuellife.com,43,B2B,Mass Market,Indian,No
+BR0796,Amaraus Health,Amaraus Ventures Pvt Ltd,Health & Wellness,Health,Hyderabad,Telangana,India,2021,53,4.51,0.72,96,www.amaraushealth.com,40,B2C,Families,Indian,No
+BR0797,Anuix Wellness,Anuix Ventures Pvt Ltd,Health & Wellness,Life,Patna,Bihar,India,2006,30,3.11,0.34,284,www.anuixwellness.com,29.7,B2C,Working Professionals,Indian,No
+BR0798,Trishulen Care,Trishulen Ventures Pvt Ltd,Health & Wellness,Life,Bhubaneswar,Odisha,India,2009,75,6.17,1.02,180,www.trishulencare.com,39.3,B2C,Enterprise/B2B Clients,Indian,No
+BR0799,Zenitho Wellness,Zenitho Ventures Pvt Ltd,Health & Wellness,Vital,Hyderabad,Telangana,India,2017,79,7.84,0.51,250,www.zenithowellness.com,39.6,B2C,Mass Market,Indian,No
+BR0800,Trishulesh Vital,Trishulesh Ventures Pvt Ltd,Health & Wellness,Wellness,Kolkata,West Bengal,India,2010,362,24.95,1.89,1661,www.trishuleshvital.com,6.3,B2B,Rural & Semi-Urban,Indian,No
+BR0801,Prestige (TTK Prestige),TTK Prestige Ltd,Home & Kitchen,Kitchen Appliances & Cookware,Bengaluru,Karnataka,India,1955,3737,233.94,35.95,6065,www.prestigettkprestige.com,20.8,B2C,Working Professionals,Indian,Yes
+BR0802,Hawkins,Hawkins Cookers Ltd,Home & Kitchen,Pressure Cookers,Mumbai,Maharashtra,India,1959,2963,167.12,13.47,6227,www.hawkins.com,27,B2C,Rural & Semi-Urban,Indian,Yes
+BR0803,Butterfly Gandhimathi,Butterfly Gandhimathi Appliances,Home & Kitchen,Kitchen Appliances,Chennai,Tamil Nadu,India,1984,112,6.47,0.38,1803,www.butterflygandhimathi.com,27.3,B2C,Working Professionals,Indian,Yes
+BR0804,Pigeon (Stovekraft),Stovekraft Ltd,Home & Kitchen,Kitchen Appliances,Bengaluru,Karnataka,India,1999,1781,87.94,20.04,7504,www.pigeonstovekraft.com,6.9,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0805,Bajaj Kitchen Appliances,Bajaj Electricals Ltd,Home & Kitchen,Kitchen Appliances,Mumbai,Maharashtra,India,1938,4744,320.99,56.25,6393,www.bajajkitchenappliances.com,24.7,B2C,Premium/Affluent,Indian,Yes
+BR0806,Milton,Milton (Hamilton Housewares),Home & Kitchen,Kitchenware & Storage,Mumbai,Maharashtra,India,1972,614,33.58,2.99,443,www.milton.com,31.2,B2C,Mass Market,Indian,No
+BR0807,Cello World,Cello World Ltd,Home & Kitchen,Houseware & Kitchenware,Mumbai,Maharashtra,India,1962,1337,82.72,11.6,6513,www.celloworld.com,27.9,B2C,Working Professionals,Indian,Yes
+BR0808,Borosil,Borosil Ltd,Home & Kitchen,Glassware & Kitchen Appliances,Mumbai,Maharashtra,India,1962,1506,72.05,7.43,6428,www.borosil.com,17.4,B2C,Families,Indian,Yes
+BR0809,Wonderchef,Wonderchef Home Appliances,Home & Kitchen,Kitchen Appliances & Cookware,Mumbai,Maharashtra,India,2011,248,19.27,3.51,333,www.wonderchef.com,9.1,B2C,Mass Market,Indian,No
+BR0810,Pringle Wear (Wonderchef),Wonderchef Home Appliances,Home & Kitchen,Cookware,Mumbai,Maharashtra,India,2013,24,2.81,0.52,163,www.pringlewearwonderchef.com,16.2,B2C,Urban Millennials,Indian,No
+BR0811,Vinod Cookware,Vinod Cookware Pvt Ltd,Home & Kitchen,Cookware,New Delhi,Delhi,India,1984,566,49.59,9.13,1512,www.vinodcookware.com,9.9,B2C,Working Professionals,Indian,No
+BR0812,Nirlep Appliances,Nirlep Appliances Pvt Ltd,Home & Kitchen,Non-stick Cookware,Aurangabad,Maharashtra,India,1963,18,1.78,0.32,314,www.nirlepappliances.com,36.4,B2C,Premium/Affluent,Indian,No
+BR0813,Solimo (Amazon),Amazon Seller Services,Home & Kitchen,Home Essentials D2C,Bengaluru,Karnataka,India,2017,551,32.41,6.27,1657,www.solimoamazon.com,27,B2C,Enterprise/B2B Clients,Indian,No
+BR0814,Home Centre,Landmark Group,Home & Kitchen,Home Furnishing Retail,Bengaluru,Karnataka,India,2001,4196,163.38,16.85,1718,www.homecentre.com,7.6,B2C,Rural & Semi-Urban,Indian,No
+BR0815,Urban Ladder,Urban Ladder Home Décor Solutions,Home & Kitchen,Furniture & Décor,Bengaluru,Karnataka,India,2012,618,53.71,10.68,387,www.urbanladder.com,22.6,B2C,Youth (18-30),Indian,No
+BR0816,Pepperfry,Trendsutra Platform Services,Home & Kitchen,Furniture E-commerce,Mumbai,Maharashtra,India,2011,4384,298.83,58.39,1013,www.pepperfry.com,12.1,B2C,Families,Indian,No
+BR0817,Nilkamal,Nilkamal Ltd,Home & Kitchen,Furniture & Plastics,Mumbai,Maharashtra,India,1934,4358,301.54,43.4,3990,www.nilkamal.com,23.3,B2C,Youth (18-30),Indian,Yes
+BR0818,Godrej Interio,Godrej & Boyce,Home & Kitchen,Furniture,Mumbai,Maharashtra,India,1923,2983,161.28,20.07,4238,www.godrejinterio.com,5.2,B2C,Working Professionals,Indian,No
+BR0819,Durian Furniture,Durian Industries Ltd,Home & Kitchen,Furniture Retail,Kolkata,West Bengal,India,1985,321,25.95,2.84,598,www.durianfurniture.com,20.5,B2C,Working Professionals,Indian,No
+BR0820,Livspace,Livspace Pvt Ltd,Home & Kitchen,Home Interior Design,Bengaluru,Karnataka,India,2014,203,11.01,2.2,1889,www.livspace.com,29.2,B2C,Mass Market,Indian,No
+BR0821,HomeLane,Brick Eagle Home Solutions (HomeLane),Home & Kitchen,Home Interior Design,Bengaluru,Karnataka,India,2014,519,28.79,7.14,402,www.homelane.com,13.9,B2C,Working Professionals,Indian,No
+BR0822,D'Decor,D'Decor Home Fabrics,Home & Kitchen,Home Furnishings,Mumbai,Maharashtra,India,1990,542,27.52,2.98,921,www.ddecor.com,7.7,B2B,Rural & Semi-Urban,Indian,No
+BR0823,Bombay Dyeing,Bombay Dyeing & Manufacturing Company,Home & Kitchen,Home Textiles,Mumbai,Maharashtra,India,1879,1441,84.56,21.11,7638,www.bombaydyeing.com,10.2,B2C,Mass Market,Indian,Yes
+BR0824,Welspun India,Welspun Living Ltd,Home & Kitchen,Home Textiles,Mumbai,Maharashtra,India,1985,55774,2846.78,772.49,52670,www.welspunindia.com,11.1,B2B,Youth (18-30),Indian,Yes
+BR0825,Trident Group,Trident Ltd,Home & Kitchen,Home Textiles,Ludhiana,Punjab,India,1990,4963,257.64,38,6553,www.tridentgroup.com,15.9,B2B,Rural & Semi-Urban,Indian,Yes
+BR0826,Portico New York (India ops),Indo Count Retail Ventures,Home & Kitchen,Home Furnishings,Mumbai,Maharashtra,India,2005,630,37.54,5.84,729,www.porticonewyorkindiaops.com,14.2,B2C,Families,Indian,No
+BR0827,Spaces (Welspun),Welspun Living Ltd,Home & Kitchen,Bed & Bath Linen,Mumbai,Maharashtra,India,2015,591,39.82,2.77,812,www.spaceswelspun.com,27.8,B2C,Mass Market,Indian,Yes
+BR0828,Asian Paints,Asian Paints Ltd,Home & Kitchen,Paints & Home Décor,Mumbai,Maharashtra,India,1942,51740,2503.34,479.41,15727,www.asianpaints.com,14.4,B2C,Working Professionals,Indian,Yes
+BR0829,Berger Paints,Berger Paints India Ltd,Home & Kitchen,Paints,Kolkata,West Bengal,India,1923,3723,155.04,16.89,2786,www.bergerpaints.com,23.5,B2C,Families,Indian,Yes
+BR0830,Kansai Nerolac,Kansai Nerolac Paints Ltd,Home & Kitchen,Paints,Mumbai,Maharashtra,India,1920,3888,118.07,26.59,5715,www.kansainerolac.com,7.3,B2C,Youth (18-30),Indian,Yes
+BR0831,Jaquar,Jaquar Group,Home & Kitchen,Bathroom & Kitchen Fittings,Bahadurgarh,Haryana,India,1960,2382,165.06,35.63,2378,www.jaquar.com,26.3,B2C,Premium/Affluent,Indian,No
+BR0832,Hindware,Hindware Home Innovation Ltd,Home & Kitchen,Sanitaryware & Fittings,Noida,Uttar Pradesh,India,1960,2294,112.28,30.2,1961,www.hindware.com,27.5,B2C,Rural & Semi-Urban,Indian,Yes
+BR0833,Cera Sanitaryware,Cera Sanitaryware Ltd,Home & Kitchen,Sanitaryware,Ahmedabad,Gujarat,India,1980,515,45.61,8,977,www.cerasanitaryware.com,13.1,B2C,Premium/Affluent,Indian,Yes
+BR0834,Kajaria Ceramics,Kajaria Ceramics Ltd,Home & Kitchen,Tiles & Ceramics,New Delhi,Delhi,India,1985,1812,89.76,19.53,2413,www.kajariaceramics.com,20,B2B,Enterprise/B2B Clients,Indian,Yes
+BR0835,Somany Ceramics,Somany Ceramics Ltd,Home & Kitchen,Tiles & Ceramics,New Delhi,Delhi,India,1969,4059,282.67,60.53,1734,www.somanyceramics.com,22.9,B2B,Enterprise/B2B Clients,Indian,Yes
+BR0836,Orient Bell Tiles,Orient Bell Ltd,Home & Kitchen,Tiles,New Delhi,Delhi,India,1977,293,21.27,2.63,395,www.orientbelltiles.com,9.4,B2B,Premium/Affluent,Indian,Yes
+BR0837,Havells Lloyd,Havells India Ltd,Home & Kitchen,Air Conditioners & Appliances,Noida,Uttar Pradesh,India,2017,443,32.5,4.94,197,www.havellslloyd.com,23,B2C,Working Professionals,Indian,Yes
+BR0838,Symphony Coolers,Symphony Ltd,Home & Kitchen,Air Coolers,Ahmedabad,Gujarat,India,1988,1950,116.61,27.85,2483,www.symphonycoolers.com,13.8,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0839,Bajaj Coolers,Bajaj Electricals Ltd,Home & Kitchen,Air Coolers,Mumbai,Maharashtra,India,1938,309,14.29,1.64,1611,www.bajajcoolers.com,32.4,B2C,Youth (18-30),Indian,Yes
+BR0840,Saanvira Décor,Saanvira Ventures Pvt Ltd,Home & Kitchen,Appliances,Visakhapatnam,Andhra Pradesh,India,2019,11,1.61,0.11,147,www.saanviradécor.com,49.2,B2C,Working Professionals,Indian,No
+BR0841,Kalpa Appliances,Kalpa Ventures Pvt Ltd,Home & Kitchen,Living,New Delhi,Delhi,India,1999,3,0.41,0.04,176,www.kalpaappliances.com,16.2,B2C,Families,Indian,No
+BR0842,Utsavika Appliances,Utsavika Ventures Pvt Ltd,Home & Kitchen,Home,Bhopal,Madhya Pradesh,India,2001,24,4.11,0.18,163,www.utsavikaappliances.com,44.8,B2C,Mass Market,Indian,No
+BR0843,Prishaix Home,Prishaix Ventures Pvt Ltd,Home & Kitchen,Home,Thiruvananthapuram,Kerala,India,2015,14,2.29,0.08,42,www.prishaixhome.com,38.8,B2C,Youth (18-30),Indian,No
+BR0844,Zeno Home,Zeno Ventures Pvt Ltd,Home & Kitchen,Décor,Bhubaneswar,Odisha,India,2000,162,8.53,1.71,323,www.zenohome.com,34.4,B2C,Urban Millennials,Indian,No
+BR0845,Nakshatraash Interiors,Nakshatraash Ventures Pvt Ltd,Home & Kitchen,Home,Mysuru,Karnataka,India,1996,43,3.76,0.38,356,www.nakshatraashinteriors.com,8,B2C,Urban Millennials,Indian,No
+BR0846,Zenithen Kitchen,Zenithen Ventures Pvt Ltd,Home & Kitchen,Interiors,Chennai,Tamil Nadu,India,2012,14,1.65,0.3,170,www.zenithenkitchen.com,32.4,B2C,Working Professionals,Indian,No
+BR0847,Kavyain Kitchen,Kavyain Ventures Pvt Ltd,Home & Kitchen,Décor,Jaipur,Rajasthan,India,2021,4,0.57,0.03,100,www.kavyainkitchen.com,40.3,B2C,Families,Indian,No
+BR0848,Elevash Appliances,Elevash Ventures Pvt Ltd,Home & Kitchen,Kitchen,Kolkata,West Bengal,India,2003,582,42.53,2.51,225,www.elevashappliances.com,11.5,B2C,Urban Millennials,Indian,No
+BR0849,Aadhyaika Kitchen,Aadhyaika Ventures Pvt Ltd,Home & Kitchen,Home,Thiruvananthapuram,Kerala,India,2009,87,5.66,0.3,302,www.aadhyaikakitchen.com,16,B2C,Rural & Semi-Urban,Indian,No
+BR0850,Dhruvaan Décor,Dhruvaan Ventures Pvt Ltd,Home & Kitchen,Kitchen,Chandigarh,Punjab,India,2007,35,3.54,0.36,301,www.dhruvaandécor.com,17.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0851,Vasuika Interiors,Vasuika Ventures Pvt Ltd,Home & Kitchen,Kitchen,Visakhapatnam,Andhra Pradesh,India,2007,17,1.6,0.13,75,www.vasuikainteriors.com,43.8,B2C,Youth (18-30),Indian,No
+BR0852,Taraen Interiors,Taraen Ventures Pvt Ltd,Home & Kitchen,Living,New Delhi,Delhi,India,2023,14,1.21,0.14,172,www.taraeninteriors.com,44.8,B2B,Families,Indian,No
+BR0853,Sattvaash Interiors,Sattvaash Ventures Pvt Ltd,Home & Kitchen,Appliances,Bengaluru,Karnataka,India,2010,74,6.65,0.93,281,www.sattvaashinteriors.com,30.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0854,Amaraika Home,Amaraika Ventures Pvt Ltd,Home & Kitchen,Kitchen,Thiruvananthapuram,Kerala,India,2009,675,37.68,7.82,926,www.amaraikahome.com,6.8,B2C,Families,Indian,No
+BR0855,Lumoa Home,Lumoa Ventures Pvt Ltd,Home & Kitchen,Kitchen,Patna,Bihar,India,2005,3,0.27,0.01,150,www.lumoahome.com,30.3,B2C,Rural & Semi-Urban,Indian,No
+BR0856,Suram Home,Suram Ventures Pvt Ltd,Home & Kitchen,Décor,Hyderabad,Telangana,India,2016,16,1.91,0.12,79,www.suramhome.com,17.3,B2C,Families,Indian,No
+BR0857,Shaeer Interiors,Shaeer Ventures Pvt Ltd,Home & Kitchen,Living,Faridabad,Haryana,India,1999,35,1.97,0.39,133,www.shaeerinteriors.com,22,B2B,Premium/Affluent,Indian,No
+BR0858,Mudraa Appliances,Mudraa Ventures Pvt Ltd,Home & Kitchen,Interiors,Chennai,Tamil Nadu,India,2004,648,29.92,4.65,1943,www.mudraaappliances.com,14.9,B2C,Working Professionals,Indian,No
+BR0859,Kriora Home,Kriora Ventures Pvt Ltd,Home & Kitchen,Kitchen,Noida,Uttar Pradesh,India,2009,19,1.38,0.18,164,www.kriorahome.com,28.4,B2C,Premium/Affluent,Indian,No
+BR0860,Sattvaaa Décor,Sattvaaa Ventures Pvt Ltd,Home & Kitchen,Décor,New Delhi,Delhi,India,2007,91,5.62,1.07,219,www.sattvaaadécor.com,14.7,B2C,Enterprise/B2B Clients,Indian,No
+BR0861,Suran Décor,Suran Ventures Pvt Ltd,Home & Kitchen,Kitchen,Kolkata,West Bengal,India,2006,12,1.15,0.02,141,www.surandécor.com,45.7,B2C,Youth (18-30),Indian,No
+BR0862,Zenitha Home,Zenitha Ventures Pvt Ltd,Home & Kitchen,Kitchen,Kochi,Kerala,India,2016,23,2.05,0.15,391,www.zenithahome.com,31.7,B2B,Rural & Semi-Urban,Indian,No
+BR0863,Taraora Kitchen,Taraora Ventures Pvt Ltd,Home & Kitchen,Living,Ahmedabad,Gujarat,India,2008,74,4.97,0.66,381,www.taraorakitchen.com,24.9,B2C,Working Professionals,Indian,No
+BR0864,Swastikaa Appliances,Swastikaa Ventures Pvt Ltd,Home & Kitchen,Kitchen,Kolkata,West Bengal,India,2008,790,63.17,9.5,714,www.swastikaaappliances.com,33.6,B2C,Families,Indian,No
+BR0865,Rohano Home,Rohano Ventures Pvt Ltd,Home & Kitchen,Décor,Bhopal,Madhya Pradesh,India,1995,38,4.13,0.79,228,www.rohanohome.com,36.5,B2C,Premium/Affluent,Indian,No
+BR0866,Yashaan Appliances,Yashaan Ventures Pvt Ltd,Home & Kitchen,Décor,Ludhiana,Punjab,India,1997,16,1.42,0.07,33,www.yashaanappliances.com,18.3,B2C,Mass Market,Indian,No
+BR0867,Utsavix Home,Utsavix Ventures Pvt Ltd,Home & Kitchen,Interiors,Surat,Gujarat,India,1998,18,1.23,0.23,25,www.utsavixhome.com,43.6,B2C,Enterprise/B2B Clients,Indian,No
+BR0868,Anuith Kitchen,Anuith Ventures Pvt Ltd,Home & Kitchen,Appliances,Thiruvananthapuram,Kerala,India,1997,71,8.17,0.43,274,www.anuithkitchen.com,27.1,B2B,Premium/Affluent,Indian,No
+BR0869,Asteren Appliances,Asteren Ventures Pvt Ltd,Home & Kitchen,Home,Gurugram,Haryana,India,2002,384,27.18,6.31,1677,www.asterenappliances.com,6.2,B2C,Enterprise/B2B Clients,Indian,No
+BR0870,Novara Appliances,Novara Ventures Pvt Ltd,Home & Kitchen,Living,Bengaluru,Karnataka,India,1999,73,7.5,0.54,398,www.novaraappliances.com,32.5,B2C,Mass Market,Indian,No
+BR0871,Kiaanaa Interiors,Kiaanaa Ventures Pvt Ltd,Home & Kitchen,Décor,New Delhi,Delhi,India,2018,65,7.6,1.1,288,www.kiaanaainteriors.com,41.4,B2C,Youth (18-30),Indian,No
+BR0872,Saanviin Living,Saanviin Ventures Pvt Ltd,Home & Kitchen,Décor,Kochi,Kerala,India,2011,3,0.46,0.04,23,www.saanviinliving.com,31.1,B2C,Enterprise/B2B Clients,Indian,No
+BR0873,Dhruva Kitchen,Dhruva Ventures Pvt Ltd,Home & Kitchen,Home,Thiruvananthapuram,Kerala,India,2002,219,19.41,2.28,1540,www.dhruvakitchen.com,13.2,B2B,Premium/Affluent,Indian,No
+BR0874,Ishaanora Interiors,Ishaanora Ventures Pvt Ltd,Home & Kitchen,Décor,Faridabad,Haryana,India,2011,36,3.03,0.23,21,www.ishaanorainteriors.com,35.3,B2C,Enterprise/B2B Clients,Indian,No
+BR0875,Kriix Home,Kriix Ventures Pvt Ltd,Home & Kitchen,Kitchen,Kolkata,West Bengal,India,2015,6,0.68,0.1,174,www.kriixhome.com,35.8,B2C,Mass Market,Indian,No
+BR0876,Vasuant Appliances,Vasuant Ventures Pvt Ltd,Home & Kitchen,Interiors,Kolkata,West Bengal,India,2011,755,63.87,14.03,267,www.vasuantappliances.com,16.3,B2C,Working Professionals,Indian,No
+BR0877,Mudraaa Kitchen,Mudraaa Ventures Pvt Ltd,Home & Kitchen,Living,Visakhapatnam,Andhra Pradesh,India,2014,330,19.04,0.97,1973,www.mudraaakitchen.com,27,B2C,Enterprise/B2B Clients,Indian,No
+BR0878,Swastikaa Living,Swastikaa Ventures Pvt Ltd,Home & Kitchen,Kitchen,Bhubaneswar,Odisha,India,2006,42,2.39,0.27,63,www.swastikaaliving.com,27.6,B2C,Youth (18-30),Indian,No
+BR0879,Novaon Appliances,Novaon Ventures Pvt Ltd,Home & Kitchen,Décor,Visakhapatnam,Andhra Pradesh,India,2021,11,1.87,0.04,178,www.novaonappliances.com,22.5,B2C,Working Professionals,Indian,No
+BR0880,Kiaanora Home,Kiaanora Ventures Pvt Ltd,Home & Kitchen,Living,Jaipur,Rajasthan,India,2012,11,1.15,0.09,56,www.kiaanorahome.com,36.8,B2C,Urban Millennials,Indian,No
+BR0881,Meherus Living,Meherus Ventures Pvt Ltd,Home & Kitchen,Interiors,Bhopal,Madhya Pradesh,India,1997,20,1.6,0.28,102,www.meherusliving.com,13.2,B2C,Enterprise/B2B Clients,Indian,No
+BR0882,Rudraaa Home,Rudraaa Ventures Pvt Ltd,Home & Kitchen,Décor,Nagpur,Maharashtra,India,2018,1,0.19,0.02,38,www.rudraaahome.com,19.5,B2C,Mass Market,Indian,No
+BR0883,Zenithen Interiors,Zenithen Ventures Pvt Ltd,Home & Kitchen,Appliances,Chandigarh,Punjab,India,2010,22,1.75,0.15,36,www.zenitheninteriors.com,13.9,B2C,Families,Indian,No
+BR0884,Vedesh Décor,Vedesh Ventures Pvt Ltd,Home & Kitchen,Living,Ahmedabad,Gujarat,India,2019,95,11.18,2.2,80,www.vedeshdécor.com,23.6,B2B,Working Professionals,Indian,No
+BR0885,Veeron Interiors,Veeron Ventures Pvt Ltd,Home & Kitchen,Décor,Bhubaneswar,Odisha,India,2017,660,49.97,5.75,1715,www.veeroninteriors.com,28.6,B2B,Enterprise/B2B Clients,Indian,No
+BR0886,Ishaanra Décor,Ishaanra Ventures Pvt Ltd,Home & Kitchen,Home,New Delhi,Delhi,India,2015,13,2.24,0.29,109,www.ishaanradécor.com,16.6,B2C,Premium/Affluent,Indian,No
+BR0887,Bhoomiin Living,Bhoomiin Ventures Pvt Ltd,Home & Kitchen,Appliances,Patna,Bihar,India,2003,655,30.33,3.6,177,www.bhoomiinliving.com,28.3,B2B,Families,Indian,No
+BR0888,Mudraa Home,Mudraa Ventures Pvt Ltd,Home & Kitchen,Home,Mysuru,Karnataka,India,2007,2,0.36,0.03,162,www.mudraahome.com,46.9,B2C,Enterprise/B2B Clients,Indian,No
+BR0889,Prishaora Kitchen,Prishaora Ventures Pvt Ltd,Home & Kitchen,Appliances,Visakhapatnam,Andhra Pradesh,India,2017,53,3.71,0.16,239,www.prishaorakitchen.com,17.2,B2C,Youth (18-30),Indian,No
+BR0890,Kiaanant Living,Kiaanant Ventures Pvt Ltd,Home & Kitchen,Living,Visakhapatnam,Andhra Pradesh,India,1998,76,4.77,0.37,78,www.kiaanantliving.com,40,B2B,Families,Indian,No
+BR0891,Yashaa Interiors,Yashaa Ventures Pvt Ltd,Home & Kitchen,Décor,Bhopal,Madhya Pradesh,India,1995,17,2.09,0.17,36,www.yashaainteriors.com,45.1,B2C,Youth (18-30),Indian,No
+BR0892,Kriel Décor,Kriel Ventures Pvt Ltd,Home & Kitchen,Kitchen,Visakhapatnam,Andhra Pradesh,India,2018,27,2.97,0.41,96,www.krieldécor.com,16.5,B2C,Youth (18-30),Indian,No
+BR0893,Anuaa Décor,Anuaa Ventures Pvt Ltd,Home & Kitchen,Kitchen,Vadodara,Gujarat,India,1998,46,3.19,0.2,94,www.anuaadécor.com,23.8,B2C,Families,Indian,No
+BR0894,Aruo Kitchen,Aruo Ventures Pvt Ltd,Home & Kitchen,Appliances,Lucknow,Uttar Pradesh,India,2009,18,0.97,0.1,176,www.aruokitchen.com,33.9,B2C,Families,Indian,No
+BR0895,Swastiko Home,Swastiko Ventures Pvt Ltd,Home & Kitchen,Home,Jaipur,Rajasthan,India,2007,255,15.64,0.97,1024,www.swastikohome.com,24.7,B2C,Urban Millennials,Indian,No
+BR0896,Kalpra Décor,Kalpra Ventures Pvt Ltd,Home & Kitchen,Home,Bhubaneswar,Odisha,India,1995,177,10.3,2.46,1607,www.kalpradécor.com,18.1,B2C,Rural & Semi-Urban,Indian,No
+BR0897,Vedesh Kitchen,Vedesh Ventures Pvt Ltd,Home & Kitchen,Living,Pune,Maharashtra,India,2014,91,5.68,0.17,358,www.vedeshkitchen.com,35.6,B2B,Families,Indian,No
+BR0898,Vantageith Appliances,Vantageith Ventures Pvt Ltd,Home & Kitchen,Living,Visakhapatnam,Andhra Pradesh,India,2006,36,2.49,0.33,240,www.vantageithappliances.com,14.8,B2B,Working Professionals,Indian,No
+BR0899,Ishaanaya Interiors,Ishaanaya Ventures Pvt Ltd,Home & Kitchen,Living,Bhopal,Madhya Pradesh,India,2014,355,19.57,1.36,177,www.ishaanayainteriors.com,25.8,B2B,Youth (18-30),Indian,No
+BR0900,Taraa Décor,Taraa Ventures Pvt Ltd,Home & Kitchen,Appliances,Indore,Madhya Pradesh,India,1995,40,4.06,0.37,321,www.taraadécor.com,27.6,B2C,Rural & Semi-Urban,Indian,No
+BR0901,DLF,DLF Ltd,Real Estate & Infrastructure,Real Estate Development,Gurugram,Haryana,India,1946,58759,1309.28,337.95,50858,www.dlf.com,18.8,B2C,Mass Market,Indian,Yes
+BR0902,Godrej Properties,Godrej Properties Ltd,Real Estate & Infrastructure,Real Estate Development,Mumbai,Maharashtra,India,1990,13501,326.88,57.26,42364,www.godrejproperties.com,11.2,B2C,Premium/Affluent,Indian,Yes
+BR0903,Oberoi Realty,Oberoi Realty Ltd,Real Estate & Infrastructure,Luxury Real Estate,Mumbai,Maharashtra,India,1998,1737,112.83,24.13,3858,www.oberoirealty.com,15.7,B2C,Working Professionals,Indian,Yes
+BR0904,Prestige Group,Prestige Estates Projects Ltd,Real Estate & Infrastructure,Real Estate Development,Bengaluru,Karnataka,India,1986,11002,299.36,36.42,31014,www.prestigegroup.com,17.8,B2C,Families,Indian,Yes
+BR0905,Sobha Ltd,Sobha Ltd,Real Estate & Infrastructure,Real Estate Development,Bengaluru,Karnataka,India,1995,2486,81,12.03,5950,www.sobhaltd.com,16.2,B2C,Working Professionals,Indian,Yes
+BR0906,Brigade Group,Brigade Enterprises Ltd,Real Estate & Infrastructure,Real Estate Development,Bengaluru,Karnataka,India,1986,1280,61.68,11.66,4849,www.brigadegroup.com,8.3,B2C,Families,Indian,Yes
+BR0907,Lodha Group (Macrotech),Macrotech Developers Ltd,Real Estate & Infrastructure,Real Estate Development,Mumbai,Maharashtra,India,1980,22610,480.54,105.82,29922,www.lodhagroupmacrotech.com,5.1,B2C,Rural & Semi-Urban,Indian,Yes
+BR0908,Godrej & Boyce Real Estate,Godrej & Boyce,Real Estate & Infrastructure,Real Estate & Infrastructure,Mumbai,Maharashtra,India,1897,4116,284.6,34.92,2732,www.godrejboycerealestate.com,25,B2B,Enterprise/B2B Clients,Indian,No
+BR0909,Puravankara,Puravankara Ltd,Real Estate & Infrastructure,Real Estate Development,Bengaluru,Karnataka,India,1975,1933,107.16,10.36,1567,www.puravankara.com,11.3,B2C,Premium/Affluent,Indian,Yes
+BR0910,Sunteck Realty,Sunteck Realty Ltd,Real Estate & Infrastructure,Luxury Real Estate,Mumbai,Maharashtra,India,1981,309,23.35,5.24,1224,www.sunteckrealty.com,12.2,B2C,Urban Millennials,Indian,Yes
+BR0911,Godrej Land,Godrej Properties Ltd,Real Estate & Infrastructure,Land Development,Mumbai,Maharashtra,India,1990,1573,50.57,13.1,4510,www.godrejland.com,12.9,B2C,Urban Millennials,Indian,Yes
+BR0912,Mahindra Lifespaces,Mahindra Lifespace Developers,Real Estate & Infrastructure,Real Estate Development,Mumbai,Maharashtra,India,1994,1491,65.56,10.74,4895,www.mahindralifespaces.com,17.3,B2C,Youth (18-30),Indian,Yes
+BR0913,Tata Housing (Tata Realty),Tata Realty & Infrastructure Ltd,Real Estate & Infrastructure,Real Estate & Infra,Mumbai,Maharashtra,India,2010,4856,230.5,60.51,5672,www.tatahousingtatarealty.com,14,B2C,Mass Market,Indian,No
+BR0914,Shapoorji Pallonji Real Estate,Shapoorji Pallonji Group,Real Estate & Infrastructure,Real Estate & Construction,Mumbai,Maharashtra,India,1865,35850,1998.68,279.24,52364,www.shapoorjipallonjirealestate.com,16,B2B,Youth (18-30),Indian,No
+BR0915,Larsen & Toubro (L&T Construction),Larsen & Toubro Ltd,Real Estate & Infrastructure,Infrastructure & Construction,Mumbai,Maharashtra,India,1938,22805,1355.88,390.21,53682,www.larsentoubroltconstruction.com,18.9,B2B,Rural & Semi-Urban,Indian,Yes
+BR0916,Adani Realty,Adani Group,Real Estate & Infrastructure,Real Estate & Infrastructure,Ahmedabad,Gujarat,India,2011,5780,322.89,92.59,37731,www.adanirealty.com,19.6,B2C,Premium/Affluent,Indian,No
+BR0917,Hiranandani Group,House of Hiranandani,Real Estate & Infrastructure,Real Estate Development,Mumbai,Maharashtra,India,1978,4127,235.04,31.16,6916,www.hiranandanigroup.com,5.1,B2C,Working Professionals,Indian,No
+BR0918,Raheja Developers,Raheja Developers Ltd,Real Estate & Infrastructure,Real Estate Development,New Delhi,Delhi,India,1990,760,63,11.14,1458,www.rahejadevelopers.com,34.1,B2C,Premium/Affluent,Indian,No
+BR0919,Emaar India,Emaar India Ltd,Real Estate & Infrastructure,Real Estate Development,Gurugram,Haryana,India,2005,953,57.03,6.7,6705,www.emaarindia.com,17.6,B2C,Youth (18-30),Indian,No
+BR0920,Signature Global,Signature Global India Ltd,Real Estate & Infrastructure,Affordable Housing,Gurugram,Haryana,India,2014,521,26.46,2.43,541,www.signatureglobal.com,34.2,B2C,Mass Market,Indian,Yes
+BR0921,Kolte-Patil Developers,Kolte-Patil Developers Ltd,Real Estate & Infrastructure,Real Estate Development,Pune,Maharashtra,India,1991,359,20.9,2.31,778,www.koltepatildevelopers.com,20.6,B2C,Premium/Affluent,Indian,Yes
+BR0922,Nirmal Lifestyle,Nirmal Lifestyle Ltd,Real Estate & Infrastructure,Real Estate Development,Mumbai,Maharashtra,India,1980,590,42.71,6.03,990,www.nirmallifestyle.com,16.2,B2C,Enterprise/B2B Clients,Indian,No
+BR0923,Runwal Group,Runwal Enterprises,Real Estate & Infrastructure,Real Estate Development,Mumbai,Maharashtra,India,1978,2997,181.65,18.65,2440,www.runwalgroup.com,15.6,B2C,Rural & Semi-Urban,Indian,No
+BR0924,Rustomjee,Keystone Realtors Ltd,Real Estate & Infrastructure,Real Estate Development,Mumbai,Maharashtra,India,1995,224,15.61,2.48,931,www.rustomjee.com,14.3,B2C,Enterprise/B2B Clients,Indian,Yes
+BR0925,Ansal API,Ansal Properties & Infrastructure,Real Estate & Infrastructure,Real Estate Development,New Delhi,Delhi,India,1967,544,40.85,9.71,1905,www.ansalapi.com,8.9,B2C,Premium/Affluent,Indian,Yes
+BR0926,Unitech Group,Unitech Ltd,Real Estate & Infrastructure,Real Estate Development,Gurugram,Haryana,India,1971,664,30.02,5.4,1412,www.unitechgroup.com,33,B2C,Premium/Affluent,Indian,Yes
+BR0927,Supertech Ltd,Supertech Ltd,Real Estate & Infrastructure,Real Estate Development,Noida,Uttar Pradesh,India,1988,448,34.72,8.17,354,www.supertechltd.com,24.4,B2C,Mass Market,Indian,No
+BR0928,Amrapali Group,Amrapali Group,Real Estate & Infrastructure,Real Estate Development,Noida,Uttar Pradesh,India,2002,70,7.68,0.51,252,www.amrapaligroup.com,28.4,B2C,Premium/Affluent,Indian,No
+BR0929,Ireo,Ireo Management Pvt Ltd,Real Estate & Infrastructure,Real Estate Development,Gurugram,Haryana,India,2004,237,15.04,1.13,1775,www.ireo.com,32.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0930,Vatika Group,Vatika Ltd,Real Estate & Infrastructure,Real Estate & Hospitality,Gurugram,Haryana,India,1986,736,53.14,11,960,www.vatikagroup.com,6.2,B2C,Rural & Semi-Urban,Indian,No
+BR0931,Assotech Realty,Assotech Ltd,Real Estate & Infrastructure,Real Estate Development,Noida,Uttar Pradesh,India,1997,80,6.88,0.52,357,www.assotechrealty.com,17.8,B2C,Enterprise/B2B Clients,Indian,No
+BR0932,Adani Ports & SEZ,Adani Ports and Special Economic Zone,Real Estate & Infrastructure,Ports & Infrastructure,Ahmedabad,Gujarat,India,1998,42032,847.62,238.87,7141,www.adaniportssez.com,4.3,B2B,Youth (18-30),Indian,Yes
+BR0933,GMR Infrastructure,GMR Airports Infrastructure Ltd,Real Estate & Infrastructure,Airports & Infra,New Delhi,Delhi,India,1996,4120,262.17,48.18,7072,www.gmrinfrastructure.com,18.8,B2B,Rural & Semi-Urban,Indian,Yes
+BR0934,GVK Group,GVK Power & Infrastructure,Real Estate & Infrastructure,Infrastructure,Hyderabad,Telangana,India,1988,219,15.05,2.05,1288,www.gvkgroup.com,34.2,B2B,Families,Indian,No
+BR0935,IRB Infrastructure,IRB Infrastructure Developers,Real Estate & Infrastructure,Roads & Highways,Mumbai,Maharashtra,India,1998,3388,154.96,14,5733,www.irbinfrastructure.com,14.9,B2B,Enterprise/B2B Clients,Indian,Yes
+BR0936,NBCC India,National Buildings Construction Corporation,Real Estate & Infrastructure,Construction & Infra PSU,New Delhi,Delhi,India,1960,4905,181.23,47.27,5237,www.nbccindia.com,8.6,B2B,Families,Indian,Yes
+BR0937,HCC (Hindustan Construction Company),Hindustan Construction Company Ltd,Real Estate & Infrastructure,Infrastructure Construction,Mumbai,Maharashtra,India,1926,170,13.59,2.05,1443,www.hcchindustanconstructioncompany.com,22.7,B2B,Enterprise/B2B Clients,Indian,Yes
+BR0938,Dilip Buildcon,Dilip Buildcon Ltd,Real Estate & Infrastructure,Road Infrastructure,Bhopal,Madhya Pradesh,India,2006,4341,239.14,31.58,5529,www.dilipbuildcon.com,8.7,B2B,Rural & Semi-Urban,Indian,Yes
+BR0939,KNR Constructions,KNR Constructions Ltd,Real Estate & Infrastructure,Road & Irrigation Infra,Hyderabad,Telangana,India,1995,243,10.84,1.49,1437,www.knrconstructions.com,28.3,B2B,Youth (18-30),Indian,Yes
+BR0940,Ashoka Buildcon,Ashoka Buildcon Ltd,Real Estate & Infrastructure,Road Infrastructure,Nashik,Maharashtra,India,1993,120,9.01,2.11,311,www.ashokabuildcon.com,22.6,B2B,Mass Market,Indian,Yes
+BR0941,Ishaanaan Constructions,Ishaanaan Ventures Pvt Ltd,Real Estate & Infrastructure,Infra,Kolkata,West Bengal,India,1997,19,1.75,0.14,171,www.ishaanaanconstructions.com,48.9,B2C,Youth (18-30),Indian,No
+BR0942,Utsavesh Realty,Utsavesh Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Kolkata,West Bengal,India,2017,32,3.57,0.29,294,www.utsaveshrealty.com,39.1,B2C,Enterprise/B2B Clients,Indian,No
+BR0943,Sattvaika Constructions,Sattvaika Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Jaipur,Rajasthan,India,2019,639,46.65,4.9,444,www.sattvaikaconstructions.com,24.2,B2C,Premium/Affluent,Indian,No
+BR0944,Anuaa Builders,Anuaa Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,Kanpur,Uttar Pradesh,India,2006,4,0.64,0.02,46,www.anuaabuilders.com,24.1,B2C,Youth (18-30),Indian,No
+BR0945,Omora Realty,Omora Ventures Pvt Ltd,Real Estate & Infrastructure,Estates,Bhubaneswar,Odisha,India,2011,3,0.41,0.03,63,www.omorarealty.com,29.5,B2B,Working Professionals,Indian,No
+BR0946,Mudraika Constructions,Mudraika Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Hyderabad,Telangana,India,1996,20,2.44,0.2,170,www.mudraikaconstructions.com,13.8,B2B,Enterprise/B2B Clients,Indian,No
+BR0947,Prishaen Builders,Prishaen Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,Bengaluru,Karnataka,India,2009,10,1.11,0.15,51,www.prishaenbuilders.com,19,B2C,Mass Market,Indian,No
+BR0948,Kiaanen Estates,Kiaanen Ventures Pvt Ltd,Real Estate & Infrastructure,Estates,Noida,Uttar Pradesh,India,2000,733,53.46,9.42,1900,www.kiaanenestates.com,6.9,B2C,Rural & Semi-Urban,Indian,No
+BR0949,Suron Builders,Suron Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Lucknow,Uttar Pradesh,India,2022,796,51.07,8.82,1269,www.suronbuilders.com,6.1,B2C,Urban Millennials,Indian,No
+BR0950,Omo Infra,Omo Ventures Pvt Ltd,Real Estate & Infrastructure,Infra,New Delhi,Delhi,India,2004,749,37.16,2.08,197,www.omoinfra.com,21,B2B,Youth (18-30),Indian,No
+BR0951,Yashin Constructions,Yashin Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,New Delhi,Delhi,India,2021,251,14.64,3.36,210,www.yashinconstructions.com,15.5,B2C,Families,Indian,No
+BR0952,Veeraan Estates,Veeraan Ventures Pvt Ltd,Real Estate & Infrastructure,Estates,Chandigarh,Punjab,India,1997,3,0.45,0.02,80,www.veeraanestates.com,34.1,B2C,Premium/Affluent,Indian,No
+BR0953,Anuora Estates,Anuora Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Jaipur,Rajasthan,India,1996,41,3.67,0.29,273,www.anuoraestates.com,24.1,B2B,Enterprise/B2B Clients,Indian,No
+BR0954,Nakshatraam Infra,Nakshatraam Ventures Pvt Ltd,Real Estate & Infrastructure,Estates,Noida,Uttar Pradesh,India,2012,93,6.28,0.4,387,www.nakshatraaminfra.com,18.4,B2C,Enterprise/B2B Clients,Indian,No
+BR0955,Kiaanaan Constructions,Kiaanaan Ventures Pvt Ltd,Real Estate & Infrastructure,Infra,Kolkata,West Bengal,India,2002,19,2.04,0.26,104,www.kiaanaanconstructions.com,37.4,B2C,Working Professionals,Indian,No
+BR0956,Aadhyain Builders,Aadhyain Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,Faridabad,Haryana,India,2006,403,25.14,4.26,706,www.aadhyainbuilders.com,29.7,B2C,Premium/Affluent,Indian,No
+BR0957,Vasuus Infra,Vasuus Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Ahmedabad,Gujarat,India,2013,65,5.18,0.65,211,www.vasuusinfra.com,41.2,B2C,Premium/Affluent,Indian,No
+BR0958,Dhruva Constructions,Dhruva Ventures Pvt Ltd,Real Estate & Infrastructure,Estates,Ahmedabad,Gujarat,India,2021,50,5.66,1.09,149,www.dhruvaconstructions.com,29.7,B2C,Urban Millennials,Indian,No
+BR0959,Rudraika Builders,Rudraika Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Faridabad,Haryana,India,2015,16,2.6,0.37,145,www.rudraikabuilders.com,27.6,B2C,Mass Market,Indian,No
+BR0960,Anua Estates,Anua Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Coimbatore,Tamil Nadu,India,2007,180,14.51,1.97,530,www.anuaestates.com,16.4,B2B,Premium/Affluent,Indian,No
+BR0961,Bhoomian Infra,Bhoomian Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Gurugram,Haryana,India,2003,251,14.68,1.16,793,www.bhoomianinfra.com,9.5,B2C,Rural & Semi-Urban,Indian,No
+BR0962,Suresh Estates,Suresh Ventures Pvt Ltd,Real Estate & Infrastructure,Estates,Kochi,Kerala,India,2001,582,44.12,4.09,1312,www.sureshestates.com,29.1,B2B,Families,Indian,No
+BR0963,Mudraash Constructions,Mudraash Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Bhubaneswar,Odisha,India,2002,493,29.23,4.98,1229,www.mudraashconstructions.com,12.3,B2C,Urban Millennials,Indian,No
+BR0964,Sattvaesh Realty,Sattvaesh Ventures Pvt Ltd,Real Estate & Infrastructure,Estates,New Delhi,Delhi,India,2012,601,52.51,11.11,1524,www.sattvaeshrealty.com,8.2,B2B,Enterprise/B2B Clients,Indian,No
+BR0965,Zenithin Realty,Zenithin Ventures Pvt Ltd,Real Estate & Infrastructure,Infra,Gurugram,Haryana,India,2002,71,5.75,0.97,121,www.zenithinrealty.com,15.3,B2C,Working Professionals,Indian,No
+BR0966,Dhruvra Habitat,Dhruvra Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Indore,Madhya Pradesh,India,2010,449,40.2,5.4,404,www.dhruvrahabitat.com,19.1,B2C,Rural & Semi-Urban,Indian,No
+BR0967,Dhruvaya Realty,Dhruvaya Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Kochi,Kerala,India,2006,15,1.58,0.04,14,www.dhruvayarealty.com,42.2,B2B,Mass Market,Indian,No
+BR0968,Utsavin Infra,Utsavin Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,Visakhapatnam,Andhra Pradesh,India,2014,738,40.02,8.74,974,www.utsavininfra.com,7.1,B2C,Mass Market,Indian,No
+BR0969,Meherika Constructions,Meherika Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Ludhiana,Punjab,India,2003,9,0.74,0.06,116,www.meherikaconstructions.com,46.2,B2C,Urban Millennials,Indian,No
+BR0970,Ojasel Realty,Ojasel Ventures Pvt Ltd,Real Estate & Infrastructure,Constructions,Mumbai,Maharashtra,India,2019,39,2.86,0.12,180,www.ojaselrealty.com,26.3,B2C,Mass Market,Indian,No
+BR0971,Asterix Realty,Asterix Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Coimbatore,Tamil Nadu,India,2018,375,28.08,3.96,1888,www.asterixrealty.com,24.6,B2C,Premium/Affluent,Indian,No
+BR0972,Anuo Builders,Anuo Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Chandigarh,Punjab,India,2010,86,9.93,0.47,134,www.anuobuilders.com,9.8,B2B,Mass Market,Indian,No
+BR0973,Utsavaan Constructions,Utsavaan Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,Hyderabad,Telangana,India,2007,23,2.69,0.47,390,www.utsavaanconstructions.com,24.1,B2C,Youth (18-30),Indian,No
+BR0974,Brighteer Estates,Brighteer Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,Faridabad,Haryana,India,1997,18,1.8,0.3,295,www.brighteerestates.com,44.6,B2C,Mass Market,Indian,No
+BR0975,Nakshatrael Realty,Nakshatrael Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Faridabad,Haryana,India,1995,282,22.33,1.61,773,www.nakshatraelrealty.com,8.2,B2C,Rural & Semi-Urban,Indian,No
+BR0976,Vantagein Realty,Vantagein Ventures Pvt Ltd,Real Estate & Infrastructure,Infra,New Delhi,Delhi,India,2006,18,2.79,0.19,188,www.vantageinrealty.com,18.5,B2C,Youth (18-30),Indian,No
+BR0977,Rudraeer Builders,Rudraeer Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Gurugram,Haryana,India,2021,508,23.38,2.66,453,www.rudraeerbuilders.com,27.8,B2C,Enterprise/B2B Clients,Indian,No
+BR0978,Rudraen Habitat,Rudraen Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Nagpur,Maharashtra,India,2008,67,6.51,0.77,143,www.rudraenhabitat.com,29.4,B2C,Working Professionals,Indian,No
+BR0979,Kalpika Builders,Kalpika Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Ahmedabad,Gujarat,India,1999,98,7.1,1.1,135,www.kalpikabuilders.com,11.4,B2C,Urban Millennials,Indian,No
+BR0980,Surant Builders,Surant Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Hyderabad,Telangana,India,2010,18,2.09,0.27,72,www.surantbuilders.com,43,B2C,Families,Indian,No
+BR0981,Meherix Builders,Meherix Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Thiruvananthapuram,Kerala,India,2020,73,4.01,0.46,128,www.meherixbuilders.com,8.5,B2C,Families,Indian,No
+BR0982,Rudraan Habitat,Rudraan Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,New Delhi,Delhi,India,2011,428,25.34,3.74,847,www.rudraanhabitat.com,12.1,B2B,Rural & Semi-Urban,Indian,No
+BR0983,Lumoeer Habitat,Lumoeer Ventures Pvt Ltd,Real Estate & Infrastructure,Infra,Kanpur,Uttar Pradesh,India,2011,78,5.63,0.6,98,www.lumoeerhabitat.com,39.4,B2C,Premium/Affluent,Indian,No
+BR0984,Mudraam Realty,Mudraam Ventures Pvt Ltd,Real Estate & Infrastructure,Estates,Indore,Madhya Pradesh,India,2018,740,37.69,4.63,1076,www.mudraamrealty.com,31.2,B2C,Families,Indian,No
+BR0985,Aadhyao Habitat,Aadhyao Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Mysuru,Karnataka,India,2010,80,5.07,0.39,104,www.aadhyaohabitat.com,33.4,B2C,Premium/Affluent,Indian,No
+BR0986,Kiaano Realty,Kiaano Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Chandigarh,Punjab,India,2001,203,17.02,3.39,642,www.kiaanorealty.com,6.5,B2C,Working Professionals,Indian,No
+BR0987,Utsavith Realty,Utsavith Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Faridabad,Haryana,India,2000,27,1.39,0.2,251,www.utsavithrealty.com,21,B2C,Premium/Affluent,Indian,No
+BR0988,Surash Infra,Surash Ventures Pvt Ltd,Real Estate & Infrastructure,Estates,Kolkata,West Bengal,India,2002,749,33.1,4.51,458,www.surashinfra.com,17.5,B2C,Enterprise/B2B Clients,Indian,No
+BR0989,Elevix Realty,Elevix Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,New Delhi,Delhi,India,1997,13,1.13,0.06,35,www.elevixrealty.com,12.5,B2B,Enterprise/B2B Clients,Indian,No
+BR0990,Dhruven Estates,Dhruven Ventures Pvt Ltd,Real Estate & Infrastructure,Constructions,Kolkata,West Bengal,India,2019,76,6.04,0.48,226,www.dhruvenestates.com,14.5,B2B,Urban Millennials,Indian,No
+BR0991,Taraith Builders,Taraith Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,Chennai,Tamil Nadu,India,1995,58,4.88,0.51,368,www.taraithbuilders.com,9.8,B2C,Families,Indian,No
+BR0992,Vedash Infra,Vedash Ventures Pvt Ltd,Real Estate & Infrastructure,Realty,Hyderabad,Telangana,India,1997,24,2.45,0.07,19,www.vedashinfra.com,38.8,B2B,Families,Indian,No
+BR0993,Nakshatraaa Habitat,Nakshatraaa Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Hyderabad,Telangana,India,2011,16,0.91,0.06,337,www.nakshatraaahabitat.com,33.9,B2C,Enterprise/B2B Clients,Indian,No
+BR0994,Trishulith Builders,Trishulith Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,Hyderabad,Telangana,India,2004,45,2.59,0.4,374,www.trishulithbuilders.com,17.9,B2C,Families,Indian,No
+BR0995,Kiaanra Infra,Kiaanra Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,Bengaluru,Karnataka,India,2013,25,1.63,0.23,381,www.kiaanrainfra.com,30.1,B2C,Mass Market,Indian,No
+BR0996,Surin Constructions,Surin Ventures Pvt Ltd,Real Estate & Infrastructure,Infra,Mysuru,Karnataka,India,1998,19,1.58,0.24,264,www.surinconstructions.com,35.3,B2B,Families,Indian,No
+BR0997,Elevaya Constructions,Elevaya Ventures Pvt Ltd,Real Estate & Infrastructure,Builders,Bengaluru,Karnataka,India,2000,5,0.76,0.03,95,www.elevayaconstructions.com,55,B2C,Youth (18-30),Indian,No
+BR0998,Vantageam Builders,Vantageam Ventures Pvt Ltd,Real Estate & Infrastructure,Constructions,Hyderabad,Telangana,India,2013,97,9.33,0.96,30,www.vantageambuilders.com,14.6,B2B,Urban Millennials,Indian,No
+BR0999,Aadhyaora Estates,Aadhyaora Ventures Pvt Ltd,Real Estate & Infrastructure,Estates,Hyderabad,Telangana,India,2006,89,5.53,0.88,24,www.aadhyaoraestates.com,30,B2B,Working Professionals,Indian,No
+BR1000,Amaraika Habitat,Amaraika Ventures Pvt Ltd,Real Estate & Infrastructure,Habitat,Visakhapatnam,Andhra Pradesh,India,2003,15,1.93,0.1,38,www.amaraikahabitat.com,12.3,B2C,Mass Market,Indian,No
+BR1001,IRCTC,Indian Railway Catering and Tourism Corporation,Others,Travel & Ticketing,New Delhi,Delhi,India,1999,4741,181.28,40.07,7663,www.irctc.com,13.2,B2C,Families,Indian,Yes
+BR1002,MakeMyTrip,MakeMyTrip Ltd,Others,Online Travel,Gurugram,Haryana,India,2000,2663,112.13,17.2,5517,www.makemytrip.com,11.7,B2C,Families,Indian,Yes
+BR1003,Yatra,Yatra Online Ltd,Others,Online Travel,Gurugram,Haryana,India,2006,469,25.02,4.74,1181,www.yatra.com,9,B2C,Rural & Semi-Urban,Indian,Yes
+BR1004,Cleartrip,Cleartrip Pvt Ltd (Flipkart),Others,Online Travel,Mumbai,Maharashtra,India,2006,730,54.97,9.59,722,www.cleartrip.com,8.3,B2C,Youth (18-30),Indian,No
+BR1005,OYO Rooms,Oravel Stays Ltd,Others,Hospitality & Budget Hotels,Gurugram,Haryana,India,2013,4334,220.34,31.07,5529,www.oyorooms.com,9.8,B2C,Rural & Semi-Urban,Indian,No
+BR1006,Treebo Hotels,Ver Se Innovation (Treebo),Others,Budget Hotel Chain,Bengaluru,Karnataka,India,2015,75,7.91,0.29,140,www.treebohotels.com,33.8,B2C,Working Professionals,Indian,No
+BR1007,Zomato,Eternal Ltd (formerly Zomato),Others,Food Delivery,Gurugram,Haryana,India,2008,57418,1197.25,319.98,22714,www.zomato.com,9,B2C,Enterprise/B2B Clients,Indian,Yes
+BR1008,Swiggy,Bundl Technologies Pvt Ltd,Others,Food Delivery & Quick Commerce,Bengaluru,Karnataka,India,2014,21523,1261.31,141.2,44960,www.swiggy.com,10.9,B2C,Mass Market,Indian,Yes
+BR1009,Zepto,Kiranakart Technologies,Others,Quick Commerce,Mumbai,Maharashtra,India,2021,4424,200.77,17.85,2685,www.zepto.com,13.7,B2C,Enterprise/B2B Clients,Indian,No
+BR1010,Blinkit,Blink Commerce Pvt Ltd (Eternal),Others,Quick Commerce,Gurugram,Haryana,India,2013,3037,171.31,14.78,7250,www.blinkit.com,13,B2C,Mass Market,Indian,Yes
+BR1011,BigBasket,Innovative Retail Concepts (Tata),Others,Online Grocery,Bengaluru,Karnataka,India,2011,4622,278.16,40.96,7784,www.bigbasket.com,25.9,B2C,Families,Indian,No
+BR1012,Flipkart,Flipkart Internet Pvt Ltd,Others,E-commerce,Bengaluru,Karnataka,India,2007,46649,1569.17,417.16,33447,www.flipkart.com,19.6,B2C,Mass Market,Indian,No
+BR1013,Meesho,Fashnear Technologies,Others,Social Commerce,Bengaluru,Karnataka,India,2015,4191,218.49,59.1,6553,www.meesho.com,11.6,B2C,Working Professionals,Indian,No
+BR1014,Snapdeal,Jasper Infotech Pvt Ltd,Others,E-commerce,New Delhi,Delhi,India,2010,397,30.13,6.14,682,www.snapdeal.com,10.7,B2C,Enterprise/B2B Clients,Indian,No
+BR1015,Urban Company,Urban Company Pvt Ltd,Others,Home Services,Gurugram,Haryana,India,2014,2763,192.58,24.58,1124,www.urbancompany.com,11.5,B2C,Urban Millennials,Indian,Yes
+BR1016,NoBroker,NoBroker Technologies,Others,Real Estate Services Platform,Bengaluru,Karnataka,India,2014,160,8.39,1.33,841,www.nobroker.com,22.6,B2C,Mass Market,Indian,No
+BR1017,Naukri.com,Info Edge India Ltd,Others,Job Portal,Noida,Uttar Pradesh,India,1997,3385,150.54,31.89,7409,www.naukricom.com,20,B2C,Mass Market,Indian,Yes
+BR1018,99acres,Info Edge India Ltd,Others,Real Estate Classifieds,Noida,Uttar Pradesh,India,2005,187,12.79,1.46,691,www.99acres.com,30.6,B2C,Working Professionals,Indian,Yes
+BR1019,Shaadi.com,People Interactive India,Others,Matrimony Platform,Mumbai,Maharashtra,India,1996,424,26.28,3.77,884,www.shaadicom.com,19.9,B2C,Families,Indian,No
+BR1020,BharatMatrimony,Matrimony.com Ltd,Others,Matrimony Platform,Chennai,Tamil Nadu,India,1997,386,26.63,1.76,1987,www.bharatmatrimony.com,23.7,B2C,Rural & Semi-Urban,Indian,Yes
+BR1021,PolicyBazaar,PB Fintech Ltd,Others,Insurance Marketplace,Gurugram,Haryana,India,2008,4804,228.75,30.1,7444,www.policybazaarothersref.com,11.4,B2C,Working Professionals,Indian,Yes
+BR1022,BYJU'S,Think & Learn Pvt Ltd,Others,Ed-Tech,Bengaluru,Karnataka,India,2011,1334,73.67,8.06,6062,www.byjus.com,20.1,B2C,Families,Indian,No
+BR1023,Unacademy,Sorting Hat Technologies,Others,Ed-Tech,Bengaluru,Karnataka,India,2015,180,7.55,1.41,1912,www.unacademy.com,18.8,B2C,Rural & Semi-Urban,Indian,No
+BR1024,Physics Wallah,Physics Wallah Pvt Ltd,Others,Ed-Tech,Noida,Uttar Pradesh,India,2020,976,57.3,5.28,6853,www.physicswallah.com,27.8,B2C,Urban Millennials,Indian,No
+BR1025,Vedantu,Vedantu Innovations Pvt Ltd,Others,Ed-Tech,Bengaluru,Karnataka,India,2011,111,9.15,2.01,1256,www.vedantu.com,26.8,B2C,Families,Indian,No
+BR1026,upGrad,upGrad Education Pvt Ltd,Others,Higher Ed-Tech,Mumbai,Maharashtra,India,2015,2269,75.1,12.67,5186,www.upgrad.com,6.8,B2C,Families,Indian,No
+BR1027,Zoho Corporation,Zoho Corporation Pvt Ltd,Others,SaaS & Enterprise Software,Chennai,Tamil Nadu,India,1996,22918,798.81,211.32,32260,www.zohocorporation.com,5.3,B2B,Enterprise/B2B Clients,Indian,No
+BR1028,Freshworks,Freshworks Inc.,Others,SaaS & Customer Engagement,Chennai,Tamil Nadu,India,2010,4479,159.99,23.25,7456,www.freshworks.com,13.3,B2B,Enterprise/B2B Clients,Indian,Yes
+BR1029,Postman,Postman Inc. (India R&D),Others,API Development SaaS,Bengaluru,Karnataka,India,2014,728,42.77,10.2,752,www.postman.com,24,B2B,Youth (18-30),Indian,No
+BR1030,Chargebee,Chargebee Inc.,Others,Subscription Billing SaaS,Chennai,Tamil Nadu,India,2011,358,19.52,1.56,1360,www.chargebee.com,6.7,B2B,Families,Indian,No
+BR1031,Infosys BPM,Infosys Ltd,Others,IT Services,Bengaluru,Karnataka,India,1981,49442,1999.03,512.1,38304,www.infosysbpm.com,18.1,B2B,Rural & Semi-Urban,Indian,Yes
+BR1032,TCS,Tata Consultancy Services,Others,IT Services,Mumbai,Maharashtra,India,1968,56697,1993.09,431.58,48061,www.tcs.com,17.1,B2B,Enterprise/B2B Clients,Indian,Yes
+BR1033,Wipro,Wipro Ltd,Others,IT Services,Bengaluru,Karnataka,India,1945,46944,2157.93,628.04,19718,www.wipro.com,14.2,B2B,Enterprise/B2B Clients,Indian,Yes
+BR1034,HCLTech,HCL Technologies Ltd,Others,IT Services,Noida,Uttar Pradesh,India,1976,34643,860.87,237.34,57311,www.hcltech.com,4.9,B2B,Working Professionals,Indian,Yes
+BR1035,Tech Mahindra,Tech Mahindra Ltd,Others,IT Services,Pune,Maharashtra,India,1986,41256,1683.8,275.11,17781,www.techmahindra.com,19,B2B,Urban Millennials,Indian,Yes
+BR1036,Reliance Jio,Reliance Jio Infocomm Ltd,Others,Telecom,Mumbai,Maharashtra,India,2016,55109,1826.71,474.58,28721,www.reliancejio.com,8.2,B2C,Rural & Semi-Urban,Indian,No
+BR1037,Airtel,Bharti Airtel Ltd,Others,Telecom,New Delhi,Delhi,India,1995,46150,1136.07,168.38,53024,www.airtel.com,21.2,B2C,Enterprise/B2B Clients,Indian,Yes
+BR1038,Vodafone Idea (Vi),Vodafone Idea Ltd,Others,Telecom,Mumbai,Maharashtra,India,2018,24904,848.7,170.7,28743,www.vodafoneideavi.com,15.8,B2C,Families,Indian,Yes
+BR1039,IndiGo,InterGlobe Aviation Ltd,Others,Airlines,Gurugram,Haryana,India,2006,29693,1091.34,233.4,59184,www.indigo.com,21.8,B2C,Families,Indian,Yes
+BR1040,Air India,Tata Sons (Air India Ltd),Others,Airlines,New Delhi,Delhi,India,1932,47705,1731.9,375.74,14053,www.airindia.com,14.9,B2C,Urban Millennials,Indian,No
+BR1041,SpiceJet,SpiceJet Ltd,Others,Airlines,Gurugram,Haryana,India,2005,2235,77.58,12.54,5137,www.spicejet.com,27.6,B2C,Working Professionals,Indian,Yes
+BR1042,Elevora Industries,Elevora Ventures Pvt Ltd,Others,Ventures,Gurugram,Haryana,India,2019,543,42.68,9.82,1944,www.elevoraindustries.com,19.2,B2C,Youth (18-30),Indian,No
+BR1043,Saanvius Group,Saanvius Ventures Pvt Ltd,Others,Industries,Chandigarh,Punjab,India,2016,21,1.43,0.18,260,www.saanviusgroup.com,35.5,B2C,Youth (18-30),Indian,No
+BR1044,Veerash Solutions,Veerash Ventures Pvt Ltd,Others,Corp,Thiruvananthapuram,Kerala,India,1998,709,57.89,3.17,491,www.veerashsolutions.com,34.7,B2C,Youth (18-30),Indian,No
+BR1045,Nirain Group,Nirain Ventures Pvt Ltd,Others,Enterprises,Gurugram,Haryana,India,2006,56,4.9,0.47,236,www.niraingroup.com,21.1,B2C,Enterprise/B2B Clients,Indian,No
+BR1046,Novaaya Enterprises,Novaaya Ventures Pvt Ltd,Others,Industries,Bengaluru,Karnataka,India,2007,73,4.86,0.39,192,www.novaayaenterprises.com,41.2,B2B,Rural & Semi-Urban,Indian,No
+BR1047,Sattvaus Corp,Sattvaus Ventures Pvt Ltd,Others,Industries,Surat,Gujarat,India,2016,63,5.89,1.17,43,www.sattvauscorp.com,10.7,B2C,Rural & Semi-Urban,Indian,No
+BR1048,Zenitham Industries,Zenitham Ventures Pvt Ltd,Others,Industries,Kolkata,West Bengal,India,2013,96,10.86,1.49,399,www.zenithamindustries.com,38.9,B2B,Urban Millennials,Indian,No
+BR1049,Omora Group,Omora Ventures Pvt Ltd,Others,Group,Chandigarh,Punjab,India,1998,19,2.88,0.33,195,www.omoragroup.com,48.3,B2B,Premium/Affluent,Indian,No
+BR1050,Rudraus Solutions,Rudraus Ventures Pvt Ltd,Others,Enterprises,Hyderabad,Telangana,India,2014,24,1.2,0.16,365,www.rudraussolutions.com,32,B2C,Enterprise/B2B Clients,Indian,No
+BR1051,Dhruvika Industries,Dhruvika Ventures Pvt Ltd,Others,Corp,Pune,Maharashtra,India,1996,324,15.84,3.08,722,www.dhruvikaindustries.com,33.4,B2C,Premium/Affluent,Indian,No
+BR1052,Brightash Ventures,Brightash Ventures Pvt Ltd,Others,Ventures,Visakhapatnam,Andhra Pradesh,India,2016,7,0.85,0.02,142,www.brightashventures.com,54.9,B2C,Enterprise/B2B Clients,Indian,No
+BR1053,Veerash Corp,Veerash Ventures Pvt Ltd,Others,Solutions,Hyderabad,Telangana,India,2017,300,17.74,3.57,443,www.veerashcorp.com,7.2,B2C,Families,Indian,No
+BR1054,Kalpika Industries,Kalpika Ventures Pvt Ltd,Others,Enterprises,Gurugram,Haryana,India,2010,11,1.22,0.16,90,www.kalpikaindustries.com,15,B2B,Urban Millennials,Indian,No
+BR1055,Swastiken Group,Swastiken Ventures Pvt Ltd,Others,Industries,Indore,Madhya Pradesh,India,2023,216,11.74,1.73,608,www.swastikengroup.com,31.7,B2C,Urban Millennials,Indian,No
+BR1056,Vasuant Group,Vasuant Ventures Pvt Ltd,Others,Industries,Kochi,Kerala,India,2016,24,2.49,0.25,37,www.vasuantgroup.com,56.2,B2C,Urban Millennials,Indian,No
+BR1057,Zenaa Industries,Zenaa Ventures Pvt Ltd,Others,Solutions,Jaipur,Rajasthan,India,2004,23,1.46,0.25,106,www.zenaaindustries.com,9,B2C,Mass Market,Indian,No
+BR1058,Vasuen Group,Vasuen Ventures Pvt Ltd,Others,Industries,Chennai,Tamil Nadu,India,2011,96,8.46,1.4,23,www.vasuengroup.com,26.1,B2C,Mass Market,Indian,No
+BR1059,Veerus Industries,Veerus Ventures Pvt Ltd,Others,Group,Visakhapatnam,Andhra Pradesh,India,2008,10,1.07,0.15,119,www.veerusindustries.com,46.6,B2C,Youth (18-30),Indian,No
+BR1060,Zena Group,Zena Ventures Pvt Ltd,Others,Enterprises,Bengaluru,Karnataka,India,2014,21,2.29,0.08,190,www.zenagroup.com,56,B2C,Premium/Affluent,Indian,No
+BR1061,Amarain Corp,Amarain Ventures Pvt Ltd,Others,Enterprises,Jaipur,Rajasthan,India,2019,12,1.44,0.08,45,www.amaraincorp.com,59.7,B2C,Premium/Affluent,Indian,No
+BR1062,Surus Corp,Surus Ventures Pvt Ltd,Others,Solutions,Patna,Bihar,India,1997,778,62.37,12.4,605,www.suruscorp.com,27.1,B2C,Rural & Semi-Urban,Indian,No
+BR1063,Utsavesh Industries,Utsavesh Ventures Pvt Ltd,Others,Solutions,Bhubaneswar,Odisha,India,2022,210,11.9,1.67,1656,www.utsaveshindustries.com,20.9,B2C,Premium/Affluent,Indian,No
+BR1064,Primeel Ventures,Primeel Ventures Pvt Ltd,Others,Group,Kolkata,West Bengal,India,2012,18,2.01,0.28,120,www.primeelventures.com,15,B2C,Rural & Semi-Urban,Indian,No
+BR1065,Swastikin Industries,Swastikin Ventures Pvt Ltd,Others,Solutions,Jaipur,Rajasthan,India,2020,27,2.41,0.42,340,www.swastikinindustries.com,9.3,B2C,Mass Market,Indian,No
+BR1066,Kria Enterprises,Kria Ventures Pvt Ltd,Others,Group,Chennai,Tamil Nadu,India,2002,272,18.86,4.23,600,www.kriaenterprises.com,25.5,B2C,Urban Millennials,Indian,No
+BR1067,Primeus Group,Primeus Ventures Pvt Ltd,Others,Enterprises,New Delhi,Delhi,India,2004,52,4.39,0.27,274,www.primeusgroup.com,18.5,B2B,Families,Indian,No
+BR1068,Sattvaam Corp,Sattvaam Ventures Pvt Ltd,Others,Ventures,Patna,Bihar,India,2008,544,24.19,3.71,1631,www.sattvaamcorp.com,27.7,B2C,Mass Market,Indian,No
+BR1069,Ishaano Corp,Ishaano Ventures Pvt Ltd,Others,Solutions,Kolkata,West Bengal,India,2010,404,26.07,4.49,1604,www.ishaanocorp.com,11.2,B2C,Enterprise/B2B Clients,Indian,No
+BR1070,Kalpix Industries,Kalpix Ventures Pvt Ltd,Others,Ventures,Lucknow,Uttar Pradesh,India,2007,72,6.68,0.92,140,www.kalpixindustries.com,31.6,B2C,Working Professionals,Indian,No
+BR1071,Novain Ventures,Novain Ventures Pvt Ltd,Others,Ventures,Jaipur,Rajasthan,India,1998,58,6.74,1.21,138,www.novainventures.com,40.4,B2C,Working Professionals,Indian,No
+BR1072,Vedaan Solutions,Vedaan Ventures Pvt Ltd,Others,Group,Patna,Bihar,India,2006,13,1.83,0.18,149,www.vedaansolutions.com,34,B2B,Premium/Affluent,Indian,No
+BR1073,Lumoam Ventures,Lumoam Ventures Pvt Ltd,Others,Corp,Surat,Gujarat,India,2011,6,1.11,0.15,83,www.lumoamventures.com,31,B2C,Working Professionals,Indian,No
+BR1074,Trishulen Corp,Trishulen Ventures Pvt Ltd,Others,Solutions,Bengaluru,Karnataka,India,2015,328,23.97,1.75,1101,www.trishulencorp.com,33.7,B2C,Premium/Affluent,Indian,No
+BR1075,Saanvius Solutions,Saanvius Ventures Pvt Ltd,Others,Industries,Hyderabad,Telangana,India,2020,9,1.11,0.04,133,www.saanviussolutions.com,52,B2B,Working Professionals,Indian,No
+BR1076,Kriaan Group,Kriaan Ventures Pvt Ltd,Others,Corp,Bhopal,Madhya Pradesh,India,2014,64,6.29,0.22,157,www.kriaangroup.com,26.8,B2C,Enterprise/B2B Clients,Indian,No
+BR1077,Primeora Corp,Primeora Ventures Pvt Ltd,Others,Corp,Noida,Uttar Pradesh,India,2017,16,1.61,0.12,182,www.primeoracorp.com,23.2,B2C,Working Professionals,Indian,No
+BR1078,Naveenen Ventures,Naveenen Ventures Pvt Ltd,Others,Enterprises,New Delhi,Delhi,India,2022,11,1.19,0.03,134,www.naveenenventures.com,46.4,B2C,Rural & Semi-Urban,Indian,No
+BR1079,Taraix Solutions,Taraix Ventures Pvt Ltd,Others,Solutions,Bhubaneswar,Odisha,India,2019,545,23.06,3.22,603,www.taraixsolutions.com,22.6,B2B,Youth (18-30),Indian,No
+BR1080,Tarao Solutions,Tarao Ventures Pvt Ltd,Others,Industries,Bhopal,Madhya Pradesh,India,1997,475,37.53,2.7,1406,www.taraosolutions.com,23.7,B2C,Youth (18-30),Indian,No
+BR1081,Krius Industries,Krius Ventures Pvt Ltd,Others,Group,Mumbai,Maharashtra,India,2005,524,21.46,4.17,1793,www.kriusindustries.com,17,B2C,Rural & Semi-Urban,Indian,No
+BR1082,Swastikant Corp,Swastikant Ventures Pvt Ltd,Others,Solutions,Kolkata,West Bengal,India,2003,92,9.55,1.18,355,www.swastikantcorp.com,9.8,B2C,Families,Indian,No
+BR1083,Prishao Group,Prishao Ventures Pvt Ltd,Others,Solutions,Kolkata,West Bengal,India,2013,354,17.65,1.44,1247,www.prishaogroup.com,17.5,B2C,Families,Indian,No
+BR1084,Vedin Ventures,Vedin Ventures Pvt Ltd,Others,Ventures,Chandigarh,Punjab,India,2013,36,2.21,0.21,231,www.vedinventures.com,16,B2C,Families,Indian,No
+BR1085,Bhoomion Group,Bhoomion Ventures Pvt Ltd,Others,Corp,Kolkata,West Bengal,India,2013,24,1.97,0.04,144,www.bhoomiongroup.com,15.1,B2C,Enterprise/B2B Clients,Indian,No
+BR1086,Naveeneer Enterprises,Naveeneer Ventures Pvt Ltd,Others,Ventures,Mysuru,Karnataka,India,2008,81,4.3,0.34,32,www.naveeneerenterprises.com,16.5,B2C,Families,Indian,No
+BR1087,Anuon Industries,Anuon Ventures Pvt Ltd,Others,Corp,Chennai,Tamil Nadu,India,2010,124,9.58,2.04,923,www.anuonindustries.com,25,B2C,Youth (18-30),Indian,No
+BR1088,Nirara Industries,Nirara Ventures Pvt Ltd,Others,Enterprises,Lucknow,Uttar Pradesh,India,2017,84,9.31,1.64,59,www.niraraindustries.com,10.7,B2B,Enterprise/B2B Clients,Indian,No
+BR1089,Krieer Corp,Krieer Ventures Pvt Ltd,Others,Corp,Faridabad,Haryana,India,2007,12,1.2,0.15,97,www.krieercorp.com,11.5,B2C,Enterprise/B2B Clients,Indian,No
+BR1090,Omant Group,Omant Ventures Pvt Ltd,Others,Group,Kanpur,Uttar Pradesh,India,1995,236,16.59,1.87,812,www.omantgroup.com,18.3,B2C,Mass Market,Indian,No
+BR1091,Saanvian Enterprises,Saanvian Ventures Pvt Ltd,Others,Ventures,Kolkata,West Bengal,India,2019,37,3.05,0.14,355,www.saanvianenterprises.com,29.3,B2C,Enterprise/B2B Clients,Indian,No
+BR1092,Kriant Corp,Kriant Ventures Pvt Ltd,Others,Corp,New Delhi,Delhi,India,1997,8,0.71,0.1,153,www.kriantcorp.com,23.9,B2C,Urban Millennials,Indian,No
+BR1093,Shaeer Group,Shaeer Ventures Pvt Ltd,Others,Ventures,Hyderabad,Telangana,India,2018,735,49.02,4.85,185,www.shaeergroup.com,34.8,B2C,Enterprise/B2B Clients,Indian,No
+BR1094,Nakshatraaan Industries,Nakshatraaan Ventures Pvt Ltd,Others,Enterprises,Visakhapatnam,Andhra Pradesh,India,2004,24,3.72,0.42,125,www.nakshatraaanindustries.com,21.2,B2C,Mass Market,Indian,No
+BR1095,Arua Enterprises,Arua Ventures Pvt Ltd,Others,Group,Indore,Madhya Pradesh,India,2012,46,3.03,0.28,308,www.aruaenterprises.com,12,B2B,Urban Millennials,Indian,No
+BR1096,Anuora Solutions,Anuora Ventures Pvt Ltd,Others,Corp,Visakhapatnam,Andhra Pradesh,India,1998,40,4.26,0.83,68,www.anuorasolutions.com,28.8,B2B,Families,Indian,No
+BR1097,Amaraaya Enterprises,Amaraaya Ventures Pvt Ltd,Others,Ventures,Thiruvananthapuram,Kerala,India,1996,705,45.49,4.55,439,www.amaraayaenterprises.com,17.7,B2C,Working Professionals,Indian,No
+BR1098,Nakshatraora Solutions,Nakshatraora Ventures Pvt Ltd,Others,Ventures,New Delhi,Delhi,India,2022,14,2.23,0.27,25,www.nakshatraorasolutions.com,48.4,B2C,Urban Millennials,Indian,No
+BR1099,Anuus Enterprises,Anuus Ventures Pvt Ltd,Others,Solutions,Jaipur,Rajasthan,India,2005,47,4.8,0.82,38,www.anuusenterprises.com,19.9,B2B,Enterprise/B2B Clients,Indian,No
+BR1100,Dhruvin Corp,Dhruvin Ventures Pvt Ltd,Others,Ventures,Bhopal,Madhya Pradesh,India,2016,710,37.92,3.48,1301,www.dhruvincorp.com,29,B2C,Working Professionals,Indian,No

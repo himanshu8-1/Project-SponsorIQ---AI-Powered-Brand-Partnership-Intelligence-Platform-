@@ -1,0 +1,99 @@
+Event_ID,Event_Name,Event_Category,Organizer,Audience_Type,Annual_Footfall,Cities,Reach_Million,Sponsorship_Cost_Cr,Title_Sponsor,Associate_Sponsor,Season
+EV001,Indian Premier League (IPL),Sports - Cricket,Board of Control for Cricket in India (BCCI),Mass / Pan-India Sports Fans,2858253,"Mumbai, Chennai, Bengaluru, Kolkata, Hyderabad, Delhi, Ahmedabad, Jaipur, Lucknow, Chandigarh",632,397,TATA Group,Dream11,Mar-May
+EV002,Pro Kabaddi League,Sports - Kabaddi,Mashal Sports / Star Sports,Mass / Tier-2 & 3 Sports Fans,401263,Multiple Indian Cities (Franchise-based),55,121,Vivo,Amul,Oct-Jan
+EV003,Indian Super League (ISL),Sports - Football,Football Sports Development Ltd (FSDL),Football Fans / Youth,1066905,"Kochi, Bengaluru, Kolkata, Goa, Mumbai, Chennai",162,185,Hero MotoCorp,Amazon Prime Video,Sep-Apr
+EV004,Durand Cup,Sports - Football,Durand Football Tournament Society,Football Fans,750254,"Kolkata, Guwahati, Imphal",48,104,Ministry of Defence,United Sports Products,Aug-Sep
+EV005,Ranji Trophy,Sports - Cricket,BCCI,Domestic Cricket Fans,446497,Multiple Indian Cities,91,124,BCCI,Star Sports,Oct-Feb
+EV006,Khelo India Youth Games,Sports - Multi-discipline,Ministry of Youth Affairs & Sports,Youth Athletes / Students,423963,Rotating Host State,214,51,Ministry of Youth Affairs & Sports,SAIL,Jan-Feb
+EV007,Premier Badminton League,Sports - Badminton,Sports and Media Entertainment,Badminton Fans,768166,Multiple Indian Cities,172,129,Vodafone,Star Sports,Dec-Jan
+EV008,Ultimate Table Tennis,Sports - Table Tennis,Global Sports Development,Table Tennis Fans,4027,Multiple Indian Cities,15,11,MPL Sport,Star Sports,Oct-Nov
+EV009,Pro Volleyball League,Sports - Volleyball,Baseline Ventures,Volleyball Fans,9244,Multiple Indian Cities,2,22,Coca-Cola,Star Sports,Feb-Mar
+EV010,Hockey India League,Sports - Hockey,Hockey India,Hockey Fans,907354,Multiple Indian Cities,128,122,Odisha Government,Star Sports,Dec-Jan
+EV011,Formula E Hyderabad E-Prix,Sports - Motorsport,Fan Entertainment Pvt Ltd / FEO,Motorsport Enthusiasts,1497292,Hyderabad,105,169,Greenko,Hyderabad State Government,Feb
+EV012,Indian Racing League,Sports - Motorsport,JA Entertainment,Motorsport Enthusiasts,7922,"Chennai, Hyderabad",4,15,JK Tyre,Meco,Feb-Mar
+EV013,Federation Cup Athletics,Sports - Athletics,Athletics Federation of India,Athletics Fans,8156,Rotating Host City,10,15,Athletics Federation of India,JSW Sports,Mar-Apr
+EV014,MotoGP Bharat,Sports - Motorsport,Fairstreet Sports / Dorna Sports,Motorsport Enthusiasts,431678,Buddh International Circuit (Greater Noida),159,135,BharatGP,Reliance,Sep-Oct
+EV015,Vedanta Delhi Half Marathon,Sports - Marathon,Procam International,Running Community / Fitness Enthusiasts,31266,New Delhi,25,18,Vedanta,Asics,Oct
+EV016,Tata Mumbai Marathon,Sports - Marathon,Procam International,Running Community / Fitness Enthusiasts,25293,Mumbai,19,33,Tata Consultancy Services,Reliance General Insurance,Jan
+EV017,TCS World 10K Bengaluru,Sports - Marathon,Procam International,Running Community / Fitness Enthusiasts,26848,Bengaluru,14,29,Tata Consultancy Services,Puma,May
+EV018,Tata Steel Kolkata 25K,Sports - Marathon,Procam International,Running Community / Fitness Enthusiasts,37904,Kolkata,28,8,Tata Steel,Skechers,Dec
+EV019,Satara Hill Half Marathon,Sports - Marathon,Procam International,Running Community / Fitness Enthusiasts,24838,Satara,21,31,Mission Sports Foundation,Decathlon,Feb
+EV020,National Games of India,Sports - Multi-discipline,Indian Olympic Association,Athletes / Sports Fans,1241273,Rotating Host State,101,197,Host State Government,SAIL,Varies (typically Oct-Nov)
+EV021,Sunburn Festival,Music - EDM Festival,Percept Live / Sunburn,Youth / EDM Fans,91900,"Goa, Pune",16,8,Budweiser,Bacardi,Dec
+EV022,NH7 Weekender,Music - Multi-genre Festival,OML Entertainment,Youth / Music Enthusiasts,209335,"Pune, Bengaluru, Shillong",6,16,Bacardi,Royal Enfield,Nov-Dec
+EV023,Lollapalooza India,Music - Multi-genre Festival,Cloud9 Adventure / OML,Youth / Music Enthusiasts,50555,Mumbai,29,5,Myntra,OnePlus,Jan
+EV024,Ziro Festival of Music,Music - Indie Festival,Ziro Festival Society,Indie Music Fans / Tourists,1220369,"Ziro, Arunachal Pradesh",15,13,Arunachal Pradesh Tourism,Old Monk,Sep
+EV025,Magnetic Fields Festival,Music - Electronic/Arts Festival,Wend Collective,Youth / Electronic Music Fans,194494,"Alsisar, Rajasthan",12,13,Absolut Vodka,Rolling Stone India,Dec
+EV026,Ragasthan,Music - Desert Music Festival,Percept Live,Youth / Music & Camping Enthusiasts,290400,"Jaisalmer, Rajasthan",18,15,Kingfisher,Royal Enfield,Dec-Jan
+EV027,Zomaland,Entertainment - Food & Music Festival,Zomato Ltd,Urban Millennials / Foodies,79071,"Mumbai, Delhi, Bengaluru, Hyderabad",29,16,Zomato,PepsiCo,Nov-Feb
+EV028,Hornbill Festival,Culture - Tribal Heritage Festival,Government of Nagaland,Tourists / Culture Enthusiasts,1442828,"Kisama, Nagaland",4,11,Nagaland Tourism,IRCTC,Dec
+EV029,Kumbh Mela,Religious - Pilgrimage,State Government (Rotating: UP/MP/Uttarakhand/Maharashtra),Pilgrims / Devotees,88109596,Prayagraj / Haridwar / Ujjain / Nashik (Rotating),104,60,State Tourism Department,IRCTC,"Jan-Mar (Cyclical, every 3-12 yrs)"
+EV030,Durga Puja (Kolkata),Religious & Cultural Festival,West Bengal Government / Puja Committees,General Public / Devotees,124625783,Kolkata,57,26,West Bengal Tourism,Amul,Sep-Oct
+EV031,Ganesh Chaturthi (Mumbai),Religious & Cultural Festival,Brihanmumbai Sarvajanik Ganeshotsav Samiti / BMC,General Public / Devotees,98148515,Mumbai,23,30,Maharashtra Tourism,Reliance,Aug-Sep
+EV032,Rath Yatra (Puri),Religious Festival,Shree Jagannath Temple Administration,Pilgrims / Devotees,50110142,"Puri, Odisha",99,32,Odisha Tourism,IRCTC,Jun-Jul
+EV033,Sabarimala Pilgrimage Season,Religious - Pilgrimage,Travancore Devaswom Board,Pilgrims / Devotees,63574703,"Sabarimala, Kerala",120,12,Kerala Tourism,KSRTC,Nov-Jan
+EV034,Pushkar Camel Fair,Cultural - Rural Fair,Rajasthan Tourism Department,Tourists / Traders,569285,"Pushkar, Rajasthan",11,14,Rajasthan Tourism,RSRTC,Oct-Nov
+EV035,Surajkund International Crafts Mela,Cultural - Crafts Fair,Haryana Tourism / Surajkund Mela Authority,Tourists / Art & Craft Enthusiasts,1091250,"Faridabad, Haryana",4,7,Haryana Tourism,ONGC,Feb
+EV036,International Kite Festival (Ahmedabad),Cultural Festival,Gujarat Tourism,Tourists / General Public,1202259,Ahmedabad,8,3,Gujarat Tourism,Amul,Jan
+EV037,Rann Utsav,Cultural - Desert Festival,Gujarat Tourism Corporation,Tourists,952869,"Kutch, Gujarat",22,5,Gujarat Tourism,Amul,Nov-Feb
+EV038,Konark Dance Festival,Cultural - Classical Dance Festival,Odisha Tourism / Konark Natya Mandap,Art & Culture Enthusiasts,920939,"Konark, Odisha",25,11,Odisha Tourism,NALCO,Dec
+EV039,Khajuraho Dance Festival,Cultural - Classical Dance Festival,Madhya Pradesh Tourism Board,Art & Culture Enthusiasts,847843,"Khajuraho, Madhya Pradesh",24,3,MP Tourism,NTPC,Feb
+EV040,Jaipur Literature Festival,Cultural - Literary Festival,Teamwork Arts,Readers / Authors / Intellectuals,419555,Jaipur,6,10,Zee,Rajasthan Tourism,Jan
+EV041,Auto Expo,Trade Show - Automobile,CII / SIAM / ACMA,Auto Industry / Consumers,92649,Greater Noida / New Delhi,21,51,Ministry of Heavy Industries,SIAM,Jan-Feb (Biennial)
+EV042,India Mobile Congress,Trade Show - Telecom & Tech,COAI / Department of Telecommunications,Telecom & Tech Industry Professionals,355509,New Delhi,13,20,Reliance Jio,Ericsson,Oct
+EV043,India International Trade Fair (IITF),Trade Show - General Commerce,India Trade Promotion Organisation (ITPO),General Public / Traders,640559,New Delhi,17,50,ITPO,State Emporiums,Nov
+EV044,Aero India,Trade Show - Aerospace & Defence,Ministry of Defence,Defence & Aerospace Industry,211587,Bengaluru,29,46,Ministry of Defence,HAL,Feb (Biennial)
+EV045,DefExpo,Trade Show - Defence,Ministry of Defence,Defence Industry Professionals,136615,Rotating State,20,71,Ministry of Defence,DRDO,Oct-Nov (Biennial)
+EV046,Vibrant Gujarat Global Summit,Business - Investment Summit,Government of Gujarat,Investors / Business Leaders,24301,"Gandhinagar, Gujarat",20,11,Government of Gujarat,Reliance Industries,Jan (Biennial)
+EV047,Bharat Tex,Trade Show - Textiles,Ministry of Textiles / Textile Export Councils,Textile Industry Professionals,498359,New Delhi,18,44,Ministry of Textiles,Reliance Industries,Feb
+EV048,Lakme Fashion Week,Fashion - Trade & Runway Show,IMG Reliance / FDCI,Fashion Industry / Consumers,15121,Mumbai,3,4,Lakme (HUL),Reliance Brands,Mar & Oct (Bi-annual)
+EV049,FDCI India Couture Week,Fashion - Trade & Runway Show,Fashion Design Council of India (FDCI),Fashion Industry / HNI Consumers,8840,New Delhi,12,5,FDCI,Reliance Brands,Jul
+EV050,Bombay Times Fashion Week,Fashion - Runway Show,Times of India Group / BTFW,Fashion Industry / Consumers,21684,Mumbai,2,2,Times Group,Myntra,Mar
+EV051,Blenders Pride Fashion Tour,Fashion - Runway Show,Pernod Ricard India,Premium/Affluent Consumers,6956,Multiple Metro Cities,14,24,Blenders Pride,Pernod Ricard,Nov
+EV052,IIFA Awards,Entertainment - Film Awards,Wizcraft International Entertainment,Bollywood Fans / General Public,15055,Rotating International/Indian Venue,88,107,Reliance Jio,Colors TV,May-Jul
+EV053,Filmfare Awards,Entertainment - Film Awards,The Times Group / Filmfare,Bollywood Fans / General Public,15060,Mumbai,200,83,Colgate-Palmolive,Vivo,Jan-Feb
+EV054,National Film Awards,Entertainment - Film Awards,Directorate of Film Festivals (Govt of India),Film Industry / Cinephiles,13383,New Delhi,16,13,Ministry of Information & Broadcasting,Doordarshan,Aug-Oct
+EV055,International Film Festival of India (IFFI),Entertainment - Film Festival,Ministry of Information & Broadcasting,Cinephiles / Film Industry,5779,Goa,21,25,Government of Goa,ESG,Nov
+EV056,Mumbai Film Festival (MAMI),Entertainment - Film Festival,Mumbai Academy of Moving Image,Cinephiles / Film Industry,17269,Mumbai,13,9,Reliance Entertainment,Jio Studios,Oct-Nov
+EV057,Zee Cine Awards,Entertainment - Film Awards,Zee Entertainment Enterprises,Bollywood Fans / General Public,7361,Mumbai,113,54,Zee,Maruti Suzuki,Feb-Mar
+EV058,CNN-News18 Indian of the Year,Entertainment - Recognition Awards,Network18,General Public / Achievers,10675,New Delhi,13,18,Network18,Reliance Industries,Dec
+EV059,HT Leadership Summit,Business - Conference,Hindustan Times Media,Business Leaders / Policy Makers,18919,New Delhi,2,24,Hindustan Times,IndusInd Bank,Nov-Dec
+EV060,India Today Conclave,Business - Conference,India Today Group / Living Media,Business & Political Leaders,19309,New Delhi,10,18,India Today Group,Bajaj Finserv,Mar
+EV061,Mint India Investment Summit,Business - Investment Conference,HT Media (Mint),Investors / CXOs,2886,Mumbai,19,9,Mint / HT Media,Kotak Mahindra Bank,Sep-Oct
+EV062,NASSCOM Technology & Leadership Forum,Business - Tech Conference,NASSCOM,IT Industry Professionals,23067,Mumbai,22,18,NASSCOM,TCS,Feb
+EV063,CII Annual Session,Business - Industry Conference,Confederation of Indian Industry (CII),Business Leaders / Policymakers,10556,New Delhi,13,23,CII,Reliance Industries,Aug-Sep
+EV064,FICCI Annual Convention,Business - Industry Conference,Federation of Indian Chambers of Commerce & Industry (FICCI),Business Leaders / Policymakers,13655,New Delhi,20,14,FICCI,Tata Group,Dec
+EV065,Global Fintech Fest,Business - Fintech Conference,NPCI / Payments Council of India / FCC,Fintech Industry Professionals,18472,Mumbai,9,7,National Payments Corporation of India,Google Pay,Aug-Sep
+EV066,Bengaluru Tech Summit,Business - Technology Conference,Government of Karnataka / STPI,Tech Industry Professionals,8394,Bengaluru,20,21,Government of Karnataka,Infosys,Nov
+EV067,Startup Mahakumbh,Business - Startup & Innovation Summit,Multiple Industry Bodies / DPIIT-backed,Startup Founders / Investors,9429,New Delhi,6,13,DPIIT,Zomato,Mar-Apr
+EV068,World Economic Forum India Economic Summit,Business - Global Economic Summit,World Economic Forum,Global & Indian Business Leaders,2949,New Delhi,25,20,Government of India,Reliance Industries,Oct
+EV069,Habitat Comedy Festival,Entertainment - Comedy Festival,India Habitat Centre,Urban Youth / Comedy Fans,17474,New Delhi,7,18,India Habitat Centre,BookMyShow,Feb-Mar
+EV070,Sula Fest,Food & Wine - Music & Wine Festival,Sula Vineyards,Youth / Wine Enthusiasts,772009,"Nashik, Maharashtra",12,14,Sula Vineyards,Royal Enfield,Jan-Feb
+EV071,Grape Escapade,Food & Wine - Wine Festival,Sula Vineyards / York Winery,Wine Enthusiasts,782995,"Nashik, Mumbai, Pune",24,6,Sula Vineyards,York Winery,Dec-Jan
+EV072,National Street Food Festival,Food - Culinary Festival,National Association of Street Vendors of India (NASVI),General Public / Foodies,512343,New Delhi,4,8,NASVI,Swiggy,Jan
+EV073,The Great Indian Festival (Amazon),Retail - E-commerce Sale Event,Amazon India,Online Shoppers,23665178,Pan-India (Online),24,68,Amazon India,ICICI Bank,Sep-Oct
+EV074,Big Billion Days (Flipkart),Retail - E-commerce Sale Event,Flipkart Internet Pvt Ltd,Online Shoppers,41953999,Pan-India (Online),69,56,Flipkart,Axis Bank,Sep-Oct
+EV075,Myntra End of Reason Sale,Retail - Fashion E-commerce Sale,Myntra Designs Pvt Ltd,Online Fashion Shoppers,44820614,Pan-India (Online),34,70,Myntra,HDFC Bank,Jul & Dec
+EV076,India Design Week,Design - Trade Exhibition,Indian Design Confluence,Design Professionals / Architects,23646,New Delhi,4,11,Godrej Interio,Asian Paints,Feb
+EV077,Delhi Auto Show (Formerly Delhi Auto Expo satellite),Trade Show - Automobile,Automotive Component Manufacturers Association,Auto Industry / Consumers,289001,New Delhi,21,23,ACMA,Bosch India,Aug
+EV078,India Art Fair,Culture - Art Fair,Art Fairs (India) Pvt Ltd,Art Collectors / Enthusiasts,22835,New Delhi,9,20,BMW India,AZB & Partners,Feb
+EV079,Serendipity Arts Festival,Culture - Multi-Arts Festival,Serendipity Arts Foundation,Art & Culture Enthusiasts,880133,"Panaji, Goa",13,11,Serendipity Arts Foundation,Government of Goa,Dec
+EV080,Times Litfest,Culture - Literary Festival,The Times of India Group,Readers / Authors,4782,"Mumbai, Delhi",18,6,Times Group,HarperCollins India,Nov-Dec
+EV081,Kochi-Muziris Biennale,Culture - Contemporary Art Exhibition,Kochi Biennale Foundation,Art Enthusiasts / Tourists,316418,"Kochi, Kerala",3,9,Government of Kerala,BMW India,Dec-Mar (Biennial)
+EV082,Comic Con India,Entertainment - Pop Culture Convention,Reed Pop / Comic Con India,Youth / Pop-Culture Fans,17248,"New Delhi, Mumbai, Bengaluru, Hyderabad",20,5,Amazon Prime Video,OnePlus,Nov-Dec (Multi-city)
+EV083,VOOT Comic Con,Entertainment - Pop Culture Convention,Reed Pop / Comic Con India,Youth / Anime & Gaming Fans,21525,"Mumbai, Bengaluru",25,17,Voot,Games24x7,Nov-Dec
+EV084,India Gaming Show,Entertainment - Gaming & Esports Expo,Novojoy Media,Gamers / Esports Enthusiasts,13482,"Bengaluru, Hyderabad",5,15,MPL,AMD,Nov
+EV085,Nazara Nodwin Esports Championship,Sports - Esports,Nodwin Gaming (Nazara Technologies),Gamers / Esports Fans,2701,Multiple Cities,1,24,Nazara Technologies,Red Bull,Year-round (Seasons)
+EV086,Kolkata Book Fair,Culture - Book Fair,Publishers & Booksellers Guild,Readers / Students,1412466,Kolkata,4,12,Government of West Bengal,Boi Mela Committee,Jan-Feb
+EV087,World Book Fair (New Delhi),Culture - Book Fair,National Book Trust India,Readers / Publishers,342029,New Delhi,12,13,National Book Trust,Ministry of Education,Jan-Feb (Biennial)
+EV088,Ranthambore Festival,Culture - Wildlife & Heritage Festival,Rajasthan Tourism,Tourists / Wildlife Enthusiasts,492587,"Sawai Madhopur, Rajasthan",3,4,Rajasthan Tourism,Taj Hotels,Nov-Dec
+EV089,Goa Carnival,Cultural Festival,Government of Goa / Goa Tourism,Tourists / General Public,1101012,"Panaji, Goa",8,9,Goa Tourism,Kingfisher,Feb
+EV090,Elephanta Festival,Culture - Classical Dance & Music Festival,Maharashtra Tourism Development Corporation,Tourists / Art Enthusiasts,593927,"Elephanta Island, Maharashtra",15,13,MTDC,Taj Hotels,Feb
+EV091,Taj Mahotsav,Cultural Festival,Uttar Pradesh Tourism,Tourists / Craft Enthusiasts,177726,"Agra, Uttar Pradesh",23,6,UP Tourism,ITC Hotels,Feb
+EV092,Mysuru Dasara,Cultural & Religious Festival,Government of Karnataka,Tourists / Devotees,127986652,"Mysuru, Karnataka",106,50,Government of Karnataka,KSTDC,Sep-Oct
+EV093,Modhera Dance Festival (Uttarardh Mahotsav),Culture - Classical Dance Festival,Gujarat Tourism,Art & Culture Enthusiasts,1133726,"Modhera, Gujarat",12,14,Gujarat Tourism,GSFC,Jan
+EV094,Thrissur Pooram,Religious & Cultural Festival,Thrissur Devaswom Board,Pilgrims / Devotees / Tourists,139660363,"Thrissur, Kerala",37,13,Kerala Tourism,KSRTC,Apr-May
+EV095,Nagaur Fair,Cultural - Rural Cattle Fair,Rajasthan Tourism Department,Traders / Tourists,1120694,"Nagaur, Rajasthan",2,7,Rajasthan Tourism,RSRTC,Jan-Feb
+EV096,Chennai Music Season (Margazhi),Culture - Classical Music Festival,Music Academy Madras / Various Sabhas,Classical Music Connoisseurs,434005,Chennai,16,12,The Music Academy,Sundaram Finance,Dec-Jan
+EV097,Attukal Pongala,Religious Festival,Attukal Bhagavathy Temple Trust,Devotees (Women),45212298,"Thiruvananthapuram, Kerala",42,31,Kerala Tourism,KSRTC,Feb-Mar
+EV098,Nehru Trophy Boat Race,Sports - Traditional Boat Race,Kerala Tourism / District Administration,Tourists / Locals,302364,"Alappuzha, Kerala",15,6,Kerala Tourism,KTDC,Aug

@@ -1,0 +1,1 @@
+SELECT * FROM sponsoriq.event_master;

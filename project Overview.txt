@@ -1,0 +1,334 @@
+SponsorIQ – Brand Partnership Intelligence Platform
+End-to-End Data Analytics & Business Intelligence Project
+1. Project Overview
+
+Today's sponsorship industry is highly fragmented. Companies invest crores in sponsorships, yet many decisions are driven by intuition, relationships, or limited historical data rather than a structured evaluation process.
+
+There is no centralized intelligence platform that helps businesses answer questions such as:
+
+Which brands are most likely to sponsor a particular event?
+Which events best align with a brand's audience and marketing objectives?
+Which industries are increasing sponsorship investments?
+Which opportunities offer the highest potential ROI?
+Who are the decision-makers within target organizations?
+Which sponsorship opportunities deserve priority?
+
+To address this problem, this project builds SponsorIQ, an end-to-end Brand Partnership Intelligence Platform that integrates multiple business datasets into a single analytics solution. The platform combines SQL, Power BI, ETL, DAX, and business intelligence techniques to help organizations make data-driven sponsorship decisions.
+
+2. Business Problem
+
+Organizations often face several challenges when identifying sponsorship opportunities:
+
+Sponsorship information is scattered across multiple Excel files.
+Decision-makers lack a centralized view of brands, events, budgets, and historical sponsorships.
+Brand-event matching is performed manually.
+Marketing teams spend significant time researching companies before outreach.
+Sales teams lack visibility into pipeline status and follow-up progress.
+Executives cannot easily identify high-potential sponsorship opportunities.
+
+These limitations result in slower decision-making, inefficient outreach, and missed partnership opportunities.
+
+3. Project Objective
+
+The objective of SponsorIQ is to build a centralized Business Intelligence platform capable of:
+
+Managing brand information
+Tracking sponsorship history
+Monitoring marketing investments
+Managing CRM activities
+Recommending suitable sponsorship opportunities
+Providing executive-level dashboards for strategic decision-making
+4. Technology Stack
+Layer	Technology
+Data Source	Microsoft Excel
+Database	MySQL
+Data Cleaning	Power Query
+Query Language	SQL
+Analytics	Power BI
+Business Logic	DAX
+Documentation	GitHub
+Future Enhancement	Python & Machine Learning
+5. Dataset Architecture
+
+The project consists of multiple interconnected datasets.
+
+Brand Master
+
+Contains detailed information about companies including:
+
+Revenue
+Marketing Spend
+Sponsorship Budget
+Industry
+Target Audience
+Headquarters
+Growth
+Event Master
+
+Contains event information including:
+
+Event Category
+Audience
+Sponsorship Cost
+Footfall
+Organizers
+Reach
+Sponsorship History
+
+Maintains historical sponsorship records.
+
+Used for:
+
+ROI Analysis
+Sponsorship Trends
+Investment Analysis
+Decision Makers
+
+Stores:
+
+Marketing Heads
+CMOs
+Brand Managers
+Contact Information
+
+Useful for CRM and sales outreach.
+
+Sales CRM
+
+Tracks:
+
+Meetings
+Follow-ups
+Proposal Status
+Deal Stage
+Probability
+Deal Value
+Marketing Campaigns
+
+Tracks marketing initiatives including:
+
+Budget
+Campaign Duration
+ROI
+Platform
+Reach
+Industry Benchmark
+
+Stores industry averages such as:
+
+Revenue
+Marketing Spend
+Sponsorship Budget
+Growth
+
+Useful for comparative analysis.
+
+Calendar
+
+Supports Time Intelligence in Power BI.
+
+Used for:
+
+Monthly Trends
+Quarterly Reports
+Yearly Analysis
+Brand-IP Fit
+
+The most important table.
+
+Acts as an intelligent recommendation engine by evaluating:
+
+Industry Match
+Audience Match
+Budget Compatibility
+Geography
+Brand Values
+Competition
+
+Generates an Overall Match Score for each Brand–Event combination.
+
+6. Database Design
+
+Instead of connecting Excel directly to Power BI, all datasets are first migrated into MySQL.
+
+This provides:
+
+Better scalability
+Data integrity
+Primary Keys
+Foreign Keys
+Relational Modeling
+Faster querying
+Interview-ready architecture
+
+The database follows a relational schema where Brand Master and Event Master serve as parent tables while CRM, Sponsorship History, Marketing Campaigns, and Brand-IP Fit are connected through foreign key relationships.
+
+7. ETL Process
+
+The project follows an ETL pipeline.
+
+Extract
+
+Data is collected from multiple Excel worksheets.
+
+↓
+
+Transform
+
+Using Power Query:
+
+Remove duplicates
+Handle missing values
+Standardize dates
+Remove special characters
+Convert currencies
+Correct data types
+
+↓
+
+Load
+
+The cleaned datasets are imported into MySQL tables.
+
+8. SQL Phase
+
+SQL is used to:
+
+Create database schema
+Define relationships
+Import data
+Query business insights
+
+Examples include:
+
+Highest marketing spenders
+Brands with largest sponsorship budgets
+Industry-wise revenue analysis
+Event popularity
+Sponsorship trends
+CRM pipeline reports
+9. Power BI Development
+
+Power BI connects directly to MySQL.
+
+The model includes:
+
+Relationships
+Star Schema
+Measures
+KPIs
+Calculated Columns
+DAX Measures
+Drill-through Reports
+Interactive Filters
+10. Dashboard Pages
+Executive Dashboard
+
+Provides an overview of:
+
+Total Brands
+Events
+Revenue
+Marketing Spend
+Sponsorship Budget
+Brand Intelligence Dashboard
+
+Analyzes:
+
+Industry
+Revenue
+Growth
+Marketing Investments
+Sponsorship Dashboard
+
+Tracks:
+
+Investment Trends
+Sponsorship Types
+ROI
+Historical Partnerships
+CRM Dashboard
+
+Displays:
+
+Pipeline
+Meetings
+Proposal Status
+Deal Stage
+Win Rate
+Marketing Dashboard
+
+Measures:
+
+Campaign Budget
+ROI
+Platform Performance
+Reach
+Industry Benchmark Dashboard
+
+Compares industries based on:
+
+Revenue
+Growth
+Marketing Spend
+Brand-IP Recommendation Dashboard
+
+The flagship dashboard.
+
+Ranks brands according to:
+
+Match Score
+Audience Fit
+Budget Fit
+Industry Compatibility
+Recommended Sponsorship Role
+
+This serves as a decision-support tool for sponsorship strategy.
+
+11. Business Impact
+
+The platform helps organizations:
+
+Reduce manual sponsorship research.
+Identify high-potential partnership opportunities.
+Improve sales pipeline visibility.
+Make sponsorship decisions using data rather than assumptions.
+Centralize business information into a single analytics platform.
+Increase operational efficiency through integrated reporting.
+12. Future Enhancements
+
+The project can be extended with:
+
+Machine Learning–based sponsorship prediction
+AI recommendation engine
+Automated lead scoring
+Real-time API integrations
+Streamlit web application
+Predictive analytics
+Market trend forecasting
+Sentiment analysis of brand campaigns
+Final Project Flow
+Excel Files
+     │
+     ▼
+Data Cleaning (Power Query)
+     │
+     ▼
+MySQL Database
+     │
+     ▼
+SQL Queries & Data Validation
+     │
+     ▼
+Power BI Data Model
+     │
+     ▼
+DAX Measures & KPIs
+     │
+     ▼
+Interactive Dashboards
+     │
+     ▼
+Business Insights & Sponsorship Recommendations
+
+This structure mirrors a real-world analytics workflow used in many organizations. It demonstrates the complete lifecycle of a BI solution—from raw data ingestion and database design to analytics, visualization, and business decision support—making it a strong portfolio project for data analyst roles.
